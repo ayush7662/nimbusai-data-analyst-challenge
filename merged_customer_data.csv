@@ -1,0 +1,1841 @@
+customer_id,company_name,contact_email,plan_id,status,start_date,end_date,user_id,event_type,timestamp,session_duration,churned,used_feature_x
+1,Rush Platform,michael.baker@corp.net,1,cancelled,2023-01-31,2023-04-20,,,,,True,False
+1,Rush Platform,michael.baker@corp.net,5,cancelled,2023-04-20,2024-02-26,,,,,True,False
+2,TrekStack,emily.moore+work@startup.co,1,paused,2023-06-09,,,,,,False,False
+3,Wave Group,olga.robinson@wavegroup.com,1,active,2023-10-28,,,,,,False,False
+4,KeenSoftware,lars.jackson@outlook.com,1,expired,2024-04-09,2024-08-10,,,,,True,False
+4,KeenSoftware,lars.jackson@outlook.com,6,active,2024-08-10,,,,,,False,False
+5,QuestAnalytics,joshua.green@yahoo.com,1,cancelled,2023-10-04,2024-10-01,,,,,True,False
+5,QuestAnalytics,joshua.green@yahoo.com,3,active,2024-10-01,,,,,,False,False
+6,RiftWorks,sofia.williams@outlook.com,1,paused,2025-08-23,,,,,,False,False
+7,PeakIO,elizabeth.taylor@tech.dev,1,active,2024-08-21,,,,,,False,False
+8,Data Systems,mei.baker@startup.co,1,active,2024-04-24,,,,,,False,False
+9,Iris Hub,lisa.davis@gmail.com,1,active,2025-06-15,,,,,,False,False
+10,GlowSystems,steven.hill@yahoo.com,5,active,2025-03-08,,,,,,False,False
+11,Xenon Cloud,andrew.garcia@outlook.com,2,active,2024-06-29,,,,,,False,False
+12,QuarkDev,priya.patel@startup.co,6,active,2024-10-27,,,,,,False,False
+13,Vertex Labs,Emily.Anderson@gmail.com,1,cancelled,2025-07-16,2025-09-16,,,,,True,False
+14,Keen Ventures,hassan.clark@startup.co,1,cancelled,2024-02-25,2025-01-03,,,,,True,False
+14,Keen Ventures,hassan.clark@startup.co,5,cancelled,2025-01-03,2025-05-17,,,,,True,False
+14,Keen Ventures,hassan.clark@startup.co,6,active,2025-05-17,,,,,,False,False
+15,DataLogic,jessica.gonzalez@startup.co,2,active,2024-04-18,,,,,,False,False
+16,Iris Labs,william.clark@startup.co,2,active,2023-06-18,,,,,,False,False
+17,DriftCloud,wei.rivera@hotmail.com,2,cancelled,2024-08-16,2024-12-16,,,,,True,False
+17,DriftCloud,wei.rivera@hotmail.com,5,cancelled,2024-12-16,2025-04-02,,,,,True,False
+17,DriftCloud,wei.rivera@hotmail.com,2,active,2025-04-02,,,,,,False,False
+18,LinkIO,patricia.allen@linkio.com,4,active,2025-06-01,,,,,,False,False
+19,Flow Corp,dorothy.lee@company.io,3,expired,2024-02-10,2025-01-26,,,,,True,False
+19,Flow Corp,dorothy.lee@company.io,4,cancelled,2025-01-26,2025-07-25,,,,,True,False
+20,AcmeHQ,paul.wilson@company.io,6,active,2025-06-19,,,,,,False,False
+21,NexusStack,karen.nelson@nexusstack.com,4,active,2023-04-20,,,,,,False,False
+22,Onyx Analytics,ana.brown@onyxanalytics.com,5,active,2023-12-08,,,,,,False,False
+23,KitePro,james.davis@yahoo.com,6,cancelled,2025-05-04,2025-09-11,,,,,True,False
+23,KitePro,james.davis@yahoo.com,1,cancelled,2025-09-11,2025-11-10,,,,,True,False
+23,KitePro,james.davis@yahoo.com,3,active,2025-11-10,,,,,,False,False
+24,TidalStudio,daniel.wilson@company.io,3,active,2025-06-24,,,,,,False,False
+25,PulseSolutions,mary.lopez@startup.co,1,active,2025-06-03,,,,,,False,False
+26,YieldAI,daniel.martin@yieldai.com,4,cancelled,2023-07-17,2023-12-01,,,,,True,False
+26,YieldAI,daniel.martin@yieldai.com,6,active,2023-12-01,,,,,,False,False
+27,WaveStack,lisa.johnson@yahoo.com,1,cancelled,2023-09-29,2024-04-14,,,,,True,False
+27,WaveStack,lisa.johnson@yahoo.com,3,expired,2024-04-14,2024-09-22,,,,,True,False
+27,WaveStack,lisa.johnson@yahoo.com,4,cancelled,2024-09-22,2025-02-03,,,,,True,False
+28,Keen Software,margaret.smith@hotmail.com,3,cancelled,2023-03-13,2024-01-12,,,,,True,False
+28,Keen Software,margaret.smith@hotmail.com,3,active,2024-01-12,,,,,,False,False
+29,QuestSystems,wei.clark@questsystems.com,2,expired,2024-03-06,2024-12-20,,,,,True,False
+29,QuestSystems,wei.clark@questsystems.com,3,expired,2024-12-20,2025-06-05,,,,,True,False
+29,QuestSystems,wei.clark@questsystems.com,5,active,2025-06-05,,,,,,False,False
+30,NexusVentures,karen.jackson@corp.net,2,active,2024-04-21,,,,,,False,False
+31,VineSolutions,aisha.flores@hotmail.com,4,active,2023-08-19,,,,,,False,False
+32,Arc Stack,carlos.harris@gmail.com,3,active,2025-05-31,,,,,,False,False
+33,SageDev,sandra.rodriguez@tech.dev,5,active,2025-08-30,,,,,,False,False
+34,JadeHQ,mark.taylor@protonmail.com,3,cancelled,2024-06-17,2025-02-04,,,,,True,False
+34,JadeHQ,mark.taylor@protonmail.com,4,active,2025-02-04,,,,,,False,False
+35,PulseAnalytics,david.martinez@pulseanalytics.com,2,active,2024-02-22,,,,,,False,False
+36,YieldHub,Matthew.Walker@startup.co,5,active,2025-09-03,,,,,,False,False
+37,Flux Labs,fatima.tanaka@enterprise.com,3,cancelled,2025-10-01,2025-12-01,,,,,True,False
+37,Flux Labs,fatima.tanaka@enterprise.com,4,active,2025-12-01,,,,,,False,False
+38,FlowStack,patricia.taylor@company.io,2,expired,2025-06-19,2025-09-16,,,,,True,False
+38,FlowStack,patricia.taylor@company.io,6,active,2025-09-16,,,,,,False,False
+39,QuarkTech,daniel.anderson@gmail.com,1,active,2025-08-30,,,,,,False,False
+40,PulseDigital,sandra.hall@corp.net,2,active,2025-02-04,,,,,,False,False
+41,TidalSystems,fatima.harris@outlook.com,2,active,2025-04-30,,,,,,False,False
+42,KeenAI,robert.allen+nimbus@keenai.com,5,active,2025-09-10,,,,,,False,False
+43,TrekDigital,sarah.flores@enterprise.com,5,cancelled,2025-04-25,2025-07-29,,,,,True,False
+43,TrekDigital,sarah.flores@enterprise.com,4,expired,2025-07-29,2025-10-28,,,,,True,False
+43,TrekDigital,sarah.flores@enterprise.com,1,active,2025-10-28,,,,,,False,False
+44,Drift Ventures,lisa.johnson@enterprise.com,6,expired,2025-03-27,2025-10-06,,,,,True,False
+44,Drift Ventures,lisa.johnson@enterprise.com,1,active,2025-10-06,,,,,,False,False
+45,JadeLabs,olga.clark@enterprise.com,1,active,2024-05-17,,,,,,False,False
+46,SagePlatform,kimberly.king@tech.dev,1,active,2024-12-20,,,,,,False,False
+47,UltraSystems,richard.wilson@corp.net,4,expired,2024-06-21,2025-02-18,,,,,True,False
+47,UltraSystems,richard.wilson@corp.net,3,active,2025-02-18,,,,,,False,False
+48,SyncPlatform,paul.rodriguez@tech.dev,3,expired,2025-08-24,2025-10-28,,,,,True,False
+48,SyncPlatform,paul.rodriguez@tech.dev,2,cancelled,2025-10-28,2025-12-28,,,,,True,False
+48,SyncPlatform,paul.rodriguez@tech.dev,6,cancelled,2025-12-28,2025-10-29,,,,,True,False
+49,EchoIO,kenji.walker@echoio.com,1,active,2024-10-06,,,,,,False,False
+50,Warp Corp,joseph.singh@enterprise.com,1,expired,2024-08-25,2024-11-07,,,,,True,False
+50,Warp Corp,joseph.singh@enterprise.com,2,expired,2024-11-07,2025-04-03,,,,,True,False
+50,Warp Corp,joseph.singh@enterprise.com,1,active,2025-04-03,,,,,,False,False
+51,WarpSoftware,william.thomas@gmail.com,3,active,2024-12-06,,,,,,False,False
+52,Orbit Analytics,emily.nelson@outlook.com,1,cancelled,2024-10-25,2025-03-07,,,,,True,False
+53,MistPro,linda.robinson@protonmail.com,3,expired,2024-05-20,2024-12-20,,,,,True,False
+53,MistPro,linda.robinson@protonmail.com,1,active,2024-12-20,,,,,,False,False
+54,Orbit Ops,emily.johnson@protonmail.com,1,active,2025-02-20,,,,,,False,False
+55,LunaVentures,donald.thompson@outlook.com,2,cancelled,2023-12-04,2024-05-31,,,,,True,False
+55,LunaVentures,donald.thompson@outlook.com,4,active,2024-05-31,,,,,,False,False
+56,Flow Works,lars.sanchez@gmail.com,2,expired,2024-07-09,2025-03-08,,,,,True,False
+56,Flow Works,lars.sanchez@gmail.com,5,active,2025-03-08,,,,,,False,False
+57,OnyxHQ,david.jackson@onyxhq.com,4,active,2024-10-07,,,,,,False,False
+58,Hub HQ,ashley.rivera@startup.co,3,active,2025-09-30,,,,,,False,False
+59,MistDev,sarah.singh@tech.dev,2,active,2023-01-03,,,,,,False,False
+60,JetHQ,priya.wright@hotmail.com,1,cancelled,2023-09-02,2024-08-08,,,,,True,False
+60,JetHQ,priya.wright@hotmail.com,5,active,2024-08-08,,,,,,False,False
+61,UltraPro,matthew.nelson@yahoo.com,1,cancelled,2023-02-07,2025-09-10,,,,,True,False
+62,GridDev,anthony.adams@protonmail.com,3,cancelled,2024-12-10,2025-08-24,,,,,True,False
+62,GridDev,anthony.adams@protonmail.com,3,active,2025-08-24,,,,,,False,False
+63,UltraStack,john.flores@protonmail.com,1,cancelled,2025-02-03,2025-06-29,,,,,True,False
+63,UltraStack,john.flores@protonmail.com,4,cancelled,2025-06-29,2025-04-12,,,,,True,False
+64,CoreSolutions,charles.muller@coresolutions.com,2,active,2024-06-27,,,,,,False,False
+65,Yield Group,emily.martinez@enterprise.com,1,active,2023-01-10,,,,,,False,False
+66,EdgeHQ,margaret.hall@hotmail.com,1,active,2025-05-23,,,,,,False,False
+67,Quest Logic,kenji.baker@corp.net,1,active,2025-05-02,,,,,,False,False
+68,Quark Ops,fatima.santos@gmail.com,6,cancelled,2024-03-27,2025-02-03,,,,,True,False
+69,Ion Dynamics,steven.moore@enterprise.com,1,active,2023-10-30,,,,,,False,False
+70,JetHub,fatima.sanchez@jethub.com,1,expired,2024-02-09,2024-12-20,,,,,True,False
+70,JetHub,fatima.sanchez@jethub.com,4,cancelled,2024-12-20,2025-04-30,,,,,True,False
+71,LinkLogic,Joseph.Walker@tech.dev,5,cancelled,2024-09-16,2025-08-02,,,,,True,False
+71,LinkLogic,Joseph.Walker@tech.dev,7,active,2025-08-02,,,,,,False,False
+72,Cloud AI,michael.thomas@enterprise.com,1,expired,2025-08-30,2025-10-30,,,,,True,False
+72,Cloud AI,michael.thomas@enterprise.com,2,active,2025-10-30,,,,,,False,False
+73,LinkPro,michael.santos@linkpro.com,2,active,2024-01-15,,,,,,False,False
+74,GridOps,patricia.sanchez@gridops.com,3,active,2023-08-06,,,,,,False,False
+75,NovaTech,susan.ivanov@yahoo.com,1,cancelled,2024-09-02,2025-01-22,,,,,True,False
+76,Wave Platform,barbara.taylor@waveplatform.com,3,expired,2023-03-07,2023-10-21,,,,,True,False
+76,Wave Platform,barbara.taylor@waveplatform.com,2,active,2023-10-21,,,,,,False,False
+77,Nexus AI,dorothy.martin@gmail.com,4,cancelled,2025-05-17,2025-08-02,,,,,True,False
+77,Nexus AI,dorothy.martin@gmail.com,4,active,2025-08-02,,,,,,False,False
+78,Rush Group,yuki.lee@protonmail.com,5,active,2024-09-11,,,,,,False,False
+79,PeakStack,margaret.lewis@enterprise.com,4,cancelled,2025-01-17,2025-07-31,,,,,True,False
+80,JetOps,jennifer.ramirez@yahoo.com,5,active,2024-08-23,,,,,,False,False
+81,WaveOps,patricia.jackson@corp.net,4,expired,2023-06-08,2023-12-15,,,,,True,False
+81,WaveOps,patricia.jackson@corp.net,5,active,2023-12-15,,,,,,False,False
+82,Orbit Corp,donna.baker+test@orbitcorp.com,4,active,2023-10-07,,,,,,False,False
+83,LunaDigital,ahmed.green@tech.dev,1,active,2024-03-05,,,,,,False,False
+84,ZealVentures,william.kim@protonmail.com,1,active,2024-03-10,,,,,,False,False
+85,Rift Ops,Wei.Martin@riftops.com,1,active,2023-07-29,,,,,,False,False
+86,Flux Pro,matthew.wright@fluxpro.com,4,active,2025-06-01,,,,,,False,False
+87,UltraVentures,anthony.jackson+nimbus@yahoo.com,4,cancelled,2024-09-24,2025-08-02,,,,,True,False
+87,UltraVentures,anthony.jackson+nimbus@yahoo.com,2,active,2025-08-02,,,,,,False,False
+88,FlowCorp,betty.king@company.io,1,cancelled,2025-03-08,2025-10-22,,,,,True,False
+89,WavePro,jessica.miller@corp.net,6,active,2025-02-16,,,,,,False,False
+90,DriftHub,andrew.adams@company.io,3,active,2023-03-11,,,,,,False,False
+91,LinkAI,mark.williams@outlook.com,4,expired,2025-09-27,2025-11-27,,,,,True,False
+91,LinkAI,mark.williams@outlook.com,3,active,2025-11-27,,,,,,False,False
+92,DriftVentures,mark.tanaka@corp.net,5,cancelled,2023-06-04,2023-09-26,,,,,True,False
+92,DriftVentures,mark.tanaka@corp.net,1,active,2023-09-26,,,,,,False,False
+93,TrekTech,yuki.lewis@corp.net,4,active,2024-01-17,,,,,,False,False
+94,OnyxStack,fatima.harris@corp.net,1,cancelled,2023-12-08,2025-06-05,,,,,True,False
+95,PeakNet,jennifer.martin@company.io,4,expired,2024-11-17,2025-06-29,,,,,True,False
+95,PeakNet,jennifer.martin@company.io,3,cancelled,2025-06-29,2025-10-20,,,,,True,False
+95,PeakNet,jennifer.martin@company.io,5,active,2025-10-20,,,,,,False,False
+96,PeakOps,karen.lopez@enterprise.com,2,expired,2023-05-21,2024-05-12,,,,,True,False
+96,PeakOps,karen.lopez@enterprise.com,6,cancelled,2024-05-12,2024-09-21,,,,,True,False
+97,QuestWorks,matthew.martinez@corp.net,2,active,2023-06-19,,,,,,False,False
+98,Vine HQ,karen.tanaka@hotmail.com,2,expired,2025-08-27,2025-10-30,,,,,True,False
+98,Vine HQ,karen.tanaka@hotmail.com,3,active,2025-10-30,,,,,,False,False
+99,GlowDev,hassan.hill@enterprise.com,1,expired,2024-07-21,2025-03-17,,,,,True,False
+99,GlowDev,hassan.hill@enterprise.com,3,active,2025-03-17,,,,,,False,False
+100,SyncTech,elizabeth.santos@hotmail.com,2,active,2025-06-24,,,,,,False,False
+101,PulseLogic,charles.miller@pulselogic.com,1,active,2023-10-21,,,,,,False,False
+102,Flow Labs,kimberly.patel@protonmail.com,2,cancelled,2023-05-05,2025-03-17,,,,,True,False
+103,EdgeSystems,mary.green@yahoo.com,2,active,2023-01-02,,,,,,False,False
+104,Hive Dynamics,kimberly.johnson@startup.co,2,expired,2023-09-17,2024-06-28,,,,,True,False
+104,Hive Dynamics,kimberly.johnson@startup.co,4,active,2024-06-28,,,,,,False,False
+105,UnitOps,priya.perez@company.io,1,cancelled,2023-06-29,2024-04-02,,,,,True,False
+105,UnitOps,priya.perez@company.io,5,cancelled,2024-04-02,2025-02-10,,,,,True,False
+105,UnitOps,priya.perez@company.io,3,active,2025-02-10,,,,,,False,False
+106,OnyxSolutions,john.jackson@gmail.com,2,expired,2023-11-14,2024-08-30,,,,,True,False
+106,OnyxSolutions,john.jackson@gmail.com,3,expired,2024-08-30,2024-11-30,,,,,True,False
+106,OnyxSolutions,john.jackson@gmail.com,1,active,2024-11-30,,,,,,False,False
+107,QuarkAI,Kenji.Singh@quarkai.com,1,cancelled,2024-01-12,2024-08-20,,,,,True,False
+107,QuarkAI,Kenji.Singh@quarkai.com,3,active,2024-08-20,,,,,,False,False
+108,VertexSolutions,sarah.tanaka@startup.co,2,cancelled,2025-04-22,2025-07-18,,,,,True,False
+109,TidalHQ,mark.thompson@company.io,3,active,2024-03-21,,,,,,False,False
+110,EdgeOps,fatima.hernandez@corp.net,2,cancelled,2024-03-24,2024-06-14,,,,,True,False
+111,XenonLogic,fatima.lewis@outlook.com,5,active,2024-06-26,,,,,,False,False
+112,Hive Logic,thomas.singh@corp.net,6,active,2025-07-27,,,,,,False,False
+113,CoreTech,daniel.rivera@protonmail.com,2,cancelled,2024-12-29,2025-04-09,,,,,True,False
+113,CoreTech,daniel.rivera@protonmail.com,4,active,2025-04-09,,,,,,False,False
+114,Meta Digital,mary.white@metadigital.com,6,cancelled,2025-06-24,2025-09-22,,,,,True,False
+115,HiveCorp,david.lee@tech.dev,3,cancelled,2025-06-18,2025-10-24,,,,,True,False
+115,HiveCorp,david.lee@tech.dev,4,cancelled,2025-10-24,2025-12-23,,,,,True,False
+115,HiveCorp,david.lee@tech.dev,3,active,2025-12-23,,,,,,False,False
+116,BeamDev,dorothy.martinez@hotmail.com,1,expired,2025-08-21,2025-10-22,,,,,True,False
+116,BeamDev,dorothy.martinez@hotmail.com,2,expired,2025-10-22,2025-12-21,,,,,True,False
+116,BeamDev,dorothy.martinez@hotmail.com,3,active,2025-12-21,,,,,,False,False
+117,Onyx Cloud,steven.adams@yahoo.com,3,expired,2024-10-01,2024-12-17,,,,,True,False
+117,Onyx Cloud,steven.adams@yahoo.com,1,active,2024-12-17,,,,,,False,False
+118,Peak Hub,susan.singh@gmail.com,2,active,2024-10-04,,,,,,False,False
+119,EchoPlatform,sandra.jones@startup.co,2,cancelled,2023-07-28,2024-05-03,,,,,True,False
+119,EchoPlatform,sandra.jones@startup.co,4,active,2024-05-03,,,,,,False,False
+120,UnitStudio,steven.scott@outlook.com,1,cancelled,2023-09-11,2023-11-19,,,,,True,False
+121,KeenPro,steven.robinson@keenpro.com,5,active,2024-02-07,,,,,,False,False
+122,Sync IO,fatima.walker+work@syncio.com,1,cancelled,2023-09-28,2024-02-20,,,,,True,False
+122,Sync IO,fatima.walker+work@syncio.com,2,active,2024-02-20,,,,,,False,False
+123,Jade Software,robert.harris@protonmail.com,2,active,2024-09-30,,,,,,False,False
+124,XenonWorks,richard.hill@xenonworks.com,4,active,2024-12-31,,,,,,False,False
+125,UltraGroup,dmitri.martin@tech.dev,3,cancelled,2024-12-26,2025-04-29,,,,,True,False
+125,UltraGroup,dmitri.martin@tech.dev,4,active,2025-04-29,,,,,,False,False
+126,RiftSystems,kenji.hall@protonmail.com,4,expired,2025-03-12,2025-10-29,,,,,True,False
+126,RiftSystems,kenji.hall@protonmail.com,6,active,2025-10-29,,,,,,False,False
+127,Onyx Pro,elizabeth.ivanov@outlook.com,4,cancelled,2024-03-27,2024-07-22,,,,,True,False
+127,Onyx Pro,elizabeth.ivanov@outlook.com,5,active,2024-07-22,,,,,,False,False
+128,GlowHub,olga.brown@tech.dev,2,active,2024-11-09,,,,,,False,False
+129,IrisWorks,fatima.adams@enterprise.com,4,active,2023-09-10,,,,,,False,False
+130,ZealCloud,charles.walker@protonmail.com,3,expired,2024-08-10,2025-02-18,,,,,True,False
+130,ZealCloud,charles.walker@protonmail.com,3,active,2025-02-18,,,,,,False,False
+131,Sync Net,raj.taylor@tech.dev,4,expired,2024-07-29,2025-07-29,,,,,True,False
+131,Sync Net,raj.taylor@tech.dev,6,active,2025-07-29,,,,,,False,False
+132,PulseAI,joseph.brown@pulseai.com,2,cancelled,2025-02-28,2025-10-29,,,,,True,False
+133,Sync Works,lars.garcia@gmail.com,2,active,2023-06-29,,,,,,False,False
+134,Vine Cloud,karen.torres@company.io,4,active,2024-10-18,,,,,,False,False
+135,RushSoftware,sandra.adams@company.io,1,active,2024-08-04,,,,,,False,False
+136,Ion IO,thomas.harris@company.io,2,active,2025-01-10,,,,,,False,False
+137,Tidal Solutions,yuki.singh@protonmail.com,4,active,2023-08-15,,,,,,False,False
+138,ArcNet,hassan.nelson@corp.net,1,expired,2023-03-25,2023-06-18,,,,,True,False
+138,ArcNet,hassan.nelson@corp.net,3,active,2023-06-18,,,,,,False,False
+139,DataDynamics,elizabeth.hernandez@outlook.com,1,cancelled,2025-01-04,2025-04-13,,,,,True,False
+139,DataDynamics,elizabeth.hernandez@outlook.com,5,cancelled,2025-04-13,2025-07-22,,,,,True,False
+139,DataDynamics,elizabeth.hernandez@outlook.com,5,active,2025-07-22,,,,,,False,False
+140,DriftDigital,kimberly.robinson@gmail.com,2,expired,2025-04-16,2025-08-16,,,,,True,False
+140,DriftDigital,kimberly.robinson@gmail.com,4,cancelled,2025-08-16,2025-06-27,,,,,True,False
+141,IrisAI,christopher.clark@startup.co,5,active,2025-07-01,,,,,,False,False
+142,YieldTech,david.adams@tech.dev,5,cancelled,2023-05-11,2023-08-27,,,,,True,False
+142,YieldTech,david.adams@tech.dev,2,expired,2023-08-27,2024-05-16,,,,,True,False
+142,YieldTech,david.adams@tech.dev,5,active,2024-05-16,,,,,,False,False
+143,IrisCorp,sandra.thompson@iriscorp.com,2,cancelled,2024-11-07,2025-10-15,,,,,True,False
+143,IrisCorp,sandra.thompson@iriscorp.com,2,active,2025-10-15,,,,,,False,False
+144,Mist AI,yuki.brown@enterprise.com,6,active,2023-08-11,,,,,,False,False
+145,Unit Ventures,lars.baker@yahoo.com,4,active,2024-06-17,,,,,,False,False
+146,OnyxOps,raj.nelson@startup.co,4,active,2023-11-04,,,,,,False,False
+147,PulsePlatform,patricia.scott@pulseplatform.com,3,expired,2023-09-06,2024-02-09,,,,,True,False
+147,PulsePlatform,patricia.scott@pulseplatform.com,2,active,2024-02-09,,,,,,False,False
+148,XenonTech,sarah.harris@outlook.com,1,cancelled,2025-02-18,2025-07-14,,,,,True,False
+148,XenonTech,sarah.harris@outlook.com,5,active,2025-07-14,,,,,,False,False
+149,EchoSoftware,susan.gonzalez@enterprise.com,1,active,2024-12-13,,,,,,False,False
+150,IrisStack,ashley.robinson@enterprise.com,3,active,2023-11-24,,,,,,False,False
+151,Jade Ventures,christopher.martinez@corp.net,1,cancelled,2024-05-26,2024-12-11,,,,,True,False
+151,Jade Ventures,christopher.martinez@corp.net,2,active,2024-12-11,,,,,,False,False
+152,QuarkHub,ashley.robinson@quarkhub.com,2,active,2024-07-13,,,,,,False,False
+153,HiveAI,Patricia.Kim@hiveai.com,2,cancelled,2023-06-04,2025-08-27,,,,,True,False
+154,Iris Dynamics,dorothy.patel@gmail.com,2,active,2024-12-15,,,,,,False,False
+155,GridSystems,dorothy.taylor@gridsystems.com,1,active,2025-09-09,,,,,,False,False
+156,TidalOps,priya.williams@tech.dev,1,cancelled,2024-10-14,2025-01-18,,,,,True,False
+157,KeenSystems,susan.hall@gmail.com,1,active,2024-12-01,,,,,,False,False
+158,Nova Ventures,sofia.sanchez@corp.net,2,cancelled,2025-05-04,2025-10-27,,,,,True,False
+158,Nova Ventures,sofia.sanchez@corp.net,3,active,2025-10-27,,,,,,False,False
+159,Vine Studio,joseph.santos@corp.net,3,expired,2024-02-11,2024-08-16,,,,,True,False
+159,Vine Studio,joseph.santos@corp.net,6,active,2024-08-16,,,,,,False,False
+160,FluxPlatform,fatima.nguyen@corp.net,1,paused,2023-09-10,,,,,,False,False
+161,VineLogic,karen.lewis@vinelogic.com,2,active,2024-03-17,,,,,,False,False
+162,FlowStudio,Kenji.Harris@outlook.com,5,expired,2024-07-26,2025-07-08,,,,,True,False
+162,FlowStudio,Kenji.Harris@outlook.com,2,active,2025-07-08,,,,,,False,False
+163,Rush Cloud,robert.hernandez@enterprise.com,1,active,2024-01-05,,,,,,False,False
+164,Acme Logic,matthew.tanaka@startup.co,5,active,2025-05-30,,,,,,False,False
+165,Zen Works,aisha.young@company.io,1,active,2025-04-16,,,,,,False,False
+166,Zeal Dynamics,yuki.wilson@outlook.com,1,active,2025-03-25,,,,,,False,False
+167,Quest Digital,robert.lewis@startup.co,1,active,2025-08-03,,,,,,False,False
+168,XenonNet,jennifer.miller@company.io,5,cancelled,2024-09-19,2025-06-26,,,,,True,False
+169,Quark Platform,kimberly.nguyen@company.io,1,active,2025-03-01,,,,,,False,False
+170,WaveLabs,linda.santos@protonmail.com,1,active,2025-03-14,,,,,,False,False
+171,UnitNet,hassan.rivera@outlook.com,2,active,2023-06-18,,,,,,False,False
+172,JadeSolutions,hassan.sanchez@startup.co,1,active,2025-01-25,,,,,,False,False
+173,Rush Hub,andrew.miller@company.io,1,cancelled,2024-04-13,2025-10-15,,,,,True,False
+174,NexusLogic,donna.lopez@protonmail.com,5,cancelled,2024-08-27,2025-01-08,,,,,True,False
+175,Yield Corp,matthew.ramirez@yahoo.com,1,cancelled,2024-05-16,2024-07-31,,,,,True,False
+175,Yield Corp,matthew.ramirez@yahoo.com,1,active,2024-07-31,,,,,,False,False
+176,MetaLogic,anthony.baker@enterprise.com,6,active,2023-03-26,,,,,,False,False
+177,Iris Cloud,andrew.chen@iriscloud.com,2,cancelled,2023-04-27,2024-02-21,,,,,True,False
+177,Iris Cloud,andrew.chen@iriscloud.com,3,active,2024-02-21,,,,,,False,False
+178,WarpPro,ahmed.santos@gmail.com,1,active,2023-12-23,,,,,,False,False
+179,Vine Ventures,donna.green@hotmail.com,4,cancelled,2025-04-04,2025-07-11,,,,,True,False
+180,Rush Dev,david.kim@protonmail.com,4,expired,2023-05-10,2023-08-09,,,,,True,False
+180,Rush Dev,david.kim@protonmail.com,6,active,2023-08-09,,,,,,False,False
+181,PulseHub,andrew.green@pulsehub.com,5,expired,2025-03-24,2025-07-17,,,,,True,False
+181,PulseHub,andrew.green@pulsehub.com,5,active,2025-07-17,,,,,,False,False
+182,SageStudio,james.singh@enterprise.com,3,active,2024-12-15,,,,,,False,False
+183,BeamSoftware,lisa.scott@enterprise.com,3,active,2025-07-04,,,,,,False,False
+184,BoltSystems,james.ramirez@yahoo.com,1,cancelled,2023-11-06,2024-02-24,,,,,True,False
+184,BoltSystems,james.ramirez@yahoo.com,5,cancelled,2024-02-24,2025-10-16,,,,,True,False
+185,XenonOps,aisha.martin@startup.co,1,cancelled,2024-12-21,2025-04-12,,,,,True,False
+186,AcmeLabs,carlos.rodriguez@outlook.com,2,cancelled,2023-04-15,2024-12-05,,,,,True,False
+187,Hive Ventures,william.lewis@yahoo.com,1,expired,2024-09-22,2025-03-08,,,,,True,False
+187,Hive Ventures,william.lewis@yahoo.com,3,active,2025-03-08,,,,,,False,False
+188,GridDigital,daniel.ramirez@protonmail.com,2,active,2023-09-12,,,,,,False,False
+189,Quest Cloud,steven.gonzalez@gmail.com,2,active,2025-03-23,,,,,,False,False
+190,Acme Studio,matthew.santos@yahoo.com,2,active,2025-09-04,,,,,,False,False
+191,Data Logic,yuki.allen@datalogic.com,4,cancelled,2024-07-03,2025-01-02,,,,,True,False
+191,Data Logic,yuki.allen@datalogic.com,7,cancelled,2025-01-02,2025-07-01,,,,,True,False
+191,Data Logic,yuki.allen@datalogic.com,2,active,2025-07-01,,,,,,False,False
+192,GlowSoftware,betty.nguyen@outlook.com,2,active,2024-03-23,,,,,,False,False
+193,PulseTech,joshua.brown@pulsetech.com,1,cancelled,2024-12-25,2025-01-28,,,,,True,False
+194,Zeal Analytics,lisa.tanaka@protonmail.com,2,active,2024-08-13,,,,,,False,False
+195,Kite Analytics,fatima.patel@kiteanalytics.com,1,expired,2025-06-02,2025-09-10,,,,,True,False
+195,Kite Analytics,fatima.patel@kiteanalytics.com,3,expired,2025-09-10,2025-11-09,,,,,True,False
+195,Kite Analytics,fatima.patel@kiteanalytics.com,6,cancelled,2025-11-09,2025-07-10,,,,,True,False
+196,CloudDynamics,anthony.anderson@company.io,2,cancelled,2023-03-21,2024-03-07,,,,,True,False
+196,CloudDynamics,anthony.anderson@company.io,4,active,2024-03-07,,,,,,False,False
+197,LunaPlatform,sandra.jackson@outlook.com,5,active,2023-01-09,,,,,,False,False
+198,DriftStudio,olga.wright@gmail.com,1,expired,2023-01-25,2023-04-14,,,,,True,False
+198,DriftStudio,olga.wright@gmail.com,5,expired,2023-04-14,2024-01-07,,,,,True,False
+198,DriftStudio,olga.wright@gmail.com,3,active,2024-01-07,,,,,,False,False
+199,VertexLabs,olga.martin@hotmail.com,1,cancelled,2025-09-11,2025-10-14,,,,,True,False
+200,XenonHQ,steven.rodriguez@corp.net,5,active,2024-03-21,,,,,,False,False
+201,ZenNet,sarah.anderson@zennet.com,2,cancelled,2023-04-19,2024-01-26,,,,,True,False
+201,ZenNet,sarah.anderson@zennet.com,5,cancelled,2024-01-26,2025-05-11,,,,,True,False
+202,CoreCloud,william.tanaka@corecloud.com,2,expired,2025-05-05,2025-10-31,,,,,True,False
+202,CoreCloud,william.tanaka@corecloud.com,6,active,2025-10-31,,,,,,False,False
+203,Tidal Analytics,betty.lewis@outlook.com,2,active,2025-04-03,,,,,,False,False
+204,IonSoftware,raj.garcia@ionsoftware.com,5,expired,2023-03-08,2024-01-17,,,,,True,False
+204,IonSoftware,raj.garcia@ionsoftware.com,1,cancelled,2024-01-17,2025-02-23,,,,,True,False
+205,HubAI,margaret.ivanov@startup.co,5,active,2023-06-26,,,,,,False,False
+206,RushHQ,donna.thomas@tech.dev,1,expired,2023-03-31,2023-07-26,,,,,True,False
+206,RushHQ,donna.thomas@tech.dev,6,active,2023-07-26,,,,,,False,False
+207,OnyxDynamics,daniel.walker@corp.net,1,active,2024-02-02,,,,,,False,False
+208,Echo Dev,joseph.hernandez@protonmail.com,2,active,2025-03-21,,,,,,False,False
+209,KeenLogic,barbara.thomas@company.io,2,expired,2023-01-29,2023-11-30,,,,,True,False
+209,KeenLogic,barbara.thomas@company.io,6,active,2023-11-30,,,,,,False,False
+210,FluxDynamics,patricia.anderson+nimbus@gmail.com,2,expired,2024-09-20,2025-01-13,,,,,True,False
+210,FluxDynamics,patricia.anderson+nimbus@gmail.com,5,active,2025-01-13,,,,,,False,False
+211,Trek Digital,kenji.white@startup.co,2,active,2023-12-11,,,,,,False,False
+212,OnyxIO,carlos.flores@corp.net,1,active,2024-01-23,,,,,,False,False
+213,Sage Ventures,john.lopez@corp.net,2,cancelled,2024-08-02,2025-09-21,,,,,True,False
+214,UltraSolutions,wei.green@gmail.com,5,cancelled,2023-09-13,2024-01-27,,,,,True,False
+214,UltraSolutions,wei.green@gmail.com,6,active,2024-01-27,,,,,,False,False
+215,ArcSolutions,paul.harris@corp.net,3,active,2024-12-04,,,,,,False,False
+216,SyncLabs,william.harris@outlook.com,3,cancelled,2024-09-20,2025-09-10,,,,,True,False
+216,SyncLabs,william.harris@outlook.com,5,cancelled,2025-09-10,2025-11-10,,,,,True,False
+216,SyncLabs,william.harris@outlook.com,3,active,2025-11-10,,,,,,False,False
+217,PeakSolutions,michael.perez@tech.dev,1,expired,2025-01-17,2025-08-23,,,,,True,False
+217,PeakSolutions,michael.perez@tech.dev,1,active,2025-08-23,,,,,,False,False
+218,Keen Dynamics,Patricia.White@corp.net,2,cancelled,2023-04-10,2024-01-30,,,,,True,False
+219,TidalLogic,jennifer.adams@startup.co,5,cancelled,2024-04-01,2025-04-07,,,,,True,False
+220,GridTech,priya.nguyen@startup.co,4,cancelled,2024-03-04,2024-12-09,,,,,True,False
+220,GridTech,priya.nguyen@startup.co,6,active,2024-12-09,,,,,,False,False
+221,KeenPlatform,john.allen@corp.net,5,cancelled,2024-09-27,2025-10-30,,,,,True,False
+222,Beam Tech,sofia.green@company.io,2,cancelled,2025-07-25,2025-10-16,,,,,True,False
+222,Beam Tech,sofia.green@company.io,7,active,2025-10-16,,,,,,False,False
+223,RushDev,donna.nguyen@rushdev.com,3,active,2024-08-03,,,,,,False,False
+224,GridVentures,daniel.clark@corp.net,1,cancelled,2023-02-08,2024-11-24,,,,,True,False
+225,CloudLogic,patricia.chen@cloudlogic.com,3,active,2025-04-17,,,,,,False,False
+226,OrbitDigital,sarah.patel@hotmail.com,1,active,2025-07-24,,,,,,False,False
+227,DataDev,steven.sanchez@datadev.com,5,expired,2023-07-17,2023-11-22,,,,,True,False
+227,DataDev,steven.sanchez@datadev.com,2,active,2023-11-22,,,,,,False,False
+228,DriftAI,nancy.ivanov@outlook.com,5,active,2023-09-05,,,,,,False,False
+229,LinkDynamics,ahmed.santos@linkdynamics.com,6,cancelled,2025-05-24,2025-10-10,,,,,True,False
+229,LinkDynamics,ahmed.santos@linkdynamics.com,5,active,2025-10-10,,,,,,False,False
+230,PeakPlatform,steven.johnson@gmail.com,3,active,2023-05-16,,,,,,False,False
+231,OrbitAnalytics,raj.moore@company.io,3,active,2023-08-12,,,,,,False,False
+232,Quest Studio,joshua.jackson@outlook.com,4,active,2023-10-11,,,,,,False,False
+233,Hive Hub,betty.nelson@gmail.com,2,active,2023-10-30,,,,,,False,False
+234,LinkNet,olga.rivera@enterprise.com,5,cancelled,2024-11-18,2025-06-15,,,,,True,False
+234,LinkNet,olga.rivera@enterprise.com,4,active,2025-06-15,,,,,,False,False
+235,SyncSystems,hassan.scott@company.io,1,active,2023-08-16,,,,,,False,False
+236,ArcWorks,ana.davis@corp.net,3,expired,2024-09-27,2025-02-04,,,,,True,False
+236,ArcWorks,ana.davis@corp.net,4,cancelled,2025-02-04,2025-10-07,,,,,True,False
+237,HiveCloud,david.gonzalez@hivecloud.com,1,expired,2025-06-02,2025-10-16,,,,,True,False
+237,HiveCloud,david.gonzalez@hivecloud.com,5,cancelled,2025-10-16,2025-12-16,,,,,True,False
+237,HiveCloud,david.gonzalez@hivecloud.com,3,active,2025-12-16,,,,,,False,False
+238,VertexStack,james.lewis@yahoo.com,4,expired,2023-06-12,2023-12-25,,,,,True,False
+238,VertexStack,james.lewis@yahoo.com,4,active,2023-12-25,,,,,,False,False
+239,IonGroup,Donald.Harris@company.io,4,cancelled,2025-07-02,2025-09-20,,,,,True,False
+239,IonGroup,Donald.Harris@company.io,5,cancelled,2025-09-20,2025-11-20,,,,,True,False
+239,IonGroup,Donald.Harris@company.io,5,active,2025-11-20,,,,,,False,False
+240,Unit Platform,karen.rodriguez@protonmail.com,1,cancelled,2025-04-23,2025-10-18,,,,,True,False
+240,Unit Platform,karen.rodriguez@protonmail.com,4,cancelled,2025-10-18,2025-07-18,,,,,True,False
+241,BeamOps,priya.gonzalez@beamops.com,2,cancelled,2023-08-18,2024-08-15,,,,,True,False
+241,BeamOps,priya.gonzalez@beamops.com,3,active,2024-08-15,,,,,,False,False
+242,HubStudio,aisha.taylor@corp.net,3,cancelled,2024-11-08,2025-10-05,,,,,True,False
+242,HubStudio,aisha.taylor@corp.net,4,cancelled,2025-10-05,2025-10-28,,,,,True,False
+243,YieldSystems,susan.hall+nimbus@outlook.com,1,active,2023-10-04,,,,,,False,False
+244,Grid IO,lars.taylor@company.io,2,cancelled,2023-10-30,2024-09-07,,,,,True,False
+244,Grid IO,lars.taylor@company.io,3,cancelled,2024-09-07,2025-01-27,,,,,True,False
+245,Quest Tech,wei.young@questtech.com,2,cancelled,2025-01-10,2025-05-19,,,,,True,False
+246,Luna AI,hassan.baker@outlook.com,2,cancelled,2025-06-30,2025-10-20,,,,,True,False
+247,VertexStudio,jennifer.white@startup.co,1,expired,2024-04-12,2025-03-05,,,,,True,False
+247,VertexStudio,jennifer.white@startup.co,6,expired,2025-03-05,2025-06-08,,,,,True,False
+247,VertexStudio,jennifer.white@startup.co,3,active,2025-06-08,,,,,,False,False
+248,Sage Pro,michael.clark@corp.net,1,cancelled,2023-07-05,2024-05-26,,,,,True,False
+248,Sage Pro,michael.clark@corp.net,5,active,2024-05-26,,,,,,False,False
+249,RiftPro,linda.clark@riftpro.com,4,active,2025-06-08,,,,,,False,False
+250,SageNet,jessica.walker@sagenet.com,2,cancelled,2025-04-26,2025-09-07,,,,,True,False
+250,SageNet,jessica.walker@sagenet.com,4,active,2025-09-07,,,,,,False,False
+251,AcmeStack,ana.young@enterprise.com,1,active,2023-12-05,,,,,,False,False
+252,Core Ventures,mark.lee@coreventures.com,1,cancelled,2024-02-27,2025-05-28,,,,,True,False
+253,Quest HQ,sofia.anderson@corp.net,6,active,2025-01-03,,,,,,False,False
+254,GridHub,dmitri.green@tech.dev,2,cancelled,2023-04-19,2024-01-29,,,,,True,False
+255,GridAnalytics,susan.robinson@gridanalytics.com,2,cancelled,2024-02-29,2024-08-02,,,,,True,False
+255,GridAnalytics,susan.robinson@gridanalytics.com,2,cancelled,2024-08-02,2025-08-03,,,,,True,False
+256,DriftOps,james.king@startup.co,1,expired,2024-05-09,2025-05-03,,,,,True,False
+256,DriftOps,james.king@startup.co,5,active,2025-05-03,,,,,,False,False
+257,Ion Systems,joshua.lee@corp.net,3,active,2025-02-19,,,,,,False,False
+258,Mist Net,karen.santos@tech.dev,4,active,2023-07-25,,,,,,False,False
+259,RiftDigital,paul.hall@company.io,2,expired,2024-08-19,2024-12-27,,,,,True,False
+259,RiftDigital,paul.hall@company.io,5,active,2024-12-27,,,,,,False,False
+260,IrisCloud,Dorothy.Miller@gmail.com,1,active,2025-02-07,,,,,,False,False
+261,JetAI,john.thompson@tech.dev,1,active,2025-01-30,,,,,,False,False
+262,Yield Logic,charles.scott@hotmail.com,4,cancelled,2025-03-10,2025-07-18,,,,,True,False
+262,Yield Logic,charles.scott@hotmail.com,4,active,2025-07-18,,,,,,False,False
+263,WarpVentures,richard.jackson@outlook.com,2,expired,2023-06-27,2023-09-14,,,,,True,False
+263,WarpVentures,richard.jackson@outlook.com,5,active,2023-09-14,,,,,,False,False
+264,Link Analytics,Yuki.Martinez@linkanalytics.com,1,active,2025-08-12,,,,,,False,False
+265,FluxVentures,charles.king@outlook.com,2,cancelled,2023-06-13,2024-04-25,,,,,True,False
+265,FluxVentures,charles.king@outlook.com,5,active,2024-04-25,,,,,,False,False
+266,NovaOps,priya.flores@novaops.com,1,active,2023-12-21,,,,,,False,False
+267,CloudOps,matthew.taylor@tech.dev,2,active,2024-01-19,,,,,,False,False
+268,PeakSoftware,lars.wright@hotmail.com,1,active,2025-03-03,,,,,,False,False
+269,NovaDynamics,raj.ivanov@novadynamics.com,1,active,2025-01-04,,,,,,False,False
+270,JadeTech,matthew.lewis@gmail.com,1,cancelled,2023-05-02,2023-07-20,,,,,True,False
+270,JadeTech,matthew.lewis@gmail.com,5,active,2023-07-20,,,,,,False,False
+271,SageTech,mei.baker@enterprise.com,1,active,2025-04-21,,,,,,False,False
+272,JetCloud,raj.white+test@jetcloud.com,1,active,2023-01-06,,,,,,False,False
+273,TidalSoftware,susan.clark@yahoo.com,2,active,2023-08-15,,,,,,False,False
+274,WarpDynamics,wei.jones@corp.net,1,cancelled,2023-12-05,2024-05-02,,,,,True,False
+274,WarpDynamics,wei.jones@corp.net,3,cancelled,2024-05-02,2025-01-17,,,,,True,False
+274,WarpDynamics,wei.jones@corp.net,5,active,2025-01-17,,,,,,False,False
+275,GridCloud,ashley.lewis@corp.net,3,expired,2024-08-03,2025-01-08,,,,,True,False
+275,GridCloud,ashley.lewis@corp.net,6,active,2025-01-08,,,,,,False,False
+276,UltraPlatform,margaret.moore@company.io,1,expired,2024-04-18,2025-02-18,,,,,True,False
+276,UltraPlatform,margaret.moore@company.io,2,cancelled,2025-02-18,2025-05-31,,,,,True,False
+276,UltraPlatform,margaret.moore@company.io,4,active,2025-05-31,,,,,,False,False
+277,Mist Tech,paul.gonzalez@outlook.com,1,cancelled,2025-07-02,2025-09-19,,,,,True,False
+278,Cloud Dynamics,donald.adams@hotmail.com,3,cancelled,2024-08-26,2025-05-25,,,,,True,False
+278,Cloud Dynamics,donald.adams@hotmail.com,1,expired,2025-05-25,2025-10-21,,,,,True,False
+278,Cloud Dynamics,donald.adams@hotmail.com,7,active,2025-10-21,,,,,,False,False
+279,ZenStudio,fatima.hernandez@yahoo.com,4,active,2025-08-29,,,,,,False,False
+280,VinePro,priya.young@vinepro.com,2,active,2023-07-31,,,,,,False,False
+281,EchoHQ,michael.rivera@protonmail.com,1,active,2023-09-27,,,,,,False,False
+282,XenonVentures,thomas.harris@startup.co,1,active,2025-06-07,,,,,,False,False
+283,GlowDigital,raj.moore@company.io,1,expired,2025-04-16,2025-09-23,,,,,True,False
+283,GlowDigital,raj.moore@company.io,4,cancelled,2025-09-23,2025-06-29,,,,,True,False
+284,EchoOps,raj.santos@yahoo.com,3,expired,2023-06-14,2024-04-06,,,,,True,False
+284,EchoOps,raj.santos@yahoo.com,1,cancelled,2024-04-06,2025-09-17,,,,,True,False
+285,Luna Dev,aisha.johnson@protonmail.com,6,active,2023-08-10,,,,,,False,False
+286,KitePlatform,sofia.singh@protonmail.com,1,cancelled,2024-12-03,2025-07-30,,,,,True,False
+286,KitePlatform,sofia.singh@protonmail.com,3,expired,2025-07-30,2025-10-05,,,,,True,False
+286,KitePlatform,sofia.singh@protonmail.com,5,active,2025-10-05,,,,,,False,False
+287,Bolt Software,fatima.clark@yahoo.com,2,expired,2024-09-21,2025-01-06,,,,,True,False
+287,Bolt Software,fatima.clark@yahoo.com,3,active,2025-01-06,,,,,,False,False
+288,FlowIO,sofia.smith@startup.co,1,active,2024-01-15,,,,,,False,False
+289,OrbitIO,hassan.chen@orbitio.com,1,expired,2023-05-18,2024-04-09,,,,,True,False
+289,OrbitIO,hassan.chen@orbitio.com,6,expired,2024-04-09,2025-03-06,,,,,True,False
+289,OrbitIO,hassan.chen@orbitio.com,3,active,2025-03-06,,,,,,False,False
+290,SyncGroup,james.rivera+test@outlook.com,3,expired,2024-01-20,2024-05-19,,,,,True,False
+290,SyncGroup,james.rivera+test@outlook.com,5,active,2024-05-19,,,,,,False,False
+291,Beam Stack,ana.wright@protonmail.com,4,expired,2024-02-11,2024-08-05,,,,,True,False
+291,Beam Stack,ana.wright@protonmail.com,4,active,2024-08-05,,,,,,False,False
+292,LunaStudio,andrew.thompson@yahoo.com,1,cancelled,2024-11-06,2025-03-05,,,,,True,False
+293,GridSoftware,donna.hall@startup.co,3,expired,2023-01-06,2023-08-21,,,,,True,False
+293,GridSoftware,donna.hall@startup.co,4,active,2023-08-21,,,,,,False,False
+294,UnitLogic,dorothy.jackson@yahoo.com,5,expired,2024-03-25,2024-09-06,,,,,True,False
+294,UnitLogic,dorothy.jackson@yahoo.com,5,cancelled,2024-09-06,2025-09-16,,,,,True,False
+295,NexusSolutions,james.hernandez@startup.co,5,active,2024-02-09,,,,,,False,False
+296,WaveStudio,richard.robinson@protonmail.com,1,expired,2024-06-02,2025-01-30,,,,,True,False
+296,WaveStudio,richard.robinson@protonmail.com,2,cancelled,2025-01-30,2024-08-27,,,,,True,False
+297,Core Logic,priya.perez@enterprise.com,6,expired,2025-06-01,2025-10-22,,,,,True,False
+297,Core Logic,priya.perez@enterprise.com,6,cancelled,2025-10-22,2025-07-23,,,,,True,False
+298,Ultra Corp,james.hall@outlook.com,1,cancelled,2025-02-05,2025-09-22,,,,,True,False
+298,Ultra Corp,james.hall@outlook.com,2,active,2025-09-22,,,,,,False,False
+299,Keen Analytics,richard.young@hotmail.com,5,active,2023-07-31,,,,,,False,False
+300,Flow Ops,james.kim@enterprise.com,5,active,2023-11-19,,,,,,False,False
+301,FluxSolutions,betty.anderson@tech.dev,3,expired,2024-05-04,2024-12-04,,,,,True,False
+301,FluxSolutions,betty.anderson@tech.dev,5,active,2024-12-04,,,,,,False,False
+302,DriftSystems,james.smith@outlook.com,2,active,2024-09-19,,,,,,False,False
+303,EchoGroup,susan.clark@startup.co,3,active,2023-07-04,,,,,,False,False
+304,Pulse Dynamics,richard.martinez@enterprise.com,3,active,2023-06-30,,,,,,False,False
+305,Keen AI,william.brown@outlook.com,6,active,2023-12-09,,,,,,False,False
+306,MetaVentures,lars.jackson@enterprise.com,6,expired,2024-04-02,2024-09-26,,,,,True,False
+306,MetaVentures,lars.jackson@enterprise.com,2,expired,2024-09-26,2025-08-20,,,,,True,False
+306,MetaVentures,lars.jackson@enterprise.com,2,active,2025-08-20,,,,,,False,False
+307,KiteStack,donna.torres@outlook.com,1,expired,2023-08-22,2024-06-13,,,,,True,False
+307,KiteStack,donna.torres@outlook.com,2,active,2024-06-13,,,,,,False,False
+308,MistStack,ahmed.nguyen@yahoo.com,1,cancelled,2023-01-24,2024-02-22,,,,,True,False
+309,NovaSolutions,Kimberly.Brown@novasolutions.com,4,cancelled,2024-09-24,2025-07-05,,,,,True,False
+310,Hive Solutions,daniel.lee@tech.dev,2,active,2024-07-15,,,,,,False,False
+311,LinkGroup,margaret.king@company.io,1,cancelled,2023-08-21,2024-06-28,,,,,True,False
+311,LinkGroup,margaret.king@company.io,5,cancelled,2024-06-28,2025-01-07,,,,,True,False
+311,LinkGroup,margaret.king@company.io,6,active,2025-01-07,,,,,,False,False
+312,SageIO,lars.ramirez@gmail.com,6,active,2023-07-13,,,,,,False,False
+313,TrekPro,thomas.garcia@corp.net,1,active,2024-12-02,,,,,,False,False
+314,ArcSoftware,linda.green@corp.net,3,cancelled,2023-11-25,2024-02-08,,,,,True,False
+314,ArcSoftware,linda.green@corp.net,4,cancelled,2024-02-08,2024-02-01,,,,,True,False
+315,RushDigital,Jennifer.Martinez@startup.co,1,active,2025-03-29,,,,,,False,False
+316,VertexTech,lars.sanchez@hotmail.com,2,active,2023-09-14,,,,,,False,False
+317,Zeal HQ,richard.robinson@hotmail.com,3,active,2024-11-28,,,,,,False,False
+318,Jade Dev,aisha.martin@hotmail.com,4,cancelled,2023-08-30,2024-04-27,,,,,True,False
+318,Jade Dev,aisha.martin@hotmail.com,6,active,2024-04-27,,,,,,False,False
+319,LinkSystems,emily.muller@yahoo.com,2,active,2023-04-02,,,,,,False,False
+320,Wave Stack,mei.miller@tech.dev,1,active,2025-02-13,,,,,,False,False
+321,BoltNet,john.young@tech.dev,1,active,2023-07-14,,,,,,False,False
+322,RushGroup,dorothy.martinez@tech.dev,4,expired,2023-01-01,2023-07-25,,,,,True,False
+322,RushGroup,dorothy.martinez@tech.dev,4,active,2023-07-25,,,,,,False,False
+323,NexusStudio,robert.nelson@hotmail.com,3,active,2024-05-24,,,,,,False,False
+324,Hive Ops,barbara.williams@hiveops.com,1,expired,2024-10-19,2025-09-02,,,,,True,False
+324,Hive Ops,barbara.williams@hiveops.com,3,cancelled,2025-09-02,2025-11-01,,,,,True,False
+324,Hive Ops,barbara.williams@hiveops.com,7,active,2025-11-01,,,,,,False,False
+325,Trek Tech,ashley.santos@gmail.com,4,active,2025-01-31,,,,,,False,False
+326,NexusAnalytics,robert.wilson@hotmail.com,2,expired,2023-07-14,2024-01-12,,,,,True,False
+326,NexusAnalytics,robert.wilson@hotmail.com,4,cancelled,2024-01-12,2024-11-30,,,,,True,False
+326,NexusAnalytics,robert.wilson@hotmail.com,3,cancelled,2024-11-30,2024-09-02,,,,,True,False
+327,JadePro,andrew.thompson@startup.co,2,expired,2023-06-20,2024-03-23,,,,,True,False
+327,JadePro,andrew.thompson@startup.co,5,paused,2024-03-23,,,,,,False,False
+328,IrisGroup,charles.white@company.io,3,active,2024-07-30,,,,,,False,False
+329,ZenLabs,dorothy.rodriguez@protonmail.com,1,active,2023-08-08,,,,,,False,False
+330,JadeDev,michael.williams@protonmail.com,1,active,2024-08-19,,,,,,False,False
+331,UnitWorks,carlos.torres@unitworks.com,4,active,2025-04-07,,,,,,False,False
+332,WaveCorp,ahmed.adams@wavecorp.com,1,cancelled,2024-06-20,2025-09-12,,,,,True,False
+333,ZenHQ,joseph.ramirez@yahoo.com,2,cancelled,2024-05-02,2025-02-24,,,,,True,False
+333,ZenHQ,joseph.ramirez@yahoo.com,1,active,2025-02-24,,,,,,False,False
+334,ZenDev,donald.scott@corp.net,4,cancelled,2024-09-22,2025-07-29,,,,,True,False
+334,ZenDev,donald.scott@corp.net,4,active,2025-07-29,,,,,,False,False
+335,ZealCorp,linda.nelson@hotmail.com,5,cancelled,2024-08-31,2024-12-26,,,,,True,False
+335,ZealCorp,linda.nelson@hotmail.com,5,active,2024-12-26,,,,,,False,False
+336,WaveGroup,Elizabeth.Lewis@hotmail.com,6,active,2023-06-09,,,,,,False,False
+337,Nexus Digital,james.perez@enterprise.com,3,active,2023-12-06,,,,,,False,False
+338,JadeIO,wei.johnson@jadeio.com,6,cancelled,2023-06-24,2024-05-30,,,,,True,False
+339,DataHQ,wei.moore@company.io,2,expired,2023-01-20,2023-08-05,,,,,True,False
+339,DataHQ,wei.moore@company.io,3,active,2023-08-05,,,,,,False,False
+340,OrbitLogic,ashley.hill@tech.dev,1,active,2024-07-28,,,,,,False,False
+341,VertexIO,fatima.thompson@tech.dev,2,active,2023-03-05,,,,,,False,False
+342,Vertex Logic,olga.harris@hotmail.com,2,expired,2024-08-09,2025-01-06,,,,,True,False
+342,Vertex Logic,olga.harris@hotmail.com,2,cancelled,2025-01-06,2025-05-08,,,,,True,False
+343,PeakDigital,kenji.rodriguez@tech.dev,1,active,2024-03-16,,,,,,False,False
+344,PeakVentures,paul.patel@yahoo.com,1,paused,2025-02-22,,,,,,False,False
+345,Zeal Software,mary.kim@corp.net,4,active,2023-08-25,,,,,,False,False
+346,SageHub,donald.rivera@startup.co,1,cancelled,2023-05-21,2024-06-05,,,,,True,False
+347,ArcPlatform,robert.lopez@corp.net,4,active,2023-11-29,,,,,,False,False
+348,Vine Logic,donna.chen@gmail.com,1,active,2024-04-07,,,,,,False,False
+349,HiveDynamics,matthew.king@hotmail.com,4,expired,2024-02-12,2024-12-23,,,,,True,False
+349,HiveDynamics,matthew.king@hotmail.com,6,active,2024-12-23,,,,,,False,False
+350,DriftSolutions,dorothy.martinez@outlook.com,1,cancelled,2023-04-26,2024-04-07,,,,,True,False
+350,DriftSolutions,dorothy.martinez@outlook.com,4,cancelled,2024-04-07,2025-09-20,,,,,True,False
+351,LunaHQ,jennifer.taylor@yahoo.com,1,expired,2023-05-07,2023-09-04,,,,,True,False
+351,LunaHQ,jennifer.taylor@yahoo.com,2,cancelled,2023-09-04,2025-05-04,,,,,True,False
+352,UnitDev,matthew.williams@corp.net,1,cancelled,2025-06-02,2025-07-30,,,,,True,False
+353,ArcCloud,aisha.lopez@arccloud.com,1,active,2025-02-22,,,,,,False,False
+354,Link Ops,mark.garcia+test@protonmail.com,3,active,2024-07-24,,,,,,False,False
+355,Cloud Ops,karen.perez@startup.co,3,active,2023-06-15,,,,,,False,False
+356,DriftPro,lars.martin@outlook.com,5,active,2025-05-13,,,,,,False,False
+357,VertexDev,donna.brown@tech.dev,1,active,2024-05-10,,,,,,False,False
+358,BeamGroup,donna.thompson@enterprise.com,4,active,2024-10-09,,,,,,False,False
+359,TrekCloud,sandra.green@hotmail.com,2,active,2024-02-29,,,,,,False,False
+360,Sync Analytics,karen.allen@outlook.com,4,expired,2023-12-16,2024-02-22,,,,,True,False
+360,Sync Analytics,karen.allen@outlook.com,6,active,2024-02-22,,,,,,False,False
+361,MetaWorks,Donald.Tanaka@yahoo.com,4,active,2025-07-02,,,,,,False,False
+362,Hive Cloud,charles.scott@company.io,3,active,2025-06-28,,,,,,False,False
+363,VertexLogic,joshua.harris@protonmail.com,2,active,2023-11-19,,,,,,False,False
+364,LunaSystems,jennifer.lewis@tech.dev,4,expired,2023-12-15,2024-04-30,,,,,True,False
+364,LunaSystems,jennifer.lewis@tech.dev,2,expired,2024-04-30,2024-12-24,,,,,True,False
+364,LunaSystems,jennifer.lewis@tech.dev,4,active,2024-12-24,,,,,,False,False
+365,Grid Dev,olga.williams@griddev.com,2,active,2023-11-15,,,,,,False,False
+366,VertexHQ,Ahmed.Martin@hotmail.com,1,cancelled,2023-07-17,2024-05-03,,,,,True,False
+366,VertexHQ,Ahmed.Martin@hotmail.com,5,cancelled,2024-05-03,2025-02-08,,,,,True,False
+366,VertexHQ,Ahmed.Martin@hotmail.com,2,active,2025-02-08,,,,,,False,False
+367,Hub Labs,michael.wilson@hublabs.com,4,cancelled,2024-12-22,2025-07-26,,,,,True,False
+367,Hub Labs,michael.wilson@hublabs.com,1,active,2025-07-26,,,,,,False,False
+368,NexusWorks,donald.baker@outlook.com,3,active,2023-07-03,,,,,,False,False
+369,MetaNet,priya.kim@metanet.com,2,active,2023-11-14,,,,,,False,False
+370,Xenon Logic,lisa.muller@xenonlogic.com,2,cancelled,2024-05-01,2025-06-06,,,,,True,False
+371,ZealStudio,betty.ivanov@tech.dev,1,active,2025-03-22,,,,,,False,False
+372,NexusPlatform,lisa.wilson@startup.co,4,active,2023-12-17,,,,,,False,False
+373,VineNet,joshua.robinson@enterprise.com,6,active,2025-09-05,,,,,,False,False
+374,UltraIO,sofia.rodriguez@gmail.com,1,cancelled,2024-11-07,2025-07-01,,,,,True,False
+375,TidalVentures,yuki.thompson@corp.net,1,expired,2024-02-18,2025-01-22,,,,,True,False
+375,TidalVentures,yuki.thompson@corp.net,6,cancelled,2025-01-22,2025-06-17,,,,,True,False
+375,TidalVentures,yuki.thompson@corp.net,5,active,2025-06-17,,,,,,False,False
+376,XenonDynamics,sofia.thompson@gmail.com,1,active,2024-12-20,,,,,,False,False
+377,ZenLogic,donald.rodriguez@company.io,2,active,2023-06-07,,,,,,False,False
+378,Bolt Digital,margaret.rodriguez@startup.co,3,cancelled,2025-07-04,2025-09-16,,,,,True,False
+378,Bolt Digital,margaret.rodriguez@startup.co,5,active,2025-09-16,,,,,,False,False
+379,BeamDynamics,barbara.ramirez@hotmail.com,6,active,2023-10-03,,,,,,False,False
+380,KeenIO,carlos.garcia@protonmail.com,1,cancelled,2023-03-22,2023-09-08,,,,,True,False
+380,KeenIO,carlos.garcia@protonmail.com,5,expired,2023-09-08,2024-01-01,,,,,True,False
+380,KeenIO,carlos.garcia@protonmail.com,3,active,2024-01-01,,,,,,False,False
+381,EchoStack,aisha.wright@gmail.com,1,active,2024-07-01,,,,,,False,False
+382,Cloud Net,karen.patel@enterprise.com,1,cancelled,2024-08-09,2025-06-13,,,,,True,False
+382,Cloud Net,karen.patel@enterprise.com,1,cancelled,2025-06-13,2025-10-30,,,,,True,False
+382,Cloud Net,karen.patel@enterprise.com,5,cancelled,2025-10-30,2025-04-22,,,,,True,False
+383,Glow Tech,thomas.rodriguez@glowtech.com,3,active,2023-04-25,,,,,,False,False
+384,QuestHQ,jessica.young@gmail.com,5,cancelled,2023-03-28,2023-09-19,,,,,True,False
+384,QuestHQ,jessica.young@gmail.com,7,active,2023-09-19,,,,,,False,False
+385,WarpCorp,olga.green@warpcorp.com,5,expired,2023-09-28,2024-05-18,,,,,True,False
+385,WarpCorp,olga.green@warpcorp.com,2,cancelled,2024-05-18,2024-10-29,,,,,True,False
+385,WarpCorp,olga.green@warpcorp.com,6,active,2024-10-29,,,,,,False,False
+386,EchoCloud,matthew.baker@yahoo.com,3,cancelled,2024-03-21,2025-04-03,,,,,True,False
+387,GridDynamics,raj.moore@outlook.com,1,expired,2024-08-21,2025-06-11,,,,,True,False
+387,GridDynamics,raj.moore@outlook.com,6,active,2025-06-11,,,,,,False,False
+388,MetaDev,kimberly.smith@gmail.com,1,cancelled,2024-06-21,2025-07-02,,,,,True,False
+389,CloudLabs,dmitri.wilson@cloudlabs.com,1,cancelled,2024-09-11,2025-06-22,,,,,True,False
+390,Sync HQ,sandra.moore@company.io,2,expired,2025-03-10,2025-07-17,,,,,True,False
+390,Sync HQ,sandra.moore@company.io,2,cancelled,2025-07-17,2025-10-18,,,,,True,False
+390,Sync HQ,sandra.moore@company.io,4,cancelled,2025-10-18,2025-05-03,,,,,True,False
+391,QuarkSolutions,betty.lopez@tech.dev,6,expired,2023-08-12,2024-01-28,,,,,True,False
+391,QuarkSolutions,betty.lopez@tech.dev,5,active,2024-01-28,,,,,,False,False
+392,Keen Pro,mary.young@gmail.com,1,expired,2023-09-30,2024-06-10,,,,,True,False
+392,Keen Pro,mary.young@gmail.com,4,cancelled,2024-06-10,2024-07-12,,,,,True,False
+393,EchoCorp,Paul.Anderson@echocorp.com,1,active,2024-07-02,,,,,,False,False
+394,DataStack,paul.perez@protonmail.com,1,expired,2023-06-30,2023-11-29,,,,,True,False
+394,DataStack,paul.perez@protonmail.com,4,active,2023-11-29,,,,,,False,False
+395,TidalNet,daniel.young@tidalnet.com,1,expired,2023-07-17,2023-10-27,,,,,True,False
+395,TidalNet,daniel.young@tidalnet.com,1,cancelled,2023-10-27,2024-01-08,,,,,True,False
+395,TidalNet,daniel.young@tidalnet.com,6,cancelled,2024-01-08,2024-08-20,,,,,True,False
+396,Data Works,betty.davis@tech.dev,4,active,2024-11-25,,,,,,False,False
+397,EdgeAI,Donald.Flores@edgeai.com,1,cancelled,2024-10-09,2025-07-26,,,,,True,False
+397,EdgeAI,Donald.Flores@edgeai.com,5,expired,2025-07-26,2025-10-06,,,,,True,False
+397,EdgeAI,Donald.Flores@edgeai.com,4,cancelled,2025-10-06,2025-03-07,,,,,True,False
+398,Meta Corp,fatima.sanchez@corp.net,2,active,2023-11-26,,,,,,False,False
+399,LinkSolutions,priya.clark@yahoo.com,1,active,2025-08-05,,,,,,False,False
+400,Flux Tech,jennifer.rivera@startup.co,5,active,2025-03-22,,,,,,False,False
+401,Core Corp,carlos.williams@corp.net,3,active,2024-10-04,,,,,,False,False
+402,MetaSystems,kenji.kim@enterprise.com,3,active,2024-11-06,,,,,,False,False
+403,RiftIO,patricia.adams@protonmail.com,6,cancelled,2025-04-04,2025-07-01,,,,,True,False
+403,RiftIO,patricia.adams@protonmail.com,6,expired,2025-07-01,2025-09-26,,,,,True,False
+403,RiftIO,patricia.adams@protonmail.com,4,active,2025-09-26,,,,,,False,False
+404,Bolt IO,jessica.patel@startup.co,3,cancelled,2024-11-24,2025-04-11,,,,,True,False
+404,Bolt IO,jessica.patel@startup.co,2,active,2025-04-11,,,,,,False,False
+405,GridPlatform,joseph.jones@gridplatform.com,1,paused,2025-08-08,,,,,,False,False
+406,UnitSoftware,david.williams@unitsoftware.com,5,cancelled,2024-04-21,2024-08-07,,,,,True,False
+406,UnitSoftware,david.williams@unitsoftware.com,5,active,2024-08-07,,,,,,False,False
+407,MistSolutions,andrew.scott@tech.dev,3,active,2023-08-10,,,,,,False,False
+408,AcmePro,charles.ramirez@corp.net,3,active,2025-07-24,,,,,,False,False
+409,EchoPro,betty.walker@outlook.com,1,cancelled,2023-09-04,2025-05-10,,,,,True,False
+410,NovaDigital,mary.walker@enterprise.com,2,active,2025-02-04,,,,,,False,False
+411,ZealDigital,aisha.robinson+test@outlook.com,2,cancelled,2024-12-08,2025-02-26,,,,,True,False
+411,ZealDigital,aisha.robinson+test@outlook.com,3,active,2025-02-26,,,,,,False,False
+412,SageGroup,jennifer.flores@gmail.com,4,active,2025-07-20,,,,,,False,False
+413,YieldStudio,barbara.adams@yieldstudio.com,1,cancelled,2023-12-09,2024-03-12,,,,,True,False
+413,YieldStudio,barbara.adams@yieldstudio.com,5,active,2024-03-12,,,,,,False,False
+414,UltraStudio,sarah.brown@enterprise.com,2,cancelled,2025-04-29,2025-10-13,,,,,True,False
+415,CoreGroup,richard.robinson@yahoo.com,4,cancelled,2025-09-06,2025-10-13,,,,,True,False
+416,NovaDev,fatima.wright@startup.co,6,expired,2024-10-22,2025-10-11,,,,,True,False
+416,NovaDev,fatima.wright@startup.co,4,expired,2025-10-11,2025-12-11,,,,,True,False
+416,NovaDev,fatima.wright@startup.co,4,cancelled,2025-12-11,2025-02-02,,,,,True,False
+417,ArcVentures,ashley.nguyen@tech.dev,2,cancelled,2023-11-08,2024-05-11,,,,,True,False
+417,ArcVentures,ashley.nguyen@tech.dev,3,expired,2024-05-11,2025-03-06,,,,,True,False
+417,ArcVentures,ashley.nguyen@tech.dev,4,active,2025-03-06,,,,,,False,False
+418,KiteGroup,barbara.lopez@yahoo.com,3,cancelled,2023-04-30,2024-10-02,,,,,True,False
+419,JetStudio,linda.johnson@yahoo.com,1,active,2025-08-08,,,,,,False,False
+420,Sync Hub,hassan.torres@company.io,1,active,2025-01-19,,,,,,False,False
+421,TidalLabs,daniel.garcia@hotmail.com,3,active,2023-08-16,,,,,,False,False
+422,BoltTech,jennifer.allen@corp.net,1,cancelled,2025-08-24,2025-10-25,,,,,True,False
+423,SyncStudio,jennifer.wilson@startup.co,3,expired,2023-10-23,2024-01-13,,,,,True,False
+423,SyncStudio,jennifer.wilson@startup.co,2,expired,2024-01-13,2024-05-02,,,,,True,False
+423,SyncStudio,jennifer.wilson@startup.co,7,cancelled,2024-05-02,2025-06-09,,,,,True,False
+424,IonVentures,donald.king@corp.net,4,expired,2023-04-01,2023-09-23,,,,,True,False
+424,IonVentures,donald.king@corp.net,5,cancelled,2023-09-23,2024-06-28,,,,,True,False
+425,MetaSolutions,john.ivanov@protonmail.com,6,active,2025-01-27,,,,,,False,False
+426,TidalStack,wei.jackson@tidalstack.com,2,active,2025-02-22,,,,,,False,False
+427,EchoVentures,donald.hall@echoventures.com,3,cancelled,2023-09-23,2023-12-07,,,,,True,False
+428,Xenon Corp,christopher.jackson@tech.dev,2,cancelled,2024-10-05,2025-06-18,,,,,True,False
+428,Xenon Corp,christopher.jackson@tech.dev,6,cancelled,2025-06-18,2024-12-10,,,,,True,False
+429,UltraOps,carlos.white@ultraops.com,2,active,2024-06-14,,,,,,False,False
+430,Jet Dev,mei.scott@tech.dev,2,active,2024-12-30,,,,,,False,False
+431,ArcHQ,mary.walker@yahoo.com,3,active,2025-06-30,,,,,,False,False
+432,Hub Platform,elizabeth.hall@yahoo.com,2,active,2024-03-11,,,,,,False,False
+433,BoltHub,michael.williams@gmail.com,1,expired,2025-07-19,2025-09-23,,,,,True,False
+433,BoltHub,michael.williams@gmail.com,3,cancelled,2025-09-23,2025-11-22,,,,,True,False
+433,BoltHub,michael.williams@gmail.com,5,active,2025-11-22,,,,,,False,False
+434,Meta Solutions,jennifer.martinez@corp.net,6,active,2023-06-14,,,,,,False,False
+435,Link Hub,yuki.gonzalez@linkhub.com,3,cancelled,2025-01-12,2025-05-05,,,,,True,False
+436,CoreOps,matthew.ramirez@outlook.com,1,cancelled,2023-11-18,2024-03-12,,,,,True,False
+437,Ultra IO,sandra.hill@enterprise.com,1,active,2024-02-22,,,,,,False,False
+438,EdgeIO,fatima.young@tech.dev,1,expired,2023-03-29,2023-10-28,,,,,True,False
+438,EdgeIO,fatima.young@tech.dev,2,cancelled,2023-10-28,2024-12-31,,,,,True,False
+439,Meta Works,linda.anderson@protonmail.com,3,expired,2025-02-23,2025-08-23,,,,,True,False
+439,Meta Works,linda.anderson@protonmail.com,4,active,2025-08-23,,,,,,False,False
+440,WaveIO,sarah.martinez@protonmail.com,6,expired,2023-08-25,2024-08-16,,,,,True,False
+440,WaveIO,sarah.martinez@protonmail.com,5,cancelled,2024-08-16,2025-05-06,,,,,True,False
+440,WaveIO,sarah.martinez@protonmail.com,7,active,2025-05-06,,,,,,False,False
+441,LunaLogic,donna.flores@tech.dev,1,active,2025-03-22,,,,,,False,False
+442,Warp AI,mark.lee@warpai.com,4,active,2024-07-24,,,,,,False,False
+443,Trek Logic,andrew.baker@tech.dev,2,active,2024-05-02,,,,,,False,False
+444,NexusOps,Mary.Nguyen@company.io,4,expired,2024-08-20,2025-06-10,,,,,True,False
+444,NexusOps,Mary.Nguyen@company.io,1,cancelled,2025-06-10,2025-06-11,,,,,True,False
+445,Pulse Platform,emily.garcia@pulseplatform.com,1,cancelled,2023-06-23,2023-11-12,,,,,True,False
+445,Pulse Platform,emily.garcia@pulseplatform.com,7,cancelled,2023-11-12,2024-12-10,,,,,True,False
+446,RushLabs,matthew.torres@rushlabs.com,2,cancelled,2024-11-22,2025-06-27,,,,,True,False
+446,RushLabs,matthew.torres@rushlabs.com,1,active,2025-06-27,,,,,,False,False
+447,Beam Software,dmitri.wright@protonmail.com,2,active,2024-02-16,,,,,,False,False
+448,Vertex Analytics,donald.ramirez@protonmail.com,2,active,2023-11-04,,,,,,False,False
+449,QuarkGroup,barbara.johnson@yahoo.com,2,cancelled,2023-08-07,2023-12-17,,,,,True,False
+449,QuarkGroup,barbara.johnson@yahoo.com,1,active,2023-12-17,,,,,,False,False
+450,RushStack,andrew.patel@company.io,2,cancelled,2023-09-04,2025-03-19,,,,,True,False
+451,Arc Analytics,william.taylor@arcanalytics.com,1,cancelled,2023-07-16,2024-12-09,,,,,True,False
+452,Rush Digital,wei.scott@enterprise.com,3,expired,2023-02-26,2023-12-12,,,,,True,False
+452,Rush Digital,wei.scott@enterprise.com,4,cancelled,2023-12-12,2024-03-28,,,,,True,False
+452,Rush Digital,wei.scott@enterprise.com,1,active,2024-03-28,,,,,,False,False
+453,ArcStudio,dmitri.patel@corp.net,3,expired,2025-08-13,2025-10-23,,,,,True,False
+453,ArcStudio,dmitri.patel@corp.net,6,cancelled,2025-10-23,2025-12-23,,,,,True,False
+453,ArcStudio,dmitri.patel@corp.net,5,cancelled,2025-12-23,2025-10-06,,,,,True,False
+454,MistSystems,ahmed.harris@startup.co,6,cancelled,2023-04-20,2024-03-04,,,,,True,False
+454,MistSystems,ahmed.harris@startup.co,1,cancelled,2024-03-04,2024-07-19,,,,,True,False
+455,HubWorks,sarah.muller@company.io,4,active,2023-01-22,,,,,,False,False
+456,VineOps,jessica.taylor@company.io,1,cancelled,2024-12-02,2025-04-02,,,,,True,False
+457,Warp Platform,mark.green@startup.co,1,active,2023-10-08,,,,,,False,False
+458,VertexNet,sofia.hernandez@company.io,2,active,2025-01-16,,,,,,False,False
+459,SageLabs,aisha.lewis@startup.co,6,active,2023-11-09,,,,,,False,False
+460,MistOps,kenji.chen@corp.net,2,expired,2025-03-29,2025-10-20,,,,,True,False
+460,MistOps,kenji.chen@corp.net,4,active,2025-10-20,,,,,,False,False
+461,Bolt Dynamics,joseph.garcia@boltdynamics.com,5,active,2024-09-24,,,,,,False,False
+462,Trek Dev,sofia.baker@hotmail.com,3,active,2025-06-01,,,,,,False,False
+463,IonCorp,olga.baker@ioncorp.com,2,active,2025-09-26,,,,,,False,False
+464,Ion Works,susan.rivera@corp.net,4,active,2023-04-08,,,,,,False,False
+465,MistNet,steven.flores@mistnet.com,3,expired,2025-07-02,2025-10-24,,,,,True,False
+465,MistNet,steven.flores@mistnet.com,6,active,2025-10-24,,,,,,False,False
+466,Ultra Net,thomas.davis@enterprise.com,3,active,2025-05-04,,,,,,False,False
+467,NexusHub,william.lee@yahoo.com,2,active,2025-08-03,,,,,,False,False
+468,Drift Corp,mark.thompson@enterprise.com,4,active,2025-05-16,,,,,,False,False
+469,SyncSolutions,andrew.nelson@gmail.com,2,cancelled,2024-08-07,2024-11-15,,,,,True,False
+469,SyncSolutions,andrew.nelson@gmail.com,5,cancelled,2024-11-15,2024-11-04,,,,,True,False
+470,Rift Systems,michael.santos+nimbus@enterprise.com,1,active,2025-09-05,,,,,,False,False
+471,CloudStack,olga.tanaka@gmail.com,2,active,2023-10-17,,,,,,False,False
+472,Pulse Hub,mary.wilson@protonmail.com,4,active,2025-09-04,,,,,,False,False
+473,VineCloud,wei.miller@enterprise.com,3,active,2024-02-02,,,,,,False,False
+474,Onyx Corp,lisa.robinson@yahoo.com,2,active,2024-06-23,,,,,,False,False
+475,IonOps,margaret.jackson@gmail.com,1,cancelled,2024-06-06,2025-01-19,,,,,True,False
+475,IonOps,margaret.jackson@gmail.com,5,paused,2025-01-19,,,,,,False,False
+476,WaveAnalytics,linda.chen@yahoo.com,2,cancelled,2023-02-16,2024-06-22,,,,,True,False
+477,Vine Group,michael.ramirez+work@gmail.com,2,active,2024-05-03,,,,,,False,False
+478,TidalGroup,fatima.hall@tidalgroup.com,2,cancelled,2023-01-15,2023-03-10,,,,,True,False
+479,NovaIO,dmitri.green@outlook.com,5,expired,2024-04-19,2024-12-02,,,,,True,False
+479,NovaIO,dmitri.green@outlook.com,7,cancelled,2024-12-02,2025-04-11,,,,,True,False
+480,Zen AI,aisha.rivera@enterprise.com,6,active,2024-09-02,,,,,,False,False
+481,FluxLogic,fatima.ivanov@gmail.com,5,cancelled,2024-03-08,2024-09-30,,,,,True,False
+481,FluxLogic,fatima.ivanov@gmail.com,4,cancelled,2024-09-30,2025-02-07,,,,,True,False
+481,FluxLogic,fatima.ivanov@gmail.com,6,active,2025-02-07,,,,,,False,False
+482,EchoSystems,Carlos.Ramirez@hotmail.com,1,cancelled,2024-03-24,2024-08-15,,,,,True,False
+482,EchoSystems,Carlos.Ramirez@hotmail.com,4,active,2024-08-15,,,,,,False,False
+483,IonCloud,raj.chen@yahoo.com,1,cancelled,2023-10-17,2024-05-03,,,,,True,False
+483,IonCloud,raj.chen@yahoo.com,5,expired,2024-05-03,2025-05-03,,,,,True,False
+483,IonCloud,raj.chen@yahoo.com,5,active,2025-05-03,,,,,,False,False
+484,GridCorp,Susan.Scott+nimbus@company.io,1,expired,2023-06-28,2023-10-21,,,,,True,False
+484,GridCorp,Susan.Scott+nimbus@company.io,6,cancelled,2023-10-21,2024-03-24,,,,,True,False
+484,GridCorp,Susan.Scott+nimbus@company.io,3,active,2024-03-24,,,,,,False,False
+485,EdgeWorks,kimberly.anderson@company.io,3,expired,2025-02-27,2025-10-12,,,,,True,False
+485,EdgeWorks,kimberly.anderson@company.io,5,active,2025-10-12,,,,,,False,False
+486,TrekAI,dmitri.kim@corp.net,6,cancelled,2025-05-28,2025-08-08,,,,,True,False
+486,TrekAI,dmitri.kim@corp.net,6,active,2025-08-08,,,,,,False,False
+487,Hub Software,olga.jackson@enterprise.com,3,cancelled,2023-04-12,2024-11-27,,,,,True,False
+488,MetaHQ,jessica.santos@tech.dev,1,active,2023-09-30,,,,,,False,False
+489,Warp Hub,david.tanaka@enterprise.com,1,active,2024-06-12,,,,,,False,False
+490,ZealLabs,lisa.lee@zeallabs.com,1,cancelled,2025-02-16,2025-05-12,,,,,True,False
+490,ZealLabs,lisa.lee@zeallabs.com,7,cancelled,2025-05-12,2025-05-15,,,,,True,False
+491,ArcLogic,olga.chen@protonmail.com,2,cancelled,2024-09-17,2025-09-03,,,,,True,False
+491,ArcLogic,olga.chen@protonmail.com,1,paused,2025-09-03,,,,,,False,False
+492,NexusGroup,betty.singh@gmail.com,2,expired,2024-02-04,2024-07-22,,,,,True,False
+492,NexusGroup,betty.singh@gmail.com,2,active,2024-07-22,,,,,,False,False
+493,Flow Dev,lisa.kim+test@corp.net,4,cancelled,2025-05-02,2025-08-09,,,,,True,False
+493,Flow Dev,lisa.kim+test@corp.net,4,active,2025-08-09,,,,,,False,False
+494,UnitAI,Daniel.Davis@outlook.com,2,expired,2024-08-09,2024-11-29,,,,,True,False
+494,UnitAI,Daniel.Davis@outlook.com,1,active,2024-11-29,,,,,,False,False
+495,Trek Ventures,matthew.king@tech.dev,4,active,2025-04-22,,,,,,False,False
+496,Beam Digital,robert.white@tech.dev,3,active,2024-02-09,,,,,,False,False
+497,HiveSystems,ahmed.hernandez@outlook.com,1,cancelled,2024-02-23,2025-01-05,,,,,True,False
+498,XenonCloud,mary.muller@xenoncloud.com,2,cancelled,2025-07-04,2025-09-04,,,,,True,False
+498,XenonCloud,mary.muller@xenoncloud.com,7,expired,2025-09-04,2025-11-03,,,,,True,False
+498,XenonCloud,mary.muller@xenoncloud.com,4,active,2025-11-03,,,,,,False,False
+499,AcmeSystems,anthony.walker@company.io,2,active,2024-05-01,,,,,,False,False
+500,WarpDigital,wei.lewis@outlook.com,5,active,2024-11-11,,,,,,False,False
+501,Flow Solutions,aisha.muller@outlook.com,1,cancelled,2023-03-29,2025-08-16,,,,,True,False
+502,WarpIO,paul.lopez@hotmail.com,1,active,2024-12-23,,,,,,False,False
+503,Bolt Works,mary.king@outlook.com,2,expired,2024-07-08,2025-06-24,,,,,True,False
+503,Bolt Works,mary.king@outlook.com,2,expired,2025-06-24,2025-09-24,,,,,True,False
+503,Bolt Works,mary.king@outlook.com,4,cancelled,2025-09-24,2024-11-26,,,,,True,False
+504,Nexus Works,patricia.martin@startup.co,3,expired,2023-09-22,2024-06-26,,,,,True,False
+504,Nexus Works,patricia.martin@startup.co,6,active,2024-06-26,,,,,,False,False
+505,Mist Ventures,priya.allen@gmail.com,1,paused,2024-07-20,,,,,,False,False
+506,BoltAnalytics,jessica.kim@protonmail.com,2,cancelled,2024-04-01,2025-09-06,,,,,True,False
+507,IrisSolutions,Mark.Williams@corp.net,3,cancelled,2025-09-22,2025-10-22,,,,,True,False
+508,Glow Cloud,paul.torres@outlook.com,5,active,2025-01-12,,,,,,False,False
+509,WarpNet,lisa.wilson@gmail.com,4,expired,2023-05-17,2024-03-25,,,,,True,False
+509,WarpNet,lisa.wilson@gmail.com,5,cancelled,2024-03-25,2024-08-20,,,,,True,False
+509,WarpNet,lisa.wilson@gmail.com,5,active,2024-08-20,,,,,,False,False
+510,RiftSolutions,ashley.kim@outlook.com,2,active,2025-07-02,,,,,,False,False
+511,WaveLogic,dmitri.singh@outlook.com,1,cancelled,2025-08-16,2025-09-15,,,,,True,False
+512,RiftNet,aisha.martin@enterprise.com,2,active,2023-02-07,,,,,,False,False
+513,AcmeSoftware,kenji.moore@tech.dev,1,active,2025-01-26,,,,,,False,False
+514,Edge Digital,dorothy.patel@gmail.com,4,active,2024-12-10,,,,,,False,False
+515,AcmeCorp,margaret.clark@enterprise.com,1,cancelled,2024-06-13,2025-03-13,,,,,True,False
+515,AcmeCorp,margaret.clark@enterprise.com,6,expired,2025-03-13,2025-05-13,,,,,True,False
+515,AcmeCorp,margaret.clark@enterprise.com,4,active,2025-05-13,,,,,,False,False
+516,DataAnalytics,james.sanchez@corp.net,1,cancelled,2025-01-25,2025-06-06,,,,,True,False
+516,DataAnalytics,james.sanchez@corp.net,5,active,2025-06-06,,,,,,False,False
+517,Tidal Tech,mary.walker+test@company.io,2,expired,2023-09-11,2024-09-07,,,,,True,False
+517,Tidal Tech,mary.walker+test@company.io,4,cancelled,2024-09-07,2025-02-18,,,,,True,False
+517,Tidal Tech,mary.walker+test@company.io,6,cancelled,2025-02-18,2024-04-13,,,,,True,False
+518,HivePlatform,mark.kim@hiveplatform.com,2,cancelled,2023-03-04,2024-01-04,,,,,True,False
+518,HivePlatform,mark.kim@hiveplatform.com,3,active,2024-01-04,,,,,,False,False
+519,IonAI,donna.green@gmail.com,2,active,2023-10-29,,,,,,False,False
+520,OrbitGroup,matthew.robinson@orbitgroup.com,4,active,2024-10-28,,,,,,False,False
+521,HiveWorks,joshua.rivera@hotmail.com,4,expired,2023-05-10,2023-10-04,,,,,True,False
+521,HiveWorks,joshua.rivera@hotmail.com,2,active,2023-10-04,,,,,,False,False
+522,GlowStack,lars.martinez@company.io,5,expired,2025-09-20,2025-11-20,,,,,True,False
+522,GlowStack,lars.martinez@company.io,4,cancelled,2025-11-20,2025-10-27,,,,,True,False
+523,PulseDev,margaret.thompson@hotmail.com,2,cancelled,2023-12-16,2025-01-18,,,,,True,False
+524,LinkVentures,lisa.hernandez@gmail.com,1,cancelled,2025-07-31,2025-09-20,,,,,True,False
+525,VertexPro,nancy.smith@vertexpro.com,4,expired,2024-03-26,2025-02-27,,,,,True,False
+525,VertexPro,nancy.smith@vertexpro.com,2,expired,2025-02-27,2025-05-10,,,,,True,False
+525,VertexPro,nancy.smith@vertexpro.com,6,cancelled,2025-05-10,2025-07-23,,,,,True,False
+526,Quark Pro,jessica.lopez@protonmail.com,1,active,2023-01-22,,,,,,False,False
+527,VertexSoftware,wei.hernandez@corp.net,5,active,2025-06-18,,,,,,False,False
+528,MetaSoftware,joshua.ramirez@gmail.com,1,cancelled,2024-08-24,2025-05-09,,,,,True,False
+529,IonDev,olga.garcia@iondev.com,1,cancelled,2024-06-04,2024-09-11,,,,,True,False
+529,IonDev,olga.garcia@iondev.com,2,active,2024-09-11,,,,,,False,False
+530,FluxDev,dorothy.hall@enterprise.com,2,active,2024-02-15,,,,,,False,False
+531,NovaPlatform,betty.wilson@corp.net,1,active,2025-05-12,,,,,,False,False
+532,SyncHQ,sandra.allen@enterprise.com,2,active,2024-01-12,,,,,,False,False
+533,Edge Studio,dmitri.allen@protonmail.com,2,cancelled,2023-04-11,2024-11-20,,,,,True,False
+534,QuarkCloud,richard.rivera@tech.dev,3,expired,2023-01-09,2023-04-20,,,,,True,False
+534,QuarkCloud,richard.rivera@tech.dev,5,active,2023-04-20,,,,,,False,False
+535,ZenVentures,steven.kim@hotmail.com,5,cancelled,2025-02-06,2025-04-13,,,,,True,False
+535,ZenVentures,steven.kim@hotmail.com,5,active,2025-04-13,,,,,,False,False
+536,UnitHQ,margaret.singh@enterprise.com,6,cancelled,2024-07-25,2024-12-09,,,,,True,False
+537,VineLabs,lisa.anderson@startup.co,2,active,2024-12-08,,,,,,False,False
+538,IonDigital,hassan.hill@startup.co,1,cancelled,2023-07-29,2024-03-12,,,,,True,False
+538,IonDigital,hassan.hill@startup.co,4,active,2024-03-12,,,,,,False,False
+539,GridWorks,jennifer.hernandez@gmail.com,6,active,2024-09-09,,,,,,False,False
+540,Quest Dev,Nancy.King@startup.co,1,cancelled,2023-04-24,2025-03-03,,,,,True,False
+541,TidalCorp,joshua.torres@tech.dev,3,cancelled,2024-04-14,2024-11-15,,,,,True,False
+541,TidalCorp,joshua.torres@tech.dev,7,active,2024-11-15,,,,,,False,False
+542,ZenGroup,ashley.robinson@outlook.com,1,active,2025-06-21,,,,,,False,False
+543,Nexus Pro,wei.lopez@gmail.com,2,cancelled,2025-06-10,2025-10-04,,,,,True,False
+543,Nexus Pro,wei.lopez@gmail.com,5,cancelled,2025-10-04,2025-10-22,,,,,True,False
+544,SagePro,priya.scott@outlook.com,2,cancelled,2025-03-09,2025-06-29,,,,,True,False
+544,SagePro,priya.scott@outlook.com,3,cancelled,2025-06-29,2025-09-04,,,,,True,False
+544,SagePro,priya.scott@outlook.com,6,active,2025-09-04,,,,,,False,False
+545,Sage Ops,lisa.chen@sageops.com,6,active,2023-04-28,,,,,,False,False
+546,Jade Ops,david.walker@yahoo.com,1,expired,2024-09-13,2025-07-26,,,,,True,False
+546,Jade Ops,david.walker@yahoo.com,6,cancelled,2025-07-26,2025-09-24,,,,,True,False
+546,Jade Ops,david.walker@yahoo.com,6,cancelled,2025-09-24,2025-02-04,,,,,True,False
+547,Trek AI,susan.lewis@tech.dev,1,expired,2025-01-03,2025-04-21,,,,,True,False
+547,Trek AI,susan.lewis@tech.dev,4,active,2025-04-21,,,,,,False,False
+548,Zeal Logic,nancy.thomas+work@gmail.com,2,cancelled,2023-07-16,2024-02-12,,,,,True,False
+548,Zeal Logic,nancy.thomas+work@gmail.com,3,active,2024-02-12,,,,,,False,False
+549,QuestSolutions,michael.ivanov@hotmail.com,2,cancelled,2025-08-14,2025-10-13,,,,,True,False
+549,QuestSolutions,michael.ivanov@hotmail.com,4,expired,2025-10-13,2025-12-12,,,,,True,False
+549,QuestSolutions,michael.ivanov@hotmail.com,4,active,2025-12-12,,,,,,False,False
+550,Ultra Solutions,charles.smith@outlook.com,2,active,2023-10-13,,,,,,False,False
+551,FluxSystems,william.taylor@startup.co,1,expired,2025-09-22,2025-11-22,,,,,True,False
+551,FluxSystems,william.taylor@startup.co,1,cancelled,2025-11-22,2026-01-21,,,,,True,False
+551,FluxSystems,william.taylor@startup.co,3,active,2026-01-21,,,,,,False,False
+552,Bolt Group,matthew.allen@corp.net,2,active,2023-01-14,,,,,,False,False
+553,TidalPlatform,jennifer.brown@hotmail.com,2,expired,2023-07-29,2023-12-06,,,,,True,False
+553,TidalPlatform,jennifer.brown@hotmail.com,2,active,2023-12-06,,,,,,False,False
+554,Ultra Stack,dorothy.muller@protonmail.com,5,active,2023-08-23,,,,,,False,False
+555,QuestPlatform,joshua.harris@questplatform.com,2,expired,2024-05-18,2025-03-27,,,,,True,False
+555,QuestPlatform,joshua.harris@questplatform.com,6,cancelled,2025-03-27,2024-11-13,,,,,True,False
+556,Link Dynamics,jessica.allen@protonmail.com,2,expired,2023-07-22,2023-12-18,,,,,True,False
+556,Link Dynamics,jessica.allen@protonmail.com,3,active,2023-12-18,,,,,,False,False
+557,KeenHQ,jennifer.white@enterprise.com,6,cancelled,2024-09-16,2025-07-23,,,,,True,False
+557,KeenHQ,jennifer.white@enterprise.com,5,cancelled,2025-07-23,2025-09-30,,,,,True,False
+557,KeenHQ,jennifer.white@enterprise.com,1,active,2025-09-30,,,,,,False,False
+558,FlowHub,elizabeth.scott@enterprise.com,4,active,2023-10-18,,,,,,False,False
+559,VertexDigital,james.smith@company.io,1,cancelled,2025-08-05,2025-10-10,,,,,True,False
+559,VertexDigital,james.smith@company.io,5,active,2025-10-10,,,,,,False,False
+560,FluxCloud,john.davis@hotmail.com,3,active,2025-09-07,,,,,,False,False
+561,GlowNet,patricia.adams@hotmail.com,1,cancelled,2023-02-05,2023-04-15,,,,,True,False
+561,GlowNet,patricia.adams@hotmail.com,2,active,2023-04-15,,,,,,False,False
+562,SageOps,fatima.martinez@sageops.com,2,cancelled,2025-02-28,2025-08-26,,,,,True,False
+563,HiveSoftware,thomas.hall@startup.co,2,active,2025-01-21,,,,,,False,False
+564,GridStack,sarah.chen@gridstack.com,1,cancelled,2023-06-22,2023-10-03,,,,,True,False
+564,GridStack,sarah.chen@gridstack.com,5,expired,2023-10-03,2024-03-18,,,,,True,False
+564,GridStack,sarah.chen@gridstack.com,5,active,2024-03-18,,,,,,False,False
+565,Xenon Solutions,ashley.lopez@corp.net,2,active,2023-07-10,,,,,,False,False
+566,QuarkCorp,kenji.green@quarkcorp.com,5,cancelled,2023-03-07,2023-05-25,,,,,True,False
+566,QuarkCorp,kenji.green@quarkcorp.com,4,active,2023-05-25,,,,,,False,False
+567,Acme Ops,michael.wilson+test@tech.dev,3,active,2025-02-18,,,,,,False,False
+568,VertexWorks,matthew.flores@company.io,4,cancelled,2023-01-04,2023-10-28,,,,,True,False
+568,VertexWorks,matthew.flores@company.io,1,active,2023-10-28,,,,,,False,False
+569,Hive Analytics,nancy.lewis@enterprise.com,2,cancelled,2024-11-07,2025-02-03,,,,,True,False
+569,Hive Analytics,nancy.lewis@enterprise.com,2,cancelled,2025-02-03,2025-08-11,,,,,True,False
+570,VineWorks,betty.chen@startup.co,4,active,2025-08-22,,,,,,False,False
+571,Meta Net,andrew.muller@yahoo.com,4,active,2023-03-31,,,,,,False,False
+572,KiteHQ,jessica.thomas@kitehq.com,1,cancelled,2025-01-02,2025-03-27,,,,,True,False
+572,KiteHQ,jessica.thomas@kitehq.com,6,cancelled,2025-03-27,2025-06-07,,,,,True,False
+573,UnitAnalytics,wei.rodriguez@unitanalytics.com,5,active,2024-12-09,,,,,,False,False
+574,PeakWorks,olga.harris@startup.co,1,active,2023-08-17,,,,,,False,False
+575,VineVentures,nancy.rodriguez@corp.net,1,expired,2023-11-15,2024-04-26,,,,,True,False
+575,VineVentures,nancy.rodriguez@corp.net,6,cancelled,2024-04-26,2025-02-03,,,,,True,False
+576,UltraHub,dorothy.nelson@ultrahub.com,1,cancelled,2025-05-22,2025-10-13,,,,,True,False
+576,UltraHub,dorothy.nelson@ultrahub.com,4,active,2025-10-13,,,,,,False,False
+577,FluxOps,ahmed.nelson@gmail.com,2,cancelled,2023-11-13,2024-05-30,,,,,True,False
+577,FluxOps,ahmed.nelson@gmail.com,7,active,2024-05-30,,,,,,False,False
+578,TrekVentures,christopher.rivera@company.io,2,expired,2025-01-03,2025-05-19,,,,,True,False
+578,TrekVentures,christopher.rivera@company.io,2,active,2025-05-19,,,,,,False,False
+579,Zeal Solutions,betty.martin@yahoo.com,1,expired,2024-07-15,2024-10-20,,,,,True,False
+579,Zeal Solutions,betty.martin@yahoo.com,4,active,2024-10-20,,,,,,False,False
+580,WarpLogic,christopher.hall@tech.dev,1,expired,2023-05-15,2024-02-21,,,,,True,False
+580,WarpLogic,christopher.hall@tech.dev,6,active,2024-02-21,,,,,,False,False
+581,Sage IO,susan.tanaka@gmail.com,1,active,2025-05-26,,,,,,False,False
+582,YieldCorp,daniel.walker@tech.dev,1,active,2024-08-30,,,,,,False,False
+583,Flux Cloud,raj.chen@outlook.com,1,active,2025-06-04,,,,,,False,False
+584,Flow Systems,Steven.Anderson@corp.net,2,cancelled,2024-12-11,2025-06-03,,,,,True,False
+584,Flow Systems,Steven.Anderson@corp.net,4,active,2025-06-03,,,,,,False,False
+585,YieldIO,andrew.rodriguez@tech.dev,4,expired,2025-04-12,2025-06-11,,,,,True,False
+585,YieldIO,andrew.rodriguez@tech.dev,2,active,2025-06-11,,,,,,False,False
+586,EdgeDev,linda.kim@outlook.com,4,active,2024-09-05,,,,,,False,False
+587,Nova Stack,Thomas.Kim@tech.dev,1,expired,2025-09-16,2025-11-15,,,,,True,False
+587,Nova Stack,Thomas.Kim@tech.dev,4,paused,2025-11-15,,,,,,False,False
+588,QuestDynamics,charles.king@corp.net,5,cancelled,2023-08-03,2024-06-12,,,,,True,False
+588,QuestDynamics,charles.king@corp.net,2,expired,2024-06-12,2025-04-29,,,,,True,False
+588,QuestDynamics,charles.king@corp.net,6,active,2025-04-29,,,,,,False,False
+589,Tidal Software,susan.nguyen@corp.net,1,cancelled,2024-07-17,2025-02-13,,,,,True,False
+589,Tidal Software,susan.nguyen@corp.net,6,cancelled,2025-02-13,2025-09-12,,,,,True,False
+589,Tidal Software,susan.nguyen@corp.net,5,active,2025-09-12,,,,,,False,False
+590,DriftTech,elizabeth.wright@protonmail.com,2,cancelled,2024-12-14,2025-10-23,,,,,True,False
+590,DriftTech,elizabeth.wright@protonmail.com,3,active,2025-10-23,,,,,,False,False
+591,ArcDigital,mary.hill@arcdigital.com,4,cancelled,2024-07-15,2025-03-04,,,,,True,False
+591,ArcDigital,mary.hill@arcdigital.com,5,cancelled,2025-03-04,2025-08-17,,,,,True,False
+591,ArcDigital,mary.hill@arcdigital.com,2,active,2025-08-17,,,,,,False,False
+592,HubSolutions,sofia.tanaka@corp.net,1,active,2024-07-18,,,,,,False,False
+593,Vine Ops,joshua.sanchez@gmail.com,3,expired,2024-12-31,2025-04-06,,,,,True,False
+593,Vine Ops,joshua.sanchez@gmail.com,1,cancelled,2025-04-06,2025-03-20,,,,,True,False
+594,UnitStack,fatima.hill@enterprise.com,1,cancelled,2025-03-28,2025-06-29,,,,,True,False
+594,UnitStack,fatima.hill@enterprise.com,4,expired,2025-06-29,2025-10-04,,,,,True,False
+594,UnitStack,fatima.hill@enterprise.com,6,active,2025-10-04,,,,,,False,False
+595,FlowSolutions,kimberly.young+nimbus@tech.dev,1,active,2023-05-20,,,,,,False,False
+596,SageDynamics,sofia.king@enterprise.com,1,active,2024-11-21,,,,,,False,False
+597,LunaTech,patricia.ramirez@outlook.com,5,active,2024-11-26,,,,,,False,False
+598,SyncCloud,ahmed.green@protonmail.com,3,expired,2025-09-09,2025-11-08,,,,,True,False
+598,SyncCloud,ahmed.green@protonmail.com,1,cancelled,2025-11-08,2026-01-08,,,,,True,False
+598,SyncCloud,ahmed.green@protonmail.com,6,active,2026-01-08,,,,,,False,False
+599,DriftGroup,donna.robinson@gmail.com,4,cancelled,2025-01-09,2025-06-25,,,,,True,False
+600,HiveDev,james.martinez@enterprise.com,2,active,2023-11-03,,,,,,False,False
+601,GridHQ,daniel.chen@gridhq.com,1,cancelled,2023-10-19,2024-09-19,,,,,True,False
+602,Echo Ops,ashley.scott@yahoo.com,3,cancelled,2025-02-21,2025-06-06,,,,,True,False
+602,Echo Ops,ashley.scott@yahoo.com,4,cancelled,2025-06-06,2025-10-13,,,,,True,False
+602,Echo Ops,ashley.scott@yahoo.com,2,active,2025-10-13,,,,,,False,False
+603,IonSystems,elizabeth.thompson@ionsystems.com,3,expired,2025-04-29,2025-09-08,,,,,True,False
+603,IonSystems,elizabeth.thompson@ionsystems.com,2,active,2025-09-08,,,,,,False,False
+604,Jet Pro,sarah.singh@hotmail.com,4,expired,2024-03-15,2024-11-12,,,,,True,False
+604,Jet Pro,sarah.singh@hotmail.com,6,cancelled,2024-11-12,2025-10-14,,,,,True,False
+605,BeamLabs,matthew.clark@hotmail.com,1,active,2024-03-12,,,,,,False,False
+606,HubAnalytics,jessica.lee@hubanalytics.com,5,active,2025-02-01,,,,,,False,False
+607,Flux Studio,Michael.Nelson@yahoo.com,5,cancelled,2025-01-29,2025-07-18,,,,,True,False
+607,Flux Studio,Michael.Nelson@yahoo.com,2,active,2025-07-18,,,,,,False,False
+608,Link Logic,aisha.chen@hotmail.com,1,active,2024-04-01,,,,,,False,False
+609,TidalPro,Olga.Martinez@tech.dev,1,active,2025-07-01,,,,,,False,False
+610,Arc Dev,william.hill@arcdev.com,2,cancelled,2024-08-02,2025-06-19,,,,,True,False
+610,Arc Dev,william.hill@arcdev.com,6,cancelled,2025-06-19,2025-01-26,,,,,True,False
+611,RiftDynamics,priya.allen@startup.co,1,cancelled,2023-07-31,2024-05-04,,,,,True,False
+612,Hub Solutions,Jessica.Jackson@protonmail.com,1,cancelled,2023-10-04,2024-07-28,,,,,True,False
+612,Hub Solutions,Jessica.Jackson@protonmail.com,2,active,2024-07-28,,,,,,False,False
+613,MistStudio,olga.rodriguez@company.io,6,cancelled,2024-10-02,2025-09-10,,,,,True,False
+613,MistStudio,olga.rodriguez@company.io,3,expired,2025-09-10,2025-11-09,,,,,True,False
+613,MistStudio,olga.rodriguez@company.io,4,active,2025-11-09,,,,,,False,False
+614,QuestHub,ahmed.hall@corp.net,2,active,2025-04-16,,,,,,False,False
+615,Unit Corp,jennifer.young@yahoo.com,2,active,2024-05-17,,,,,,False,False
+616,KiteSolutions,robert.martinez@kitesolutions.com,6,expired,2024-06-23,2025-02-10,,,,,True,False
+616,KiteSolutions,robert.martinez@kitesolutions.com,7,cancelled,2025-02-10,2024-08-01,,,,,True,False
+617,AcmeHub,jessica.singh@acmehub.com,2,cancelled,2025-09-16,2025-11-15,,,,,True,False
+617,AcmeHub,jessica.singh@acmehub.com,1,cancelled,2025-11-15,2025-10-18,,,,,True,False
+618,Echo Hub,karen.perez@tech.dev,3,active,2024-10-04,,,,,,False,False
+619,Orbit Labs,elizabeth.thompson@startup.co,1,cancelled,2025-01-02,2025-03-03,,,,,True,False
+619,Orbit Labs,elizabeth.thompson@startup.co,3,active,2025-03-03,,,,,,False,False
+620,OrbitSystems,donna.perez@outlook.com,1,cancelled,2024-09-11,2025-01-02,,,,,True,False
+620,OrbitSystems,donna.perez@outlook.com,3,cancelled,2025-01-02,2025-03-26,,,,,True,False
+621,NexusCloud,wei.white@outlook.com,1,cancelled,2025-06-01,2025-10-03,,,,,True,False
+621,NexusCloud,wei.white@outlook.com,2,active,2025-10-03,,,,,,False,False
+622,JetLogic,sofia.jones@jetlogic.com,1,active,2023-11-27,,,,,,False,False
+623,FluxCorp,lisa.rodriguez@hotmail.com,6,expired,2024-07-16,2025-05-16,,,,,True,False
+623,FluxCorp,lisa.rodriguez@hotmail.com,2,expired,2025-05-16,2025-08-13,,,,,True,False
+623,FluxCorp,lisa.rodriguez@hotmail.com,4,active,2025-08-13,,,,,,False,False
+624,ArcDev,joseph.hall@hotmail.com,1,active,2023-01-18,,,,,,False,False
+625,DataStudio,christopher.robinson@startup.co,6,active,2025-04-27,,,,,,False,False
+626,Unit Labs,patricia.hall@enterprise.com,2,cancelled,2025-06-10,2025-08-07,,,,,True,False
+627,Luna IO,dorothy.hall@company.io,5,cancelled,2024-10-22,2025-01-13,,,,,True,False
+627,Luna IO,dorothy.hall@company.io,2,active,2025-01-13,,,,,,False,False
+628,Kite Labs,fatima.robinson@corp.net,3,active,2024-12-27,,,,,,False,False
+629,FlowDev,betty.flores@tech.dev,2,cancelled,2023-03-21,2023-06-05,,,,,True,False
+629,FlowDev,betty.flores@tech.dev,2,cancelled,2023-06-05,2023-10-01,,,,,True,False
+629,FlowDev,betty.flores@tech.dev,6,active,2023-10-01,,,,,,False,False
+630,Xenon Stack,michael.miller@xenonstack.com,1,expired,2023-10-16,2024-05-25,,,,,True,False
+630,Xenon Stack,michael.miller@xenonstack.com,4,expired,2024-05-25,2024-10-02,,,,,True,False
+630,Xenon Stack,michael.miller@xenonstack.com,4,cancelled,2024-10-02,2024-02-05,,,,,True,False
+631,Cloud Platform,andrew.williams@cloudplatform.com,3,expired,2023-04-06,2023-06-17,,,,,True,False
+631,Cloud Platform,andrew.williams@cloudplatform.com,1,active,2023-06-17,,,,,,False,False
+632,Warp Logic,carlos.baker@warplogic.com,2,active,2025-04-06,,,,,,False,False
+633,Jet Ops,jennifer.rivera@yahoo.com,5,cancelled,2023-06-14,2023-09-24,,,,,True,False
+633,Jet Ops,jennifer.rivera@yahoo.com,2,active,2023-09-24,,,,,,False,False
+634,CoreDigital,john.rivera@hotmail.com,4,cancelled,2024-09-13,2024-12-11,,,,,True,False
+635,Tidal Dynamics,ashley.miller@protonmail.com,1,active,2023-10-14,,,,,,False,False
+636,QuarkIO,david.davis@company.io,2,active,2024-02-15,,,,,,False,False
+637,CoreStudio,jennifer.baker@gmail.com,1,cancelled,2024-10-21,2025-09-23,,,,,True,False
+638,Kite Ventures,joseph.harris@company.io,1,active,2024-10-19,,,,,,False,False
+639,ZenHub,charles.perez@zenhub.com,1,cancelled,2024-04-10,2024-09-07,,,,,True,False
+640,MistHub,mei.ramirez@hotmail.com,1,expired,2025-09-02,2025-11-01,,,,,True,False
+640,MistHub,mei.ramirez@hotmail.com,1,active,2025-11-01,,,,,,False,False
+641,Zen Tech,mark.clark@protonmail.com,1,cancelled,2023-02-25,2023-07-24,,,,,True,False
+641,Zen Tech,mark.clark@protonmail.com,3,cancelled,2023-07-24,2024-01-09,,,,,True,False
+641,Zen Tech,mark.clark@protonmail.com,1,cancelled,2024-01-09,2025-01-20,,,,,True,False
+642,KiteSoftware,paul.hall@startup.co,5,active,2024-12-10,,,,,,False,False
+643,EdgePro,wei.ivanov@edgepro.com,5,cancelled,2025-07-07,2025-10-15,,,,,True,False
+643,EdgePro,wei.ivanov@edgepro.com,6,cancelled,2025-10-15,2025-12-14,,,,,True,False
+643,EdgePro,wei.ivanov@edgepro.com,5,active,2025-12-14,,,,,,False,False
+644,Nova Pro,paul.singh@company.io,2,active,2023-07-15,,,,,,False,False
+645,BoltCloud,carlos.young@startup.co,1,cancelled,2025-04-28,2025-10-24,,,,,True,False
+645,BoltCloud,carlos.young@startup.co,2,active,2025-10-24,,,,,,False,False
+646,LunaDynamics,christopher.nelson@protonmail.com,2,cancelled,2025-08-18,2025-10-24,,,,,True,False
+646,LunaDynamics,christopher.nelson@protonmail.com,3,active,2025-10-24,,,,,,False,False
+647,Vine Hub,aisha.lewis@protonmail.com,2,expired,2023-08-05,2024-05-01,,,,,True,False
+647,Vine Hub,aisha.lewis@protonmail.com,2,expired,2024-05-01,2024-12-19,,,,,True,False
+647,Vine Hub,aisha.lewis@protonmail.com,5,active,2024-12-19,,,,,,False,False
+648,DriftCorp,betty.smith@tech.dev,2,active,2025-06-19,,,,,,False,False
+649,Arc AI,mei.white@corp.net,5,active,2023-06-24,,,,,,False,False
+650,Peak Logic,margaret.rodriguez@yahoo.com,3,active,2023-11-22,,,,,,False,False
+651,Ultra Software,margaret.smith@gmail.com,2,cancelled,2024-07-10,2025-05-21,,,,,True,False
+651,Ultra Software,margaret.smith@gmail.com,3,active,2025-05-21,,,,,,False,False
+652,DriftStack,raj.anderson@hotmail.com,3,expired,2025-04-06,2025-06-11,,,,,True,False
+652,DriftStack,raj.anderson@hotmail.com,3,active,2025-06-11,,,,,,False,False
+653,RushTech,emily.miller@rushtech.com,1,active,2023-10-17,,,,,,False,False
+654,Bolt Corp,robert.wilson@company.io,3,expired,2024-04-06,2025-03-24,,,,,True,False
+654,Bolt Corp,robert.wilson@company.io,6,expired,2025-03-24,2025-08-25,,,,,True,False
+654,Bolt Corp,robert.wilson@company.io,4,active,2025-08-25,,,,,,False,False
+655,QuestVentures,lisa.thompson@questventures.com,3,expired,2024-06-18,2025-01-29,,,,,True,False
+655,QuestVentures,lisa.thompson@questventures.com,7,active,2025-01-29,,,,,,False,False
+656,MistLabs,susan.white@mistlabs.com,1,active,2023-03-27,,,,,,False,False
+657,Flow Studio,christopher.robinson@tech.dev,2,cancelled,2025-08-02,2025-10-21,,,,,True,False
+657,Flow Studio,christopher.robinson@tech.dev,4,cancelled,2025-10-21,2025-09-17,,,,,True,False
+658,ZenSystems,william.muller@startup.co,1,expired,2024-03-09,2024-09-18,,,,,True,False
+658,ZenSystems,william.muller@startup.co,5,active,2024-09-18,,,,,,False,False
+659,MistLogic,aisha.ivanov@gmail.com,3,expired,2023-09-17,2024-04-05,,,,,True,False
+659,MistLogic,aisha.ivanov@gmail.com,5,active,2024-04-05,,,,,,False,False
+660,Nova Ops,lars.lee@gmail.com,2,active,2023-08-07,,,,,,False,False
+661,MistSoftware,yuki.hill@outlook.com,4,expired,2024-10-23,2025-05-23,,,,,True,False
+661,MistSoftware,yuki.hill@outlook.com,7,active,2025-05-23,,,,,,False,False
+662,Flux IO,linda.davis@corp.net,1,cancelled,2024-08-13,2024-09-25,,,,,True,False
+663,Peak Labs,dmitri.tanaka@company.io,5,cancelled,2024-02-14,2024-11-13,,,,,True,False
+664,FluxStack,Donna.Miller@fluxstack.com,3,active,2023-11-27,,,,,,False,False
+665,Xenon Dynamics,Thomas.Muller@xenondynamics.com,2,cancelled,2023-12-04,2024-11-24,,,,,True,False
+665,Xenon Dynamics,Thomas.Muller@xenondynamics.com,6,active,2024-11-24,,,,,,False,False
+666,Ion Ventures,charles.martinez@startup.co,4,expired,2024-11-15,2025-02-14,,,,,True,False
+666,Ion Ventures,charles.martinez@startup.co,5,cancelled,2025-02-14,2025-07-07,,,,,True,False
+667,PulseOps,robert.jones@gmail.com,2,cancelled,2024-04-24,2024-07-18,,,,,True,False
+667,PulseOps,robert.jones@gmail.com,1,active,2024-07-18,,,,,,False,False
+668,LinkHub,yuki.robinson@outlook.com,2,expired,2023-08-13,2024-06-10,,,,,True,False
+668,LinkHub,yuki.robinson@outlook.com,5,expired,2024-06-10,2024-11-19,,,,,True,False
+668,LinkHub,yuki.robinson@outlook.com,4,active,2024-11-19,,,,,,False,False
+669,Rush Corp,kenji.torres@outlook.com,1,cancelled,2023-09-04,2024-09-25,,,,,True,False
+670,Jade Tech,elizabeth.sanchez@gmail.com,1,cancelled,2024-01-14,2025-06-30,,,,,True,False
+671,Luna Group,ashley.king@hotmail.com,2,expired,2023-08-13,2023-11-16,,,,,True,False
+671,Luna Group,ashley.king@hotmail.com,1,expired,2023-11-16,2024-10-06,,,,,True,False
+671,Luna Group,ashley.king@hotmail.com,2,cancelled,2024-10-06,2023-11-06,,,,,True,False
+672,RushPlatform,betty.sanchez@protonmail.com,2,active,2023-06-25,,,,,,False,False
+673,Glow Net,karen.hall@outlook.com,5,active,2023-12-07,,,,,,False,False
+674,Quark Tech,joshua.thompson@enterprise.com,2,cancelled,2024-04-28,2024-06-10,,,,,True,False
+675,OrbitDev,michael.martin@enterprise.com,2,active,2024-07-12,,,,,,False,False
+676,WaveCloud,ana.santos@tech.dev,1,cancelled,2023-01-22,2024-11-19,,,,,True,False
+677,SageCorp,matthew.green@tech.dev,5,active,2024-04-05,,,,,,False,False
+678,QuarkOps,anthony.moore@tech.dev,3,active,2025-05-04,,,,,,False,False
+679,Rift Digital,kimberly.nelson@outlook.com,2,expired,2023-01-16,2023-07-05,,,,,True,False
+679,Rift Digital,kimberly.nelson@outlook.com,2,cancelled,2023-07-05,2024-05-19,,,,,True,False
+679,Rift Digital,kimberly.nelson@outlook.com,4,active,2024-05-19,,,,,,False,False
+680,DataIO,Dmitri.Smith@protonmail.com,2,active,2024-05-29,,,,,,False,False
+681,Unit Software,Christopher.Anderson@hotmail.com,1,active,2024-10-14,,,,,,False,False
+682,KeenCorp,david.baker@startup.co,3,cancelled,2023-11-05,2024-05-26,,,,,True,False
+682,KeenCorp,david.baker@startup.co,6,active,2024-05-26,,,,,,False,False
+683,Core Net,yuki.thompson@startup.co,1,expired,2024-04-17,2025-02-27,,,,,True,False
+683,Core Net,yuki.thompson@startup.co,5,cancelled,2025-02-27,2025-07-25,,,,,True,False
+684,Tidal Platform,david.flores@tidalplatform.com,2,active,2025-05-15,,,,,,False,False
+685,Peak Systems,sofia.jackson@peaksystems.com,3,active,2024-08-21,,,,,,False,False
+686,SageSoftware,david.anderson@yahoo.com,1,active,2023-11-15,,,,,,False,False
+687,Edge Labs,dorothy.miller@gmail.com,1,expired,2024-03-30,2024-09-02,,,,,True,False
+687,Edge Labs,dorothy.miller@gmail.com,3,cancelled,2024-09-02,2025-05-09,,,,,True,False
+687,Edge Labs,dorothy.miller@gmail.com,6,active,2025-05-09,,,,,,False,False
+688,ZenIO,thomas.ivanov@zenio.com,1,active,2023-05-30,,,,,,False,False
+689,KiteDev,donald.jackson@corp.net,1,expired,2024-11-14,2025-06-27,,,,,True,False
+689,KiteDev,donald.jackson@corp.net,1,active,2025-06-27,,,,,,False,False
+690,HubVentures,raj.adams@gmail.com,4,expired,2023-12-30,2024-06-01,,,,,True,False
+690,HubVentures,raj.adams@gmail.com,3,active,2024-06-01,,,,,,False,False
+691,AcmeSolutions,susan.thompson@acmesolutions.com,4,expired,2024-11-02,2025-02-15,,,,,True,False
+691,AcmeSolutions,susan.thompson@acmesolutions.com,5,cancelled,2025-02-15,2025-08-13,,,,,True,False
+692,RushHub,dmitri.adams@corp.net,6,cancelled,2024-08-12,2025-07-31,,,,,True,False
+692,RushHub,dmitri.adams@corp.net,1,active,2025-07-31,,,,,,False,False
+693,IonNet,donna.santos@yahoo.com,1,cancelled,2024-11-12,2025-09-01,,,,,True,False
+694,GridSolutions,robert.brown@outlook.com,1,active,2024-01-19,,,,,,False,False
+695,YieldDigital,richard.taylor@hotmail.com,6,expired,2023-06-15,2023-12-27,,,,,True,False
+695,YieldDigital,richard.taylor@hotmail.com,4,active,2023-12-27,,,,,,False,False
+696,LinkLabs,john.tanaka+nimbus@corp.net,4,cancelled,2023-03-15,2023-06-19,,,,,True,False
+696,LinkLabs,john.tanaka+nimbus@corp.net,2,cancelled,2023-06-19,2023-09-28,,,,,True,False
+696,LinkLabs,john.tanaka+nimbus@corp.net,4,active,2023-09-28,,,,,,False,False
+697,EchoDev,hassan.jones@outlook.com,2,cancelled,2023-05-11,2024-02-16,,,,,True,False
+697,EchoDev,hassan.jones@outlook.com,7,active,2024-02-16,,,,,,False,False
+698,DataGroup,dmitri.taylor@yahoo.com,5,active,2023-03-18,,,,,,False,False
+699,Sage Systems,Raj.Johnson@hotmail.com,1,cancelled,2025-02-22,2025-06-11,,,,,True,False
+700,WarpOps,robert.tanaka@gmail.com,5,active,2023-03-14,,,,,,False,False
+701,Cloud IO,daniel.ramirez@cloudio.com,5,expired,2023-02-26,2023-07-14,,,,,True,False
+701,Cloud IO,daniel.ramirez@cloudio.com,5,cancelled,2023-07-14,2024-01-26,,,,,True,False
+702,RiftOps,matthew.singh@startup.co,1,active,2023-04-29,,,,,,False,False
+1135,CoreAnalytics,lisa.martinez@protonmail.com,1,cancelled,2025-05-02,2025-03-19,,,,,True,False
+703,WaveSoftware,joseph.garcia@tech.dev,1,cancelled,2025-04-01,2025-09-17,,,,,True,False
+704,DataDigital,daniel.hill@datadigital.com,4,expired,2024-02-12,2024-04-19,,,,,True,False
+704,DataDigital,daniel.hill@datadigital.com,6,active,2024-04-19,,,,,,False,False
+705,IrisSoftware,ana.anderson@company.io,3,cancelled,2023-10-27,2024-02-17,,,,,True,False
+705,IrisSoftware,ana.anderson@company.io,5,active,2024-02-17,,,,,,False,False
+706,TrekGroup,dmitri.king@trekgroup.com,1,paused,2025-01-12,,,,,,False,False
+707,PeakHub,dmitri.williams@protonmail.com,3,expired,2023-03-28,2023-11-26,,,,,True,False
+707,PeakHub,dmitri.williams@protonmail.com,2,cancelled,2023-11-26,2024-12-13,,,,,True,False
+708,Luna Ops,Wei.Martin@gmail.com,4,active,2025-02-11,,,,,,False,False
+709,UnitGroup,ahmed.kim@startup.co,3,expired,2025-08-12,2025-10-14,,,,,True,False
+709,UnitGroup,ahmed.kim@startup.co,3,active,2025-10-14,,,,,,False,False
+710,BeamVentures,william.harris@beamventures.com,3,paused,2023-01-16,,,,,,False,False
+711,FlowPlatform,betty.williams@protonmail.com,3,expired,2025-04-09,2025-10-17,,,,,True,False
+711,FlowPlatform,betty.williams@protonmail.com,4,active,2025-10-17,,,,,,False,False
+712,Cloud Studio,susan.clark@protonmail.com,6,active,2024-07-18,,,,,,False,False
+713,Onyx Solutions,raj.brown@yahoo.com,4,expired,2025-05-31,2025-10-03,,,,,True,False
+713,Onyx Solutions,raj.brown@yahoo.com,4,active,2025-10-03,,,,,,False,False
+714,DataNet,ana.thompson@hotmail.com,2,active,2023-03-21,,,,,,False,False
+715,Beam Cloud,joshua.muller@company.io,2,expired,2025-09-23,2025-11-22,,,,,True,False
+715,Beam Cloud,joshua.muller@company.io,2,cancelled,2025-11-22,2026-01-21,,,,,True,False
+715,Beam Cloud,joshua.muller@company.io,5,active,2026-01-21,,,,,,False,False
+716,Mist Software,yuki.singh@company.io,5,cancelled,2024-01-23,2024-12-16,,,,,True,False
+716,Mist Software,yuki.singh@company.io,4,active,2024-12-16,,,,,,False,False
+717,Edge Platform,aisha.scott@outlook.com,5,active,2024-06-24,,,,,,False,False
+718,Keen Cloud,jessica.tanaka@enterprise.com,4,cancelled,2025-09-22,2025-11-22,,,,,True,False
+718,Keen Cloud,jessica.tanaka@enterprise.com,6,cancelled,2025-11-22,2025-10-24,,,,,True,False
+719,GlowTech,joseph.lewis@yahoo.com,2,active,2023-09-08,,,,,,False,False
+720,MistAnalytics,jennifer.clark@corp.net,1,active,2025-06-21,,,,,,False,False
+721,Quark Hub,ahmed.miller@quarkhub.com,2,expired,2023-06-20,2024-03-13,,,,,True,False
+721,Quark Hub,ahmed.miller@quarkhub.com,7,active,2024-03-13,,,,,,False,False
+722,Sage Dynamics,linda.perez@corp.net,1,expired,2023-04-21,2023-10-04,,,,,True,False
+722,Sage Dynamics,linda.perez@corp.net,4,active,2023-10-04,,,,,,False,False
+723,CoreCorp,christopher.kim@yahoo.com,4,cancelled,2024-08-26,2025-01-11,,,,,True,False
+723,CoreCorp,christopher.kim@yahoo.com,5,expired,2025-01-11,2025-08-30,,,,,True,False
+723,CoreCorp,christopher.kim@yahoo.com,6,paused,2025-08-30,,,,,,False,False
+724,JetLabs,sandra.harris@corp.net,2,expired,2025-03-02,2025-09-03,,,,,True,False
+724,JetLabs,sandra.harris@corp.net,5,cancelled,2025-09-03,2025-07-25,,,,,True,False
+725,SyncWorks,john.ivanov@hotmail.com,1,active,2023-10-12,,,,,,False,False
+726,Kite Cloud,priya.miller@kitecloud.com,2,expired,2024-07-19,2024-11-01,,,,,True,False
+726,Kite Cloud,priya.miller@kitecloud.com,5,active,2024-11-01,,,,,,False,False
+727,MistAI,james.young+work@protonmail.com,1,active,2024-08-07,,,,,,False,False
+728,HubHQ,kenji.rodriguez@outlook.com,2,expired,2025-04-02,2025-09-18,,,,,True,False
+728,HubHQ,kenji.rodriguez@outlook.com,6,cancelled,2025-09-18,2025-11-18,,,,,True,False
+728,HubHQ,kenji.rodriguez@outlook.com,5,cancelled,2025-11-18,2025-10-03,,,,,True,False
+729,Sage Works,michael.rivera@tech.dev,3,active,2025-06-17,,,,,,False,False
+730,Echo Digital,olga.young@outlook.com,5,expired,2025-05-27,2025-09-04,,,,,True,False
+730,Echo Digital,olga.young@outlook.com,2,active,2025-09-04,,,,,,False,False
+731,Yield Stack,daniel.walker@protonmail.com,4,expired,2025-06-15,2025-09-19,,,,,True,False
+731,Yield Stack,daniel.walker@protonmail.com,7,active,2025-09-19,,,,,,False,False
+732,SyncCorp,margaret.davis@outlook.com,1,active,2024-02-12,,,,,,False,False
+733,FluxGroup,sarah.allen@fluxgroup.com,6,expired,2025-03-01,2025-09-24,,,,,True,False
+733,FluxGroup,sarah.allen@fluxgroup.com,2,active,2025-09-24,,,,,,False,False
+734,KeenSolutions,donna.flores@gmail.com,5,active,2023-01-22,,,,,,False,False
+735,ZealHub,susan.white@tech.dev,2,active,2025-01-05,,,,,,False,False
+736,AcmeAI,steven.sanchez@protonmail.com,3,cancelled,2023-08-24,2023-12-19,,,,,True,False
+736,AcmeAI,steven.sanchez@protonmail.com,2,expired,2023-12-19,2024-10-09,,,,,True,False
+736,AcmeAI,steven.sanchez@protonmail.com,5,active,2024-10-09,,,,,,False,False
+737,ZenDigital,robert.jones@zendigital.com,1,cancelled,2025-01-30,2025-05-22,,,,,True,False
+737,ZenDigital,robert.jones@zendigital.com,7,paused,2025-05-22,,,,,,False,False
+738,GridPro,ana.martin@gmail.com,2,active,2024-04-14,,,,,,False,False
+739,YieldCloud,sarah.walker@tech.dev,2,active,2023-01-18,,,,,,False,False
+740,CorePlatform,mark.white@protonmail.com,4,cancelled,2025-04-09,2025-08-17,,,,,True,False
+740,CorePlatform,mark.white@protonmail.com,7,active,2025-08-17,,,,,,False,False
+741,Jet Logic,dorothy.patel@gmail.com,1,active,2023-09-16,,,,,,False,False
+742,CloudWorks,sarah.hall@enterprise.com,4,cancelled,2023-11-17,2024-09-27,,,,,True,False
+742,CloudWorks,sarah.hall@enterprise.com,4,active,2024-09-27,,,,,,False,False
+743,GlowDynamics,margaret.hall@gmail.com,2,cancelled,2025-02-05,2025-04-28,,,,,True,False
+743,GlowDynamics,margaret.hall@gmail.com,1,cancelled,2025-04-28,2025-05-22,,,,,True,False
+744,CloudCorp,ashley.rodriguez@cloudcorp.com,1,expired,2023-05-01,2023-12-27,,,,,True,False
+744,CloudCorp,ashley.rodriguez@cloudcorp.com,6,active,2023-12-27,,,,,,False,False
+745,NovaGroup,thomas.walker@yahoo.com,1,active,2025-01-02,,,,,,False,False
+746,EchoTech,richard.gonzalez@echotech.com,3,active,2024-10-01,,,,,,False,False
+747,Meta Analytics,emily.patel@startup.co,4,cancelled,2024-07-28,2025-04-02,,,,,True,False
+747,Meta Analytics,emily.patel@startup.co,4,active,2025-04-02,,,,,,False,False
+748,Nova Analytics,michael.rodriguez@startup.co,2,expired,2025-03-01,2025-09-02,,,,,True,False
+748,Nova Analytics,michael.rodriguez@startup.co,7,expired,2025-09-02,2025-11-01,,,,,True,False
+748,Nova Analytics,michael.rodriguez@startup.co,2,active,2025-11-01,,,,,,False,False
+749,Orbit Software,elizabeth.martinez@orbitsoftware.com,3,cancelled,2025-09-20,2025-11-19,,,,,True,False
+749,Orbit Software,elizabeth.martinez@orbitsoftware.com,5,cancelled,2025-11-19,2026-01-18,,,,,True,False
+749,Orbit Software,elizabeth.martinez@orbitsoftware.com,3,cancelled,2026-01-18,2025-10-26,,,,,True,False
+750,TidalDev,matthew.singh@protonmail.com,1,active,2023-11-21,,,,,,False,False
+751,Xenon HQ,olga.ramirez@hotmail.com,1,expired,2023-07-03,2023-09-17,,,,,True,False
+751,Xenon HQ,olga.ramirez@hotmail.com,3,active,2023-09-17,,,,,,False,False
+752,AcmeVentures,steven.smith@protonmail.com,4,cancelled,2024-02-12,2025-09-04,,,,,True,False
+753,TrekIO,barbara.walker@tech.dev,2,active,2023-02-09,,,,,,False,False
+754,Ion Tech,patricia.lewis@outlook.com,1,active,2023-10-12,,,,,,False,False
+755,VertexOps,emily.patel@startup.co,5,cancelled,2024-11-14,2025-05-23,,,,,True,False
+755,VertexOps,emily.patel@startup.co,1,active,2025-05-23,,,,,,False,False
+756,Core AI,carlos.allen@gmail.com,1,active,2024-07-28,,,,,,False,False
+757,Link Stack,mei.smith@outlook.com,3,expired,2025-08-23,2025-10-30,,,,,True,False
+757,Link Stack,mei.smith@outlook.com,4,expired,2025-10-30,2025-12-30,,,,,True,False
+757,Link Stack,mei.smith@outlook.com,5,active,2025-12-30,,,,,,False,False
+758,VineHub,yuki.jackson@company.io,3,cancelled,2025-05-05,2025-09-20,,,,,True,False
+758,VineHub,yuki.jackson@company.io,6,expired,2025-09-20,2025-11-19,,,,,True,False
+758,VineHub,yuki.jackson@company.io,5,cancelled,2025-11-19,2025-07-12,,,,,True,False
+759,LinkStudio,dmitri.green@corp.net,1,active,2024-07-04,,,,,,False,False
+760,SyncSoftware,mei.moore@protonmail.com,1,expired,2023-09-25,2024-09-22,,,,,True,False
+760,SyncSoftware,mei.moore@protonmail.com,3,cancelled,2024-09-22,2024-01-22,,,,,True,False
+761,EchoDigital,matthew.nelson@outlook.com,1,expired,2025-06-09,2025-10-11,,,,,True,False
+761,EchoDigital,matthew.nelson@outlook.com,2,active,2025-10-11,,,,,,False,False
+762,Wave Cloud,Barbara.Kim@enterprise.com,3,active,2024-12-12,,,,,,False,False
+763,CloudPlatform,anthony.ramirez@startup.co,4,expired,2023-06-17,2024-04-10,,,,,True,False
+763,CloudPlatform,anthony.ramirez@startup.co,6,active,2024-04-10,,,,,,False,False
+764,Quest Works,karen.muller@enterprise.com,5,cancelled,2024-04-16,2024-09-07,,,,,True,False
+765,Nova Corp,elizabeth.baker@gmail.com,1,cancelled,2023-12-19,2025-03-20,,,,,True,False
+766,QuestLogic,matthew.rodriguez@startup.co,5,active,2025-07-08,,,,,,False,False
+767,Mist Solutions,nancy.perez+test@startup.co,4,expired,2024-10-23,2025-06-28,,,,,True,False
+767,Mist Solutions,nancy.perez+test@startup.co,7,active,2025-06-28,,,,,,False,False
+768,BeamTech,elizabeth.jackson@beamtech.com,4,expired,2025-09-08,2025-11-08,,,,,True,False
+768,BeamTech,elizabeth.jackson@beamtech.com,3,active,2025-11-08,,,,,,False,False
+769,UnitSystems,william.lee@unitsystems.com,1,cancelled,2024-10-31,2025-08-31,,,,,True,False
+769,UnitSystems,william.lee@unitsystems.com,6,active,2025-08-31,,,,,,False,False
+770,BeamAnalytics,steven.white@tech.dev,4,active,2023-04-25,,,,,,False,False
+771,Vertex Net,steven.ivanov@vertexnet.com,2,expired,2023-10-16,2024-04-12,,,,,True,False
+771,Vertex Net,steven.ivanov@vertexnet.com,5,cancelled,2024-04-12,2025-09-19,,,,,True,False
+772,SyncHub,christopher.thompson@protonmail.com,1,cancelled,2024-09-02,2024-10-30,,,,,True,False
+773,Flux Corp,sandra.hall@tech.dev,2,expired,2023-02-11,2024-02-02,,,,,True,False
+773,Flux Corp,sandra.hall@tech.dev,2,cancelled,2024-02-02,2024-10-12,,,,,True,False
+774,YieldDev,ahmed.martin+test@protonmail.com,1,active,2025-01-30,,,,,,False,False
+775,HubSoftware,paul.muller@company.io,2,active,2023-08-09,,,,,,False,False
+776,Arc Software,wei.rodriguez@arcsoftware.com,2,cancelled,2023-08-19,2024-05-27,,,,,True,False
+777,LinkCorp,Donald.Scott@company.io,2,active,2023-06-05,,,,,,False,False
+778,Yield Analytics,ana.torres@tech.dev,3,cancelled,2023-03-27,2024-02-12,,,,,True,False
+778,Yield Analytics,ana.torres@tech.dev,2,cancelled,2024-02-12,2024-10-07,,,,,True,False
+778,Yield Analytics,ana.torres@tech.dev,3,active,2024-10-07,,,,,,False,False
+779,TidalCloud,mary.martinez@company.io,4,expired,2024-03-01,2025-02-15,,,,,True,False
+779,TidalCloud,mary.martinez@company.io,6,active,2025-02-15,,,,,,False,False
+780,IonLogic,betty.wilson@protonmail.com,3,expired,2023-06-12,2024-02-07,,,,,True,False
+780,IonLogic,betty.wilson@protonmail.com,2,active,2024-02-07,,,,,,False,False
+781,JadeCorp,sarah.lee@company.io,2,expired,2024-06-29,2025-02-17,,,,,True,False
+781,JadeCorp,sarah.lee@company.io,3,active,2025-02-17,,,,,,False,False
+782,Core Solutions,Betty.Jackson@enterprise.com,1,active,2024-11-30,,,,,,False,False
+783,Nexus Dev,olga.clark@hotmail.com,1,active,2024-10-02,,,,,,False,False
+784,TrekSoftware,susan.torres@corp.net,6,cancelled,2023-09-05,2024-04-18,,,,,True,False
+784,TrekSoftware,susan.torres@corp.net,5,cancelled,2024-04-18,2025-03-21,,,,,True,False
+784,TrekSoftware,susan.torres@corp.net,3,active,2025-03-21,,,,,,False,False
+785,MistWorks,sandra.patel+work@startup.co,4,active,2024-04-26,,,,,,False,False
+786,Zeal Group,mary.lewis@protonmail.com,4,expired,2025-04-28,2025-10-17,,,,,True,False
+786,Zeal Group,mary.lewis@protonmail.com,3,cancelled,2025-10-17,2025-12-16,,,,,True,False
+786,Zeal Group,mary.lewis@protonmail.com,3,active,2025-12-16,,,,,,False,False
+787,UnitSolutions,jessica.muller@company.io,2,active,2023-03-17,,,,,,False,False
+788,WarpAnalytics,mei.lewis@warpanalytics.com,1,cancelled,2023-05-24,2024-09-13,,,,,True,False
+789,TrekSolutions,mark.baker@treksolutions.com,4,active,2023-10-27,,,,,,False,False
+790,Acme Analytics,ahmed.king@yahoo.com,2,cancelled,2024-10-21,2025-10-17,,,,,True,False
+791,EchoSolutions,robert.perez@yahoo.com,4,active,2025-03-07,,,,,,False,False
+792,Onyx Systems,sarah.scott@tech.dev,4,active,2025-09-20,,,,,,False,False
+793,Peak Platform,Sandra.Lopez@tech.dev,2,cancelled,2025-01-30,2025-10-25,,,,,True,False
+793,Peak Platform,Sandra.Lopez@tech.dev,2,cancelled,2025-10-25,2025-12-25,,,,,True,False
+793,Peak Platform,Sandra.Lopez@tech.dev,6,cancelled,2025-12-25,2025-03-25,,,,,True,False
+794,PulseVentures,paul.muller@outlook.com,5,active,2023-04-30,,,,,,False,False
+795,Acme Ventures,olga.lewis@corp.net,5,active,2023-01-01,,,,,,False,False
+796,Iris Platform,kimberly.allen@yahoo.com,1,active,2023-11-23,,,,,,False,False
+797,EdgeHub,lisa.green@hotmail.com,2,active,2025-02-20,,,,,,False,False
+798,NexusSoftware,richard.singh@yahoo.com,2,cancelled,2023-06-10,2024-02-08,,,,,True,False
+798,NexusSoftware,richard.singh@yahoo.com,3,active,2024-02-08,,,,,,False,False
+799,Quark IO,nancy.martinez@company.io,2,cancelled,2024-03-11,2025-01-16,,,,,True,False
+799,Quark IO,nancy.martinez@company.io,5,active,2025-01-16,,,,,,False,False
+800,Arc Studio,sandra.singh@hotmail.com,5,cancelled,2025-01-03,2025-03-08,,,,,True,False
+800,Arc Studio,sandra.singh@hotmail.com,5,cancelled,2025-03-08,2025-10-26,,,,,True,False
+800,Arc Studio,sandra.singh@hotmail.com,5,active,2025-10-26,,,,,,False,False
+801,UltraCorp,ahmed.gonzalez@enterprise.com,5,cancelled,2023-04-20,2024-01-24,,,,,True,False
+802,CloudHub,jessica.moore@cloudhub.com,4,active,2024-10-16,,,,,,False,False
+803,Vine Tech,anthony.ivanov@protonmail.com,4,cancelled,2024-07-29,2025-03-06,,,,,True,False
+804,Zeal Tech,yuki.chen@enterprise.com,1,cancelled,2023-08-08,2025-09-03,,,,,True,False
+805,Arc Corp,hassan.brown@tech.dev,2,cancelled,2024-08-02,2024-11-03,,,,,True,False
+805,Arc Corp,hassan.brown@tech.dev,2,expired,2024-11-03,2025-08-18,,,,,True,False
+805,Arc Corp,hassan.brown@tech.dev,4,active,2025-08-18,,,,,,False,False
+806,Vertex Stack,andrew.garcia@tech.dev,4,expired,2024-06-09,2024-08-12,,,,,True,False
+806,Vertex Stack,andrew.garcia@tech.dev,3,active,2024-08-12,,,,,,False,False
+807,WarpTech,sandra.lewis@yahoo.com,6,cancelled,2023-03-16,2025-09-24,,,,,True,False
+808,BoltLogic,mary.smith@protonmail.com,1,cancelled,2024-08-21,2025-06-24,,,,,True,False
+808,BoltLogic,mary.smith@protonmail.com,3,active,2025-06-24,,,,,,False,False
+809,Zeal Digital,michael.johnson@gmail.com,4,active,2024-07-07,,,,,,False,False
+810,Kite Corp,Lars.Thompson@kitecorp.com,2,expired,2025-08-28,2025-10-29,,,,,True,False
+810,Kite Corp,Lars.Thompson@kitecorp.com,4,active,2025-10-29,,,,,,False,False
+811,Yield Ventures,barbara.allen@outlook.com,1,cancelled,2023-08-03,2025-09-30,,,,,True,False
+812,BoltLabs,daniel.white@startup.co,4,paused,2024-10-29,,,,,,False,False
+813,EchoLabs,charles.williams@echolabs.com,1,expired,2024-06-15,2024-08-19,,,,,True,False
+813,EchoLabs,charles.williams@echolabs.com,2,cancelled,2024-08-19,2025-07-14,,,,,True,False
+814,Nexus Corp,barbara.lopez@yahoo.com,1,cancelled,2025-08-05,2025-09-19,,,,,True,False
+815,Echo AI,anthony.williams@tech.dev,2,cancelled,2023-04-13,2024-04-22,,,,,True,False
+816,Mist Stack,donald.taylor@company.io,4,active,2024-11-15,,,,,,False,False
+817,IonPlatform,wei.garcia@protonmail.com,2,active,2023-04-18,,,,,,False,False
+818,KeenAnalytics,nancy.nelson@gmail.com,2,active,2025-03-29,,,,,,False,False
+819,AcmeDigital,william.sanchez@enterprise.com,4,active,2023-07-12,,,,,,False,False
+820,CoreSoftware,linda.chen@company.io,4,cancelled,2025-07-02,2025-09-03,,,,,True,False
+821,VertexHub,Margaret.Adams@outlook.com,2,expired,2024-04-13,2024-10-05,,,,,True,False
+821,VertexHub,Margaret.Adams@outlook.com,4,active,2024-10-05,,,,,,False,False
+822,GlowSolutions,elizabeth.santos@hotmail.com,2,active,2023-12-29,,,,,,False,False
+823,IrisStudio,nancy.hernandez@corp.net,2,cancelled,2025-08-10,2025-10-19,,,,,True,False
+823,IrisStudio,nancy.hernandez@corp.net,5,active,2025-10-19,,,,,,False,False
+824,Zen Cloud,donald.robinson@zencloud.com,1,cancelled,2023-09-15,2024-06-30,,,,,True,False
+824,Zen Cloud,donald.robinson@zencloud.com,3,expired,2024-06-30,2024-12-29,,,,,True,False
+824,Zen Cloud,donald.robinson@zencloud.com,6,active,2024-12-29,,,,,,False,False
+825,KiteHub,raj.clark@kitehub.com,6,active,2025-09-13,,,,,,False,False
+826,UltraLabs,michael.singh@enterprise.com,5,expired,2023-05-08,2024-01-24,,,,,True,False
+826,UltraLabs,michael.singh@enterprise.com,5,cancelled,2024-01-24,2024-09-26,,,,,True,False
+826,UltraLabs,michael.singh@enterprise.com,5,active,2024-09-26,,,,,,False,False
+827,VertexAnalytics,linda.green@enterprise.com,4,expired,2023-08-19,2024-03-18,,,,,True,False
+827,VertexAnalytics,linda.green@enterprise.com,3,expired,2024-03-18,2025-03-15,,,,,True,False
+827,VertexAnalytics,linda.green@enterprise.com,2,active,2025-03-15,,,,,,False,False
+828,OnyxSystems,olga.moore@company.io,1,active,2025-05-06,,,,,,False,False
+829,Grid Ventures,michael.torres@hotmail.com,1,expired,2024-11-19,2025-05-25,,,,,True,False
+829,Grid Ventures,michael.torres@hotmail.com,3,active,2025-05-25,,,,,,False,False
+830,Peak HQ,Kenji.King@startup.co,1,active,2023-01-27,,,,,,False,False
+831,BoltPro,sofia.baker@hotmail.com,1,expired,2025-03-13,2025-05-26,,,,,True,False
+831,BoltPro,sofia.baker@hotmail.com,1,cancelled,2025-05-26,2025-10-06,,,,,True,False
+832,WarpStudio,ana.garcia@hotmail.com,1,cancelled,2023-11-10,2024-07-19,,,,,True,False
+832,WarpStudio,ana.garcia@hotmail.com,4,cancelled,2024-07-19,2025-06-22,,,,,True,False
+833,NexusIO,thomas.rivera@enterprise.com,6,cancelled,2025-02-11,2025-05-30,,,,,True,False
+833,NexusIO,thomas.rivera@enterprise.com,2,cancelled,2025-05-30,2025-05-17,,,,,True,False
+834,Trek Group,ana.taylor@company.io,2,active,2025-08-01,,,,,,False,False
+835,Orbit Net,mark.adams@protonmail.com,2,expired,2023-01-22,2023-10-16,,,,,True,False
+835,Orbit Net,mark.adams@protonmail.com,5,cancelled,2023-10-16,2024-10-02,,,,,True,False
+835,Orbit Net,mark.adams@protonmail.com,4,active,2024-10-02,,,,,,False,False
+836,Xenon Analytics,jessica.lee@yahoo.com,1,cancelled,2025-04-27,2025-10-12,,,,,True,False
+836,Xenon Analytics,jessica.lee@yahoo.com,7,expired,2025-10-12,2025-12-11,,,,,True,False
+836,Xenon Analytics,jessica.lee@yahoo.com,5,active,2025-12-11,,,,,,False,False
+837,Mist Platform,carlos.adams@hotmail.com,1,active,2024-08-11,,,,,,False,False
+838,Core Dynamics,donald.rivera@outlook.com,3,cancelled,2023-10-10,2024-07-13,,,,,True,False
+838,Core Dynamics,donald.rivera@outlook.com,4,active,2024-07-13,,,,,,False,False
+839,TrekHub,mark.martin@company.io,2,expired,2025-03-28,2025-10-26,,,,,True,False
+839,TrekHub,mark.martin@company.io,4,cancelled,2025-10-26,2025-12-25,,,,,True,False
+839,TrekHub,mark.martin@company.io,3,active,2025-12-25,,,,,,False,False
+840,ZealDynamics,donna.brown@outlook.com,3,active,2023-03-14,,,,,,False,False
+841,PulseGroup,mary.adams@pulsegroup.com,5,active,2025-08-26,,,,,,False,False
+842,Tidal Studio,thomas.young@hotmail.com,4,expired,2024-10-24,2025-09-01,,,,,True,False
+842,Tidal Studio,thomas.young@hotmail.com,4,active,2025-09-01,,,,,,False,False
+843,Jade AI,william.smith@gmail.com,4,cancelled,2023-11-10,2024-03-27,,,,,True,False
+843,Jade AI,william.smith@gmail.com,4,cancelled,2024-03-27,2025-02-23,,,,,True,False
+844,MetaStack,daniel.miller@corp.net,2,active,2023-07-01,,,,,,False,False
+845,CoreLabs,hassan.martin@yahoo.com,3,active,2023-06-21,,,,,,False,False
+846,YieldHQ,lisa.thomas@enterprise.com,4,cancelled,2024-02-18,2024-05-03,,,,,True,False
+847,HiveTech,andrew.hall@tech.dev,2,cancelled,2023-10-17,2024-03-25,,,,,True,False
+847,HiveTech,andrew.hall@tech.dev,2,active,2024-03-25,,,,,,False,False
+848,ZenCorp,michael.lee@protonmail.com,2,active,2025-03-16,,,,,,False,False
+849,Flow Cloud,andrew.wright@gmail.com,6,active,2023-02-18,,,,,,False,False
+850,RiftCorp,steven.white@riftcorp.com,3,cancelled,2025-08-30,2025-10-09,,,,,True,False
+851,NovaVentures,susan.hall@hotmail.com,2,active,2025-07-26,,,,,,False,False
+852,OrbitStudio,elizabeth.hill@startup.co,5,active,2024-12-28,,,,,,False,False
+853,PeakPro,anthony.ivanov@hotmail.com,5,cancelled,2024-05-14,2025-03-30,,,,,True,False
+853,PeakPro,anthony.ivanov@hotmail.com,2,active,2025-03-30,,,,,,False,False
+854,VineAnalytics,christopher.wright@vineanalytics.com,3,cancelled,2023-05-03,2024-03-03,,,,,True,False
+854,VineAnalytics,christopher.wright@vineanalytics.com,5,active,2024-03-03,,,,,,False,False
+855,FlowDynamics,john.walker@gmail.com,3,expired,2023-07-08,2024-05-16,,,,,True,False
+855,FlowDynamics,john.walker@gmail.com,2,cancelled,2024-05-16,2023-11-19,,,,,True,False
+856,QuestDev,Olga.Lee+work@company.io,1,active,2023-09-14,,,,,,False,False
+857,Sync Dev,aisha.gonzalez@gmail.com,5,active,2023-03-13,,,,,,False,False
+858,Ultra AI,anthony.king@yahoo.com,3,expired,2023-11-26,2024-07-13,,,,,True,False
+858,Ultra AI,anthony.king@yahoo.com,4,expired,2024-07-13,2025-06-26,,,,,True,False
+858,Ultra AI,anthony.king@yahoo.com,2,active,2025-06-26,,,,,,False,False
+859,Orbit Hub,Paul.Jones@enterprise.com,3,active,2024-10-22,,,,,,False,False
+860,Flux Group,sandra.walker@tech.dev,4,cancelled,2023-08-18,2025-01-23,,,,,True,False
+861,KiteStudio,elizabeth.williams@tech.dev,2,cancelled,2024-02-16,2025-07-16,,,,,True,False
+862,Nova Net,kenji.patel@enterprise.com,1,active,2025-02-21,,,,,,False,False
+863,TidalHub,susan.perez@startup.co,4,cancelled,2024-03-18,2025-03-27,,,,,True,False
+864,Zen Ventures,elizabeth.clark@yahoo.com,3,expired,2024-05-13,2025-01-31,,,,,True,False
+864,Zen Ventures,elizabeth.clark@yahoo.com,2,active,2025-01-31,,,,,,False,False
+865,FlowWorks,elizabeth.wilson@corp.net,3,expired,2024-08-20,2025-02-27,,,,,True,False
+865,FlowWorks,elizabeth.wilson@corp.net,3,active,2025-02-27,,,,,,False,False
+866,Jade Solutions,anthony.davis@yahoo.com,5,active,2024-10-05,,,,,,False,False
+867,HubOps,priya.williams@startup.co,1,expired,2025-02-24,2025-10-08,,,,,True,False
+867,HubOps,priya.williams@startup.co,4,cancelled,2025-10-08,2025-08-13,,,,,True,False
+868,Tidal Ops,mei.nelson@protonmail.com,4,active,2025-08-29,,,,,,False,False
+869,BoltGroup,ana.taylor@tech.dev,3,active,2023-01-25,,,,,,False,False
+870,QuarkHQ,ahmed.kim@company.io,4,active,2023-05-14,,,,,,False,False
+871,Yield Software,matthew.williams@startup.co,2,cancelled,2025-04-02,2025-07-16,,,,,True,False
+871,Yield Software,matthew.williams@startup.co,2,active,2025-07-16,,,,,,False,False
+872,Meta IO,mark.nelson@company.io,6,cancelled,2025-07-06,2025-10-02,,,,,True,False
+872,Meta IO,mark.nelson@company.io,3,cancelled,2025-10-02,2025-12-01,,,,,True,False
+872,Meta IO,mark.nelson@company.io,7,cancelled,2025-12-01,2025-10-22,,,,,True,False
+873,EdgeLabs,kenji.flores@enterprise.com,1,active,2023-12-05,,,,,,False,False
+874,MetaPro,jennifer.smith@metapro.com,3,expired,2023-03-23,2024-02-24,,,,,True,False
+874,MetaPro,jennifer.smith@metapro.com,2,active,2024-02-24,,,,,,False,False
+875,JetDynamics,carlos.kim@company.io,1,expired,2023-08-22,2023-10-24,,,,,True,False
+875,JetDynamics,carlos.kim@company.io,5,cancelled,2023-10-24,2025-01-26,,,,,True,False
+876,Wave Pro,raj.baker@wavepro.com,2,active,2024-05-20,,,,,,False,False
+877,FlowOps,ahmed.baker@company.io,6,active,2024-09-12,,,,,,False,False
+878,EchoStudio,paul.chen@gmail.com,1,expired,2024-02-24,2024-05-29,,,,,True,False
+878,EchoStudio,paul.chen@gmail.com,2,active,2024-05-29,,,,,,False,False
+879,DriftHQ,anthony.johnson@startup.co,2,cancelled,2024-10-09,2025-02-03,,,,,True,False
+879,DriftHQ,anthony.johnson@startup.co,1,cancelled,2025-02-03,2025-03-30,,,,,True,False
+880,JetVentures,betty.walker@gmail.com,4,expired,2023-06-12,2023-08-31,,,,,True,False
+880,JetVentures,betty.walker@gmail.com,1,active,2023-08-31,,,,,,False,False
+881,OrbitSoftware,margaret.hernandez@company.io,1,active,2023-03-10,,,,,,False,False
+882,JetPlatform,Anthony.Young@yahoo.com,2,expired,2023-11-15,2024-05-15,,,,,True,False
+882,JetPlatform,Anthony.Young@yahoo.com,3,expired,2024-05-15,2025-04-16,,,,,True,False
+882,JetPlatform,Anthony.Young@yahoo.com,5,active,2025-04-16,,,,,,False,False
+883,OrbitWorks,kimberly.perez@hotmail.com,2,cancelled,2025-09-15,2025-11-15,,,,,True,False
+883,OrbitWorks,kimberly.perez@hotmail.com,7,active,2025-11-15,,,,,,False,False
+884,PulseIO,steven.miller@pulseio.com,1,active,2024-05-17,,,,,,False,False
+885,Jet Studio,donald.thomas+nimbus@corp.net,6,expired,2023-05-30,2024-03-02,,,,,True,False
+885,Jet Studio,donald.thomas+nimbus@corp.net,3,cancelled,2024-03-02,2024-07-10,,,,,True,False
+885,Jet Studio,donald.thomas+nimbus@corp.net,1,active,2024-07-10,,,,,,False,False
+886,Mist Group,patricia.chen@tech.dev,1,expired,2025-03-20,2025-08-02,,,,,True,False
+886,Mist Group,patricia.chen@tech.dev,3,active,2025-08-02,,,,,,False,False
+887,Sync Labs,priya.clark@yahoo.com,3,active,2024-01-27,,,,,,False,False
+888,Ultra Dynamics,charles.santos@startup.co,5,cancelled,2024-02-10,2025-06-30,,,,,True,False
+889,GlowAI,robert.jones@yahoo.com,1,cancelled,2023-08-29,2024-07-03,,,,,True,False
+890,Flow Software,priya.taylor@flowsoftware.com,4,active,2024-10-20,,,,,,False,False
+891,WarpPlatform,charles.lee@warpplatform.com,3,expired,2025-02-22,2025-07-17,,,,,True,False
+891,WarpPlatform,charles.lee@warpplatform.com,3,active,2025-07-17,,,,,,False,False
+892,Link AI,ashley.smith@company.io,3,cancelled,2025-04-28,2025-07-08,,,,,True,False
+893,RushDynamics,priya.hill@protonmail.com,3,cancelled,2024-10-28,2025-08-17,,,,,True,False
+893,RushDynamics,priya.hill@protonmail.com,4,active,2025-08-17,,,,,,False,False
+894,Yield Systems,richard.kim@hotmail.com,4,active,2025-04-17,,,,,,False,False
+895,Bolt Cloud,kenji.perez@startup.co,2,active,2024-04-13,,,,,,False,False
+896,FluxIO,ana.thomas@gmail.com,3,cancelled,2024-09-26,2025-04-09,,,,,True,False
+896,FluxIO,ana.thomas@gmail.com,6,cancelled,2025-04-09,2024-10-30,,,,,True,False
+897,CoreLogic,nancy.wilson@corelogic.com,5,expired,2024-03-03,2024-05-12,,,,,True,False
+897,CoreLogic,nancy.wilson@corelogic.com,1,active,2024-05-12,,,,,,False,False
+898,Nova Systems,Fatima.Muller@enterprise.com,4,cancelled,2023-04-26,2024-05-24,,,,,True,False
+899,Rift Logic,margaret.santos@gmail.com,1,active,2023-02-15,,,,,,False,False
+900,Rush Software,hassan.smith@corp.net,2,active,2024-03-21,,,,,,False,False
+901,Xenon Tech,sofia.walker@company.io,2,cancelled,2024-07-07,2025-05-02,,,,,True,False
+902,Rift Hub,paul.clark@corp.net,3,active,2023-05-21,,,,,,False,False
+903,OnyxDigital,william.tanaka@hotmail.com,2,cancelled,2024-02-10,2025-01-30,,,,,True,False
+904,QuarkDynamics,fatima.rivera@company.io,3,active,2025-03-27,,,,,,False,False
+905,OrbitVentures,joseph.green@hotmail.com,3,cancelled,2025-07-03,2025-10-26,,,,,True,False
+905,OrbitVentures,joseph.green@hotmail.com,4,active,2025-10-26,,,,,,False,False
+906,EdgeNet,karen.ivanov@edgenet.com,5,active,2023-02-01,,,,,,False,False
+907,EdgeAnalytics,Wei.Sanchez@company.io,5,active,2023-08-02,,,,,,False,False
+908,OnyxGroup,ashley.lee@enterprise.com,5,expired,2024-01-28,2024-12-06,,,,,True,False
+908,OnyxGroup,ashley.lee@enterprise.com,4,active,2024-12-06,,,,,,False,False
+909,SageVentures,Mary.Harris@outlook.com,4,cancelled,2024-07-10,2024-10-31,,,,,True,False
+909,SageVentures,Mary.Harris@outlook.com,5,cancelled,2024-10-31,2025-06-30,,,,,True,False
+909,SageVentures,Mary.Harris@outlook.com,7,cancelled,2025-06-30,2025-02-15,,,,,True,False
+910,DriftLogic,john.lee@enterprise.com,1,cancelled,2024-02-25,2025-09-08,,,,,True,False
+911,Luna HQ,matthew.tanaka@gmail.com,4,active,2023-05-01,,,,,,False,False
+912,Vertex Corp,dmitri.jones@gmail.com,1,active,2025-02-01,,,,,,False,False
+913,Vertex Ops,joseph.rivera@vertexops.com,3,cancelled,2023-05-23,2023-12-31,,,,,True,False
+913,Vertex Ops,joseph.rivera@vertexops.com,1,expired,2023-12-31,2024-03-05,,,,,True,False
+913,Vertex Ops,joseph.rivera@vertexops.com,5,cancelled,2024-03-05,2023-07-28,,,,,True,False
+914,RushCorp,jennifer.taylor@enterprise.com,1,active,2025-07-30,,,,,,False,False
+915,Keen Solutions,wei.wright@outlook.com,1,cancelled,2024-11-03,2025-05-12,,,,,True,False
+916,TidalDigital,patricia.allen@protonmail.com,1,active,2023-01-10,,,,,,False,False
+917,MetaOps,barbara.harris@metaops.com,6,active,2023-05-11,,,,,,False,False
+918,PulseStack,joseph.ivanov@pulsestack.com,6,expired,2023-11-25,2024-11-15,,,,,True,False
+918,PulseStack,joseph.ivanov@pulsestack.com,4,active,2024-11-15,,,,,,False,False
+919,OrbitPro,anthony.adams@hotmail.com,3,cancelled,2023-10-22,2024-01-05,,,,,True,False
+919,OrbitPro,anthony.adams@hotmail.com,7,cancelled,2024-01-05,2024-09-23,,,,,True,False
+919,OrbitPro,anthony.adams@hotmail.com,6,active,2024-09-23,,,,,,False,False
+920,Rush Logic,hassan.perez@company.io,1,expired,2025-05-25,2025-09-25,,,,,True,False
+920,Rush Logic,hassan.perez@company.io,5,active,2025-09-25,,,,,,False,False
+921,Flux Works,aisha.jones@protonmail.com,1,cancelled,2024-08-31,2025-07-24,,,,,True,False
+921,Flux Works,aisha.jones@protonmail.com,3,expired,2025-07-24,2025-09-29,,,,,True,False
+921,Flux Works,aisha.jones@protonmail.com,3,active,2025-09-29,,,,,,False,False
+922,HiveOps,wei.nelson@yahoo.com,1,active,2024-12-05,,,,,,False,False
+923,TrekDynamics,emily.king@protonmail.com,4,active,2023-07-30,,,,,,False,False
+924,LunaStack,donald.rivera@tech.dev,1,active,2023-09-18,,,,,,False,False
+925,DriftDynamics,anthony.gonzalez@enterprise.com,1,active,2024-05-02,,,,,,False,False
+926,XenonHub,sarah.miller@outlook.com,1,active,2024-12-04,,,,,,False,False
+927,Beam Platform,joshua.torres@company.io,5,cancelled,2023-06-05,2024-11-08,,,,,True,False
+928,KiteTech,linda.miller@hotmail.com,5,active,2023-06-19,,,,,,False,False
+929,Tidal Corp,ana.harris@outlook.com,1,expired,2024-03-30,2025-03-19,,,,,True,False
+929,Tidal Corp,ana.harris@outlook.com,5,active,2025-03-19,,,,,,False,False
+930,Rift IO,Lisa.Lee@startup.co,1,active,2024-09-13,,,,,,False,False
+931,Ultra Studio,yuki.jackson@enterprise.com,1,active,2024-12-03,,,,,,False,False
+932,TrekLabs,mary.young@treklabs.com,1,active,2023-09-19,,,,,,False,False
+933,HiveGroup,Matthew.White@hivegroup.com,4,cancelled,2024-12-13,2025-08-29,,,,,True,False
+933,HiveGroup,Matthew.White@hivegroup.com,6,expired,2025-08-29,2025-10-29,,,,,True,False
+933,HiveGroup,Matthew.White@hivegroup.com,2,active,2025-10-29,,,,,,False,False
+934,Beam Analytics,anthony.martin@outlook.com,5,cancelled,2024-08-09,2025-05-07,,,,,True,False
+934,Beam Analytics,anthony.martin@outlook.com,6,active,2025-05-07,,,,,,False,False
+935,SyncDynamics,mary.tanaka@syncdynamics.com,4,active,2023-04-14,,,,,,False,False
+936,ZealHQ,elizabeth.wright@gmail.com,1,active,2023-06-25,,,,,,False,False
+937,DriftPlatform,jessica.hernandez@outlook.com,1,cancelled,2023-05-20,2023-11-19,,,,,True,False
+937,DriftPlatform,jessica.hernandez@outlook.com,2,expired,2023-11-19,2024-10-23,,,,,True,False
+937,DriftPlatform,jessica.hernandez@outlook.com,1,cancelled,2024-10-23,2025-06-03,,,,,True,False
+938,JadeDynamics,raj.king@startup.co,4,cancelled,2024-06-20,2025-04-18,,,,,True,False
+938,JadeDynamics,raj.king@startup.co,4,active,2025-04-18,,,,,,False,False
+939,HubGroup,nancy.johnson@gmail.com,1,active,2025-03-04,,,,,,False,False
+940,PeakCloud,mark.taylor@enterprise.com,2,active,2023-07-29,,,,,,False,False
+941,Data Studio,kenji.ramirez@tech.dev,1,active,2023-02-11,,,,,,False,False
+942,EdgeStudio,james.miller@edgestudio.com,6,expired,2024-06-05,2024-11-12,,,,,True,False
+942,EdgeStudio,james.miller@edgestudio.com,3,expired,2024-11-12,2025-02-25,,,,,True,False
+942,EdgeStudio,james.miller@edgestudio.com,5,active,2025-02-25,,,,,,False,False
+943,VertexGroup,nancy.brown@enterprise.com,4,expired,2024-03-19,2024-06-29,,,,,True,False
+943,VertexGroup,nancy.brown@enterprise.com,4,active,2024-06-29,,,,,,False,False
+944,TrekHQ,elizabeth.kim@startup.co,1,cancelled,2023-08-14,2024-12-26,,,,,True,False
+945,Jet Corp,susan.smith@gmail.com,5,active,2024-05-09,,,,,,False,False
+946,XenonIO,kimberly.ivanov@company.io,2,cancelled,2024-11-14,2025-05-08,,,,,True,False
+946,XenonIO,kimberly.ivanov@company.io,5,active,2025-05-08,,,,,,False,False
+947,OrbitLabs,karen.young@gmail.com,5,expired,2023-11-04,2024-08-24,,,,,True,False
+947,OrbitLabs,karen.young@gmail.com,5,paused,2024-08-24,,,,,,False,False
+948,OrbitPlatform,paul.allen@startup.co,4,expired,2023-11-03,2024-01-20,,,,,True,False
+948,OrbitPlatform,paul.allen@startup.co,6,cancelled,2024-01-20,2024-04-07,,,,,True,False
+949,ZealWorks,sofia.ramirez@gmail.com,5,cancelled,2024-01-15,2024-08-15,,,,,True,False
+950,Ultra Ventures,michael.garcia@yahoo.com,5,expired,2024-05-19,2024-08-23,,,,,True,False
+950,Ultra Ventures,michael.garcia@yahoo.com,4,expired,2024-08-23,2025-04-19,,,,,True,False
+950,Ultra Ventures,michael.garcia@yahoo.com,4,active,2025-04-19,,,,,,False,False
+951,DataLabs,dmitri.white@company.io,4,cancelled,2023-03-31,2024-08-23,,,,,True,False
+952,Link Cloud,robert.santos@enterprise.com,5,cancelled,2023-09-24,2024-04-19,,,,,True,False
+952,Link Cloud,robert.santos@enterprise.com,7,cancelled,2024-04-19,2024-12-15,,,,,True,False
+952,Link Cloud,robert.santos@enterprise.com,6,cancelled,2024-12-15,2025-06-17,,,,,True,False
+953,KiteNet,karen.jackson@startup.co,6,expired,2023-08-29,2024-06-13,,,,,True,False
+953,KiteNet,karen.jackson@startup.co,7,active,2024-06-13,,,,,,False,False
+954,Data Ventures,michael.lewis@protonmail.com,1,active,2024-12-05,,,,,,False,False
+955,HubStack,emily.martin@enterprise.com,1,cancelled,2024-01-08,2024-07-04,,,,,True,False
+956,YieldSolutions,mei.rivera@company.io,2,cancelled,2024-12-25,2025-08-28,,,,,True,False
+956,YieldSolutions,mei.rivera@company.io,2,active,2025-08-28,,,,,,False,False
+957,ArcTech,david.thomas@protonmail.com,6,cancelled,2025-01-08,2025-02-21,,,,,True,False
+958,GridIO,elizabeth.perez@tech.dev,5,active,2024-02-05,,,,,,False,False
+959,BeamHub,olga.nguyen@beamhub.com,2,cancelled,2023-12-07,2024-07-23,,,,,True,False
+959,BeamHub,olga.nguyen@beamhub.com,4,cancelled,2024-07-23,2025-04-07,,,,,True,False
+960,Peak AI,emily.taylor+work@gmail.com,6,active,2025-04-21,,,,,,False,False
+961,Unit Hub,lars.hill@corp.net,2,active,2024-11-08,,,,,,False,False
+962,YieldDynamics,richard.smith@hotmail.com,5,cancelled,2023-01-22,2024-03-28,,,,,True,False
+963,Grid Hub,paul.hall@yahoo.com,4,active,2025-05-23,,,,,,False,False
+964,Core Works,sandra.allen@protonmail.com,3,active,2023-12-31,,,,,,False,False
+965,IrisAnalytics,robert.hernandez@tech.dev,4,active,2025-08-04,,,,,,False,False
+966,Glow Hub,william.gonzalez@corp.net,1,expired,2023-03-10,2023-11-22,,,,,True,False
+966,Glow Hub,william.gonzalez@corp.net,1,active,2023-11-22,,,,,,False,False
+967,JadeHub,Richard.Williams@corp.net,1,cancelled,2024-11-11,2025-05-16,,,,,True,False
+967,JadeHub,Richard.Williams@corp.net,4,cancelled,2025-05-16,2025-07-24,,,,,True,False
+967,JadeHub,Richard.Williams@corp.net,6,active,2025-07-24,,,,,,False,False
+968,Grid Group,emily.rodriguez@tech.dev,6,cancelled,2023-12-15,2024-03-29,,,,,True,False
+968,Grid Group,emily.rodriguez@tech.dev,1,expired,2024-03-29,2024-11-20,,,,,True,False
+968,Grid Group,emily.rodriguez@tech.dev,4,cancelled,2024-11-20,2025-10-04,,,,,True,False
+969,PulseCloud,ana.miller@yahoo.com,5,expired,2025-04-15,2025-08-14,,,,,True,False
+969,PulseCloud,ana.miller@yahoo.com,4,active,2025-08-14,,,,,,False,False
+970,Ion Dev,nancy.davis@company.io,2,cancelled,2023-05-07,2024-04-30,,,,,True,False
+971,FlowNet,paul.martin@outlook.com,1,expired,2025-02-09,2025-09-01,,,,,True,False
+971,FlowNet,paul.martin@outlook.com,2,active,2025-09-01,,,,,,False,False
+972,Data Digital,james.miller@company.io,5,expired,2023-04-20,2023-11-16,,,,,True,False
+972,Data Digital,james.miller@company.io,4,expired,2023-11-16,2024-06-01,,,,,True,False
+972,Data Digital,james.miller@company.io,1,active,2024-06-01,,,,,,False,False
+973,Peak Ventures,Aisha.Tanaka@yahoo.com,3,active,2025-09-07,,,,,,False,False
+974,ArcLabs,mei.patel@tech.dev,1,active,2024-03-16,,,,,,False,False
+975,Nexus Systems,raj.hill@startup.co,3,active,2025-02-03,,,,,,False,False
+976,Edge Ops,sarah.davis@outlook.com,2,active,2023-01-15,,,,,,False,False
+977,YieldOps,richard.green@hotmail.com,2,expired,2025-05-28,2025-08-11,,,,,True,False
+977,YieldOps,richard.green@hotmail.com,6,active,2025-08-11,,,,,,False,False
+978,Beam HQ,ahmed.robinson@outlook.com,3,cancelled,2023-05-25,2023-11-27,,,,,True,False
+978,Beam HQ,ahmed.robinson@outlook.com,4,active,2023-11-27,,,,,,False,False
+979,Drift Studio,mark.gonzalez@enterprise.com,2,cancelled,2023-10-04,2024-04-22,,,,,True,False
+980,ZealPlatform,steven.adams@company.io,2,expired,2024-12-07,2025-07-10,,,,,True,False
+980,ZealPlatform,steven.adams@company.io,5,cancelled,2025-07-10,2025-09-18,,,,,True,False
+981,QuarkPlatform,andrew.tanaka@enterprise.com,4,expired,2023-01-04,2023-11-09,,,,,True,False
+981,QuarkPlatform,andrew.tanaka@enterprise.com,7,cancelled,2023-11-09,2023-03-05,,,,,True,False
+982,Rush Ventures,wei.santos@rushventures.com,6,active,2024-04-28,,,,,,False,False
+983,OrbitCorp,paul.chen@tech.dev,4,active,2023-05-19,,,,,,False,False
+984,QuarkLabs,raj.nguyen@outlook.com,4,expired,2023-08-31,2023-11-05,,,,,True,False
+984,QuarkLabs,raj.nguyen@outlook.com,4,active,2023-11-05,,,,,,False,False
+985,CloudIO,priya.hall@enterprise.com,2,active,2023-08-10,,,,,,False,False
+986,Sage Studio,kimberly.hall@sagestudio.com,1,cancelled,2023-10-09,2024-01-22,,,,,True,False
+986,Sage Studio,kimberly.hall@sagestudio.com,3,cancelled,2024-01-22,2025-08-07,,,,,True,False
+987,DataOps,linda.patel@protonmail.com,3,expired,2024-03-18,2024-12-24,,,,,True,False
+987,DataOps,linda.patel@protonmail.com,2,cancelled,2024-12-24,2024-06-05,,,,,True,False
+988,Arc Systems,susan.jones@hotmail.com,1,expired,2023-06-20,2024-03-10,,,,,True,False
+988,Arc Systems,susan.jones@hotmail.com,4,expired,2024-03-10,2025-03-10,,,,,True,False
+988,Arc Systems,susan.jones@hotmail.com,4,active,2025-03-10,,,,,,False,False
+989,MistDynamics,barbara.flores@company.io,3,active,2023-08-08,,,,,,False,False
+990,Data Platform,ana.davis@corp.net,2,cancelled,2025-04-16,2025-10-08,,,,,True,False
+990,Data Platform,ana.davis@corp.net,5,cancelled,2025-10-08,2025-12-08,,,,,True,False
+990,Data Platform,ana.davis@corp.net,6,cancelled,2025-12-08,2025-08-24,,,,,True,False
+991,PulseDynamics,jennifer.taylor@pulsedynamics.com,1,cancelled,2024-05-17,2025-02-27,,,,,True,False
+991,PulseDynamics,jennifer.taylor@pulsedynamics.com,5,cancelled,2025-02-27,2025-09-12,,,,,True,False
+991,PulseDynamics,jennifer.taylor@pulsedynamics.com,2,active,2025-09-12,,,,,,False,False
+992,Jet Group,olga.green@company.io,1,active,2024-11-28,,,,,,False,False
+993,Bolt Hub,kenji.tanaka@yahoo.com,4,active,2025-04-07,,,,,,False,False
+994,OnyxPro,daniel.lee@tech.dev,5,cancelled,2025-02-09,2025-05-15,,,,,True,False
+994,OnyxPro,daniel.lee@tech.dev,2,expired,2025-05-15,2025-10-24,,,,,True,False
+994,OnyxPro,daniel.lee@tech.dev,5,active,2025-10-24,,,,,,False,False
+995,Warp Cloud,charles.harris@warpcloud.com,2,cancelled,2024-09-05,2025-04-25,,,,,True,False
+996,XenonPro,matthew.torres@protonmail.com,2,paused,2023-11-26,,,,,,False,False
+997,Edge AI,linda.sanchez@tech.dev,1,cancelled,2025-01-26,2025-10-25,,,,,True,False
+998,Trek Hub,robert.sanchez@trekhub.com,2,active,2024-02-14,,,,,,False,False
+999,Pulse Corp,nancy.patel@pulsecorp.com,1,active,2025-09-10,,,,,,False,False
+1000,SyncStack,priya.jackson@startup.co,1,active,2025-01-08,,,,,,False,False
+1001,Flow IO,mei.moore@tech.dev,1,cancelled,2025-07-29,2025-10-30,,,,,True,False
+1001,Flow IO,mei.moore@tech.dev,4,cancelled,2025-10-30,2025-09-18,,,,,True,False
+1002,RushWorks,dmitri.hall@gmail.com,4,expired,2024-10-16,2025-06-28,,,,,True,False
+1002,RushWorks,dmitri.hall@gmail.com,6,cancelled,2025-06-28,2025-10-20,,,,,True,False
+1002,RushWorks,dmitri.hall@gmail.com,4,cancelled,2025-10-20,2025-10-12,,,,,True,False
+1003,LinkWorks,joseph.tanaka@outlook.com,3,active,2024-04-10,,,,,,False,False
+1004,MetaPlatform,ashley.wilson@metaplatform.com,1,cancelled,2024-02-21,2024-08-25,,,,,True,False
+1004,MetaPlatform,ashley.wilson@metaplatform.com,3,expired,2024-08-25,2025-05-04,,,,,True,False
+1004,MetaPlatform,ashley.wilson@metaplatform.com,5,active,2025-05-04,,,,,,False,False
+1005,WarpGroup,matthew.miller@startup.co,6,active,2025-01-07,,,,,,False,False
+1006,LunaSoftware,michael.perez@yahoo.com,4,active,2024-06-20,,,,,,False,False
+1007,OnyxNet,linda.patel@corp.net,2,active,2024-02-06,,,,,,False,False
+1008,DataTech,kenji.king@outlook.com,1,active,2023-08-20,,,,,,False,False
+1009,LinkDigital,sofia.patel@corp.net,2,active,2023-03-17,,,,,,False,False
+1010,FlowAnalytics,christopher.rodriguez@gmail.com,1,cancelled,2024-10-07,2025-09-09,,,,,True,False
+1011,Zeal Labs,dorothy.wilson@zeallabs.com,1,active,2025-06-11,,,,,,False,False
+1012,Luna Hub,daniel.brown@yahoo.com,6,expired,2023-04-22,2023-09-22,,,,,True,False
+1012,Luna Hub,daniel.brown@yahoo.com,4,expired,2023-09-22,2023-12-22,,,,,True,False
+1012,Luna Hub,daniel.brown@yahoo.com,5,active,2023-12-22,,,,,,False,False
+1013,SyncPro,kimberly.smith@hotmail.com,5,active,2023-09-01,,,,,,False,False
+1014,Peak Studio,patricia.miller@gmail.com,1,active,2023-02-18,,,,,,False,False
+1015,QuarkVentures,yuki.torres@corp.net,3,active,2024-01-20,,,,,,False,False
+1016,Iris Studio,andrew.thomas@irisstudio.com,2,cancelled,2024-05-27,2025-02-10,,,,,True,False
+1016,Iris Studio,andrew.thomas@irisstudio.com,5,active,2025-02-10,,,,,,False,False
+1017,Zeal Platform,lars.ramirez@gmail.com,1,expired,2024-12-17,2025-08-29,,,,,True,False
+1017,Zeal Platform,lars.ramirez@gmail.com,4,cancelled,2025-08-29,2025-08-20,,,,,True,False
+1018,BoltStack,kimberly.patel@company.io,6,expired,2024-09-08,2025-01-23,,,,,True,False
+1018,BoltStack,kimberly.patel@company.io,3,expired,2025-01-23,2025-08-28,,,,,True,False
+1018,BoltStack,kimberly.patel@company.io,2,active,2025-08-28,,,,,,False,False
+1019,Jet Net,lisa.johnson@yahoo.com,3,active,2025-02-20,,,,,,False,False
+1020,Jade Logic,anthony.green@gmail.com,1,cancelled,2025-04-08,2025-09-30,,,,,True,False
+1020,Jade Logic,anthony.green@gmail.com,5,active,2025-09-30,,,,,,False,False
+1021,ZealSoftware,priya.davis@protonmail.com,4,active,2023-06-02,,,,,,False,False
+1022,GlowAnalytics,dmitri.hernandez@gmail.com,1,active,2024-06-10,,,,,,False,False
+1023,DataSystems,richard.jones@corp.net,6,active,2025-09-19,,,,,,False,False
+1024,Arc Hub,dorothy.gonzalez@startup.co,1,active,2023-02-21,,,,,,False,False
+1025,FluxHQ,patricia.rivera@startup.co,1,expired,2024-02-26,2024-12-25,,,,,True,False
+1025,FluxHQ,patricia.rivera@startup.co,5,active,2024-12-25,,,,,,False,False
+1026,VineIO,patricia.hernandez@outlook.com,1,cancelled,2023-09-27,2025-10-23,,,,,True,False
+1027,Drift Platform,daniel.rivera@driftplatform.com,2,expired,2024-07-11,2025-06-25,,,,,True,False
+1027,Drift Platform,daniel.rivera@driftplatform.com,6,active,2025-06-25,,,,,,False,False
+1028,GlowOps,andrew.thompson@glowops.com,3,active,2024-11-14,,,,,,False,False
+1029,GridLogic,ahmed.muller@gridlogic.com,5,cancelled,2025-05-03,2025-06-19,,,,,True,False
+1030,Hive Corp,lisa.chen@corp.net,3,expired,2025-02-15,2025-08-11,,,,,True,False
+1030,Hive Corp,lisa.chen@corp.net,5,active,2025-08-11,,,,,,False,False
+1031,Rift Works,joseph.torres@gmail.com,2,active,2024-12-20,,,,,,False,False
+1032,ZenOps,carlos.brown@hotmail.com,1,active,2024-06-14,,,,,,False,False
+1033,WarpLabs,dmitri.hernandez@company.io,4,active,2023-03-30,,,,,,False,False
+1034,CoreSystems,olga.jones@coresystems.com,1,cancelled,2024-08-07,2025-07-12,,,,,True,False
+1035,JadeVentures,margaret.flores@tech.dev,2,expired,2025-09-02,2025-11-02,,,,,True,False
+1035,JadeVentures,margaret.flores@tech.dev,6,cancelled,2025-11-02,2025-10-03,,,,,True,False
+1036,Mist Works,steven.scott@protonmail.com,5,active,2024-10-03,,,,,,False,False
+1037,SageStack,paul.sanchez@tech.dev,3,cancelled,2024-11-03,2025-07-30,,,,,True,False
+1038,DriftIO,elizabeth.flores@enterprise.com,1,active,2023-06-07,,,,,,False,False
+1039,Peak Dynamics,james.sanchez@hotmail.com,3,active,2024-12-13,,,,,,False,False
+1040,Vine Works,thomas.lopez@corp.net,3,active,2023-05-24,,,,,,False,False
+1041,Ion Ops,ana.moore@hotmail.com,1,active,2023-07-19,,,,,,False,False
+1042,Warp Works,lisa.harris@startup.co,3,cancelled,2023-08-15,2024-04-10,,,,,True,False
+1042,Warp Works,lisa.harris@startup.co,4,expired,2024-04-10,2024-12-20,,,,,True,False
+1042,Warp Works,lisa.harris@startup.co,5,active,2024-12-20,,,,,,False,False
+1043,NexusSystems,robert.santos@enterprise.com,1,active,2023-07-23,,,,,,False,False
+1044,Xenon Software,charles.jackson@company.io,2,expired,2023-08-10,2024-07-22,,,,,True,False
+1044,Xenon Software,charles.jackson@company.io,1,cancelled,2024-07-22,2025-04-17,,,,,True,False
+1044,Xenon Software,charles.jackson@company.io,3,active,2025-04-17,,,,,,False,False
+1045,Nexus Analytics,kenji.adams@nexusanalytics.com,2,cancelled,2023-12-29,2024-11-20,,,,,True,False
+1046,JadeAI,james.moore@tech.dev,1,active,2025-05-27,,,,,,False,False
+1047,DataWorks,mei.kim@protonmail.com,3,expired,2023-05-22,2024-03-31,,,,,True,False
+1047,DataWorks,mei.kim@protonmail.com,5,active,2024-03-31,,,,,,False,False
+1048,UltraNet,david.martin@outlook.com,1,active,2024-03-14,,,,,,False,False
+1049,OnyxPlatform,jessica.rodriguez@outlook.com,2,active,2025-06-08,,,,,,False,False
+1050,Grid Cloud,dorothy.flores@gridcloud.com,4,cancelled,2025-09-13,2025-11-12,,,,,True,False
+1050,Grid Cloud,dorothy.flores@gridcloud.com,5,active,2025-11-12,,,,,,False,False
+1051,BeamHQ,christopher.adams@yahoo.com,6,active,2024-06-11,,,,,,False,False
+1052,Luna Net,ahmed.rodriguez@hotmail.com,1,active,2025-06-18,,,,,,False,False
+1053,Kite Hub,yuki.garcia@yahoo.com,1,expired,2024-05-06,2024-11-13,,,,,True,False
+1053,Kite Hub,yuki.garcia@yahoo.com,3,active,2024-11-13,,,,,,False,False
+1054,NexusTech,ahmed.robinson@hotmail.com,2,expired,2024-02-06,2024-11-24,,,,,True,False
+1054,NexusTech,ahmed.robinson@hotmail.com,2,cancelled,2024-11-24,2025-08-17,,,,,True,False
+1054,NexusTech,ahmed.robinson@hotmail.com,2,cancelled,2025-08-17,2024-07-26,,,,,True,False
+1055,NovaSoftware,andrew.adams@gmail.com,1,cancelled,2023-06-26,2024-06-22,,,,,True,False
+1056,UnitCorp,robert.green@yahoo.com,3,cancelled,2023-06-20,2024-03-20,,,,,True,False
+1056,UnitCorp,robert.green@yahoo.com,1,expired,2024-03-20,2024-08-22,,,,,True,False
+1056,UnitCorp,robert.green@yahoo.com,6,active,2024-08-22,,,,,,False,False
+1057,UltraDynamics,ashley.patel@enterprise.com,4,cancelled,2025-04-07,2025-10-13,,,,,True,False
+1057,UltraDynamics,ashley.patel@enterprise.com,3,active,2025-10-13,,,,,,False,False
+1058,QuarkAnalytics,yuki.patel@corp.net,1,active,2025-05-31,,,,,,False,False
+1059,Pulse Ops,priya.king@hotmail.com,5,expired,2025-07-05,2025-09-03,,,,,True,False
+1059,Pulse Ops,priya.king@hotmail.com,4,active,2025-09-03,,,,,,False,False
+1060,ZenPro,Richard.Lopez@tech.dev,1,active,2025-04-10,,,,,,False,False
+1061,Vine Pro,steven.thompson@startup.co,2,active,2025-03-28,,,,,,False,False
+1062,WaveSolutions,Kenji.Garcia@corp.net,2,expired,2025-08-07,2025-10-25,,,,,True,False
+1062,WaveSolutions,Kenji.Garcia@corp.net,6,active,2025-10-25,,,,,,False,False
+1063,Rush Stack,richard.brown@gmail.com,5,expired,2024-04-26,2024-08-22,,,,,True,False
+1063,Rush Stack,richard.brown@gmail.com,1,cancelled,2024-08-22,2025-08-29,,,,,True,False
+1064,ZenAI,susan.hernandez@enterprise.com,3,expired,2025-02-09,2025-06-02,,,,,True,False
+1064,ZenAI,susan.hernandez@enterprise.com,1,active,2025-06-02,,,,,,False,False
+1065,HubSystems,john.davis@yahoo.com,3,active,2024-11-08,,,,,,False,False
+1066,MetaGroup,andrew.gonzalez@metagroup.com,2,active,2023-07-03,,,,,,False,False
+1067,RiftLogic,andrew.nelson@corp.net,1,cancelled,2023-05-12,2024-04-06,,,,,True,False
+1068,KeenGroup,Ashley.Ivanov@keengroup.com,4,cancelled,2023-10-10,2024-08-13,,,,,True,False
+1069,Bolt Analytics,mary.martinez@boltanalytics.com,2,cancelled,2024-09-20,2024-12-12,,,,,True,False
+1069,Bolt Analytics,mary.martinez@boltanalytics.com,4,cancelled,2024-12-12,2025-01-17,,,,,True,False
+1070,CorePro,Kenji.Nguyen@yahoo.com,2,cancelled,2024-06-27,2024-12-09,,,,,True,False
+1070,CorePro,Kenji.Nguyen@yahoo.com,6,active,2024-12-09,,,,,,False,False
+1071,UltraAnalytics,Aisha.Adams@ultraanalytics.com,6,cancelled,2023-03-02,2023-11-16,,,,,True,False
+1071,UltraAnalytics,Aisha.Adams@ultraanalytics.com,2,cancelled,2023-11-16,2024-10-16,,,,,True,False
+1072,XenonCorp,nancy.lewis@company.io,1,active,2024-03-11,,,,,,False,False
+1073,Quark HQ,john.scott@quarkhq.com,1,cancelled,2023-08-01,2025-06-01,,,,,True,False
+1074,Acme Dev,wei.white@gmail.com,4,active,2023-04-21,,,,,,False,False
+1075,FlowSoftware,jessica.brown@outlook.com,2,active,2025-04-12,,,,,,False,False
+1076,Zen Solutions,mary.johnson@tech.dev,5,cancelled,2024-11-23,2025-03-13,,,,,True,False
+1076,Zen Solutions,mary.johnson@tech.dev,3,cancelled,2025-03-13,2025-09-16,,,,,True,False
+1076,Zen Solutions,mary.johnson@tech.dev,4,active,2025-09-16,,,,,,False,False
+1077,Jade Labs,hassan.singh@enterprise.com,4,expired,2025-05-08,2025-09-11,,,,,True,False
+1077,Jade Labs,hassan.singh@enterprise.com,6,active,2025-09-11,,,,,,False,False
+1078,Pulse Digital,mary.williams@startup.co,1,cancelled,2023-11-15,2024-07-16,,,,,True,False
+1078,Pulse Digital,mary.williams@startup.co,1,active,2024-07-16,,,,,,False,False
+1079,Quark AI,thomas.nguyen@quarkai.com,6,active,2025-01-02,,,,,,False,False
+1080,KeenLabs,charles.muller@corp.net,1,active,2025-04-07,,,,,,False,False
+1081,Edge Software,fatima.davis@tech.dev,3,active,2023-04-15,,,,,,False,False
+1082,WarpWorks,steven.nelson@corp.net,2,active,2024-09-17,,,,,,False,False
+1083,KiteCorp,susan.robinson@tech.dev,2,expired,2023-04-19,2023-12-14,,,,,True,False
+1083,KiteCorp,susan.robinson@tech.dev,5,cancelled,2023-12-14,2023-08-12,,,,,True,False
+1084,GlowGroup,elizabeth.davis@gmail.com,2,active,2024-07-04,,,,,,False,False
+1085,EdgeDynamics,paul.rodriguez@company.io,5,active,2025-01-25,,,,,,False,False
+1086,Cloud Corp,wei.garcia@hotmail.com,4,active,2023-03-29,,,,,,False,False
+1087,Kite Group,steven.martinez@corp.net,5,active,2024-11-17,,,,,,False,False
+1088,CloudVentures,mei.garcia@company.io,3,active,2024-05-21,,,,,,False,False
+1089,LinkOps,aisha.williams@protonmail.com,4,cancelled,2024-01-21,2024-12-31,,,,,True,False
+1089,LinkOps,aisha.williams@protonmail.com,7,active,2024-12-31,,,,,,False,False
+1090,Acme Digital,matthew.martinez@corp.net,2,expired,2025-04-25,2025-08-10,,,,,True,False
+1090,Acme Digital,matthew.martinez@corp.net,5,cancelled,2025-08-10,2025-10-14,,,,,True,False
+1090,Acme Digital,matthew.martinez@corp.net,4,active,2025-10-14,,,,,,False,False
+1091,GlowVentures,paul.sanchez@glowventures.com,3,expired,2024-03-22,2024-07-06,,,,,True,False
+1091,GlowVentures,paul.sanchez@glowventures.com,4,cancelled,2024-07-06,2024-11-07,,,,,True,False
+1092,PulseStudio,sofia.wilson@hotmail.com,2,active,2024-02-22,,,,,,False,False
+1093,QuarkWorks,lars.santos@company.io,2,active,2023-10-13,,,,,,False,False
+1094,BeamWorks,Christopher.Moore@startup.co,1,cancelled,2024-04-26,2024-09-25,,,,,True,False
+1094,BeamWorks,Christopher.Moore@startup.co,4,active,2024-09-25,,,,,,False,False
+1095,Quark Group,aisha.williams@gmail.com,5,active,2024-04-17,,,,,,False,False
+1096,OnyxLogic,wei.wright@corp.net,3,active,2024-09-25,,,,,,False,False
+1097,LinkAnalytics,linda.davis@linkanalytics.com,5,active,2024-12-04,,,,,,False,False
+1098,SageLogic,robert.walker@gmail.com,3,active,2024-09-02,,,,,,False,False
+1099,NovaCorp,david.miller@company.io,1,active,2024-01-24,,,,,,False,False
+1100,Sync Logic,mei.chen@startup.co,5,active,2023-02-21,,,,,,False,False
+1101,FluxHub,mark.muller@hotmail.com,4,active,2024-06-02,,,,,,False,False
+1102,QuarkLogic,barbara.singh@quarklogic.com,2,active,2024-10-09,,,,,,False,False
+1103,Luna Systems,barbara.kim@enterprise.com,2,active,2024-04-30,,,,,,False,False
+1104,Luna Analytics,nancy.allen@tech.dev,2,cancelled,2023-03-03,2025-07-13,,,,,True,False
+1105,EchoNet,kenji.garcia@company.io,5,cancelled,2025-03-15,2025-06-06,,,,,True,False
+1105,EchoNet,kenji.garcia@company.io,4,active,2025-06-06,,,,,,False,False
+1106,ArcAnalytics,robert.martinez@gmail.com,1,cancelled,2023-09-15,2024-01-24,,,,,True,False
+1106,ArcAnalytics,robert.martinez@gmail.com,4,active,2024-01-24,,,,,,False,False
+1107,VertexPlatform,matthew.kim@company.io,5,cancelled,2024-10-12,2025-02-21,,,,,True,False
+1108,GlowWorks,patricia.williams@protonmail.com,1,active,2023-10-20,,,,,,False,False
+1109,Iris Group,ashley.baker@outlook.com,1,active,2025-07-11,,,,,,False,False
+1110,QuestCloud,Ashley.Hernandez@tech.dev,2,cancelled,2024-12-02,2025-01-29,,,,,True,False
+1111,EdgeGroup,thomas.perez@startup.co,4,cancelled,2025-03-22,2025-09-12,,,,,True,False
+1111,EdgeGroup,thomas.perez@startup.co,5,active,2025-09-12,,,,,,False,False
+1112,SyncDev,barbara.moore@company.io,3,expired,2024-03-13,2024-06-22,,,,,True,False
+1112,SyncDev,barbara.moore@company.io,1,cancelled,2024-06-22,2025-05-30,,,,,True,False
+1113,Rift Stack,wei.lee@yahoo.com,5,expired,2025-09-10,2025-11-09,,,,,True,False
+1113,Rift Stack,wei.lee@yahoo.com,2,paused,2025-11-09,,,,,,False,False
+1114,LinkDev,joshua.brown@enterprise.com,1,active,2023-05-17,,,,,,False,False
+1115,Flow Pro,matthew.rivera@hotmail.com,1,cancelled,2024-10-26,2025-02-06,,,,,True,False
+1115,Flow Pro,matthew.rivera@hotmail.com,6,active,2025-02-06,,,,,,False,False
+1116,Hub Stack,mary.sanchez@corp.net,1,active,2023-06-26,,,,,,False,False
+1117,Acme Labs,matthew.robinson@gmail.com,4,active,2024-10-08,,,,,,False,False
+1118,JadeCloud,jennifer.nguyen@enterprise.com,1,active,2025-03-12,,,,,,False,False
+1119,BoltHQ,nancy.ivanov@corp.net,1,cancelled,2025-05-04,2025-06-06,,,,,True,False
+1120,Acme Stack,kenji.garcia@hotmail.com,2,active,2023-01-02,,,,,,False,False
+1121,ZealGroup,nancy.singh@startup.co,4,expired,2023-10-29,2024-03-09,,,,,True,False
+1121,ZealGroup,nancy.singh@startup.co,7,active,2024-03-09,,,,,,False,False
+1122,KiteLogic,joseph.wright@kitelogic.com,3,expired,2024-06-25,2024-11-10,,,,,True,False
+1122,KiteLogic,joseph.wright@kitelogic.com,3,expired,2024-11-10,2025-05-14,,,,,True,False
+1122,KiteLogic,joseph.wright@kitelogic.com,5,active,2025-05-14,,,,,,False,False
+1123,IonLabs,priya.thompson@tech.dev,2,cancelled,2025-04-30,2025-06-29,,,,,True,False
+1123,IonLabs,priya.thompson@tech.dev,5,active,2025-06-29,,,,,,False,False
+1124,KeenStudio,nancy.perez@outlook.com,5,active,2024-04-12,,,,,,False,False
+1125,SyncLogic,paul.baker@yahoo.com,4,expired,2024-09-15,2025-06-11,,,,,True,False
+1125,SyncLogic,paul.baker@yahoo.com,3,active,2025-06-11,,,,,,False,False
+1126,Echo Works,mark.brown@protonmail.com,2,active,2024-01-11,,,,,,False,False
+1127,RiftCloud,charles.ramirez@riftcloud.com,1,active,2025-05-14,,,,,,False,False
+1128,Zen Platform,anthony.moore@hotmail.com,5,active,2023-10-13,,,,,,False,False
+1129,JadeGroup,james.brown@tech.dev,3,active,2024-12-06,,,,,,False,False
+1130,EdgeLogic,james.walker@tech.dev,4,active,2025-02-10,,,,,,False,False
+1131,Luna Corp,ahmed.white@lunacorp.com,2,expired,2024-08-06,2025-06-30,,,,,True,False
+1131,Luna Corp,ahmed.white@lunacorp.com,2,cancelled,2025-06-30,2024-10-09,,,,,True,False
+1132,Echo Analytics,jennifer.allen@company.io,2,cancelled,2023-08-21,2024-04-14,,,,,True,False
+1132,Echo Analytics,jennifer.allen@company.io,4,expired,2024-04-14,2024-12-19,,,,,True,False
+1132,Echo Analytics,jennifer.allen@company.io,3,active,2024-12-19,,,,,,False,False
+1133,HubCorp,steven.martinez@protonmail.com,3,active,2023-03-26,,,,,,False,False
+1134,CloudAnalytics,wei.flores@outlook.com,1,active,2023-10-31,,,,,,False,False
+1135,CoreAnalytics,lisa.martinez@protonmail.com,1,expired,2024-03-21,2025-02-07,,,,,True,False
+1135,CoreAnalytics,lisa.martinez@protonmail.com,1,cancelled,2025-02-07,2025-05-02,,,,,True,False
+1136,TidalDynamics,charles.tanaka@protonmail.com,2,active,2023-05-22,,,,,,False,False
+1137,UnitLabs,michael.williams@gmail.com,2,expired,2024-09-06,2024-11-21,,,,,True,False
+1137,UnitLabs,michael.williams@gmail.com,5,expired,2024-11-21,2025-05-27,,,,,True,False
+1137,UnitLabs,michael.williams@gmail.com,7,cancelled,2025-05-27,2025-04-05,,,,,True,False
+1138,Onyx Labs,nancy.anderson@protonmail.com,1,cancelled,2023-03-27,2023-08-26,,,,,True,False
+1138,Onyx Labs,nancy.anderson@protonmail.com,4,active,2023-08-26,,,,,,False,False
+1139,Hub Works,barbara.thompson@corp.net,2,active,2024-10-10,,,,,,False,False
+1140,WaveNet,mary.anderson@wavenet.com,1,active,2024-02-07,,,,,,False,False
+1141,NovaNet,daniel.rodriguez@novanet.com,3,paused,2024-09-18,,,,,,False,False
+1142,OrbitStack,paul.thompson@company.io,3,expired,2023-12-15,2024-09-08,,,,,True,False
+1142,OrbitStack,paul.thompson@company.io,5,cancelled,2024-09-08,2024-10-20,,,,,True,False
+1143,Bolt Logic,patricia.jones@enterprise.com,5,active,2025-03-07,,,,,,False,False
+1144,Zen IO,Lisa.Lee@company.io,3,cancelled,2023-03-16,2023-08-26,,,,,True,False
+1144,Zen IO,Lisa.Lee@company.io,4,expired,2023-08-26,2024-07-10,,,,,True,False
+1144,Zen IO,Lisa.Lee@company.io,5,active,2024-07-10,,,,,,False,False
+1145,QuarkDigital,sandra.wright@yahoo.com,4,active,2024-08-09,,,,,,False,False
+1146,Vine AI,anthony.santos@gmail.com,3,active,2025-09-09,,,,,,False,False
+1147,Hub Tech,joseph.muller@protonmail.com,3,active,2023-12-09,,,,,,False,False
+1148,KeenDynamics,ana.torres@corp.net,2,active,2025-02-28,,,,,,False,False
+1149,ArcOps,carlos.martinez@arcops.com,1,active,2024-04-18,,,,,,False,False
+1150,Wave Solutions,james.lopez@wavesolutions.com,2,expired,2025-03-25,2025-08-06,,,,,True,False
+1150,Wave Solutions,james.lopez@wavesolutions.com,2,cancelled,2025-08-06,2025-10-08,,,,,True,False
+1150,Wave Solutions,james.lopez@wavesolutions.com,6,active,2025-10-08,,,,,,False,False
+1151,WaveDev,olga.smith@wavedev.com,2,active,2023-04-25,,,,,,False,False
+1152,UnitVentures,carlos.walker@startup.co,2,active,2023-02-15,,,,,,False,False
+1153,MistDigital,hassan.allen@protonmail.com,1,cancelled,2024-11-04,2025-06-21,,,,,True,False
+1154,Nova Group,aisha.santos@novagroup.com,2,active,2023-04-01,,,,,,False,False
+1155,UnitDigital,linda.jones@company.io,3,cancelled,2024-12-28,2025-01-30,,,,,True,False
+1156,Ion Digital,daniel.rodriguez@company.io,1,active,2023-02-12,,,,,,False,False
+1157,AcmeOps,mei.hill@enterprise.com,6,active,2024-02-12,,,,,,False,False
+1158,ZealTech,jennifer.clark@outlook.com,4,cancelled,2024-01-23,2024-06-28,,,,,True,False
+1158,ZealTech,jennifer.clark@outlook.com,4,active,2024-06-28,,,,,,False,False
+1159,Vine Dynamics,donna.harris@outlook.com,2,cancelled,2023-07-27,2024-01-24,,,,,True,False
+1159,Vine Dynamics,donna.harris@outlook.com,3,active,2024-01-24,,,,,,False,False
+1160,Zen Digital,hassan.sanchez@corp.net,5,paused,2025-02-20,,,,,,False,False
+1161,ZenSoftware,yuki.anderson@protonmail.com,5,cancelled,2024-01-21,2024-07-16,,,,,True,False
+1162,Jet Analytics,wei.rodriguez@tech.dev,4,cancelled,2023-09-30,2024-03-20,,,,,True,False
+1162,Jet Analytics,wei.rodriguez@tech.dev,5,cancelled,2024-03-20,2024-12-15,,,,,True,False
+1162,Jet Analytics,wei.rodriguez@tech.dev,3,active,2024-12-15,,,,,,False,False
+1163,IrisPro,michael.chen@hotmail.com,4,active,2025-07-18,,,,,,False,False
+1164,Vertex Platform,christopher.robinson@company.io,2,active,2024-01-09,,,,,,False,False
+1165,Flow Net,dorothy.young@protonmail.com,2,active,2024-04-23,,,,,,False,False
+1166,FluxWorks,olga.tanaka@company.io,1,active,2024-01-05,,,,,,False,False
+1167,XenonLabs,lisa.santos@protonmail.com,2,active,2025-04-14,,,,,,False,False
+1168,ZenCloud,james.robinson@hotmail.com,3,expired,2025-01-04,2025-05-30,,,,,True,False
+1168,ZenCloud,james.robinson@hotmail.com,4,active,2025-05-30,,,,,,False,False
+1169,SyncAI,emily.gonzalez@startup.co,2,active,2023-11-05,,,,,,False,False
+1170,Rift Labs,fatima.patel@company.io,3,cancelled,2023-05-26,2023-11-13,,,,,True,False
+1170,Rift Labs,fatima.patel@company.io,3,expired,2023-11-13,2024-09-13,,,,,True,False
+1170,Rift Labs,fatima.patel@company.io,4,active,2024-09-13,,,,,,False,False
+1171,Kite Software,sarah.chen@tech.dev,1,active,2023-09-23,,,,,,False,False
+1172,RiftLabs,ahmed.ivanov@enterprise.com,4,active,2024-08-14,,,,,,False,False
+1173,PeakAI,sofia.martinez@peakai.com,5,active,2025-08-16,,,,,,False,False
+1174,TidalSolutions,Linda.Ramirez@corp.net,1,expired,2023-05-07,2023-09-01,,,,,True,False
+1174,TidalSolutions,Linda.Ramirez@corp.net,4,expired,2023-09-01,2024-01-16,,,,,True,False
+1174,TidalSolutions,Linda.Ramirez@corp.net,6,active,2024-01-16,,,,,,False,False
+1175,Nexus Studio,dorothy.singh@gmail.com,1,cancelled,2023-07-10,2024-06-19,,,,,True,False
+1175,Nexus Studio,dorothy.singh@gmail.com,3,cancelled,2024-06-19,2025-02-01,,,,,True,False
+1175,Nexus Studio,dorothy.singh@gmail.com,7,active,2025-02-01,,,,,,False,False
+1176,Xenon Group,fatima.wilson@yahoo.com,1,expired,2025-02-28,2025-05-03,,,,,True,False
+1176,Xenon Group,fatima.wilson@yahoo.com,1,cancelled,2025-05-03,2025-09-12,,,,,True,False
+1176,Xenon Group,fatima.wilson@yahoo.com,5,active,2025-09-12,,,,,,False,False
+1177,AcmeCloud,dmitri.muller@acmecloud.com,1,expired,2024-03-09,2024-06-03,,,,,True,False
+1177,AcmeCloud,dmitri.muller@acmecloud.com,3,expired,2024-06-03,2025-03-17,,,,,True,False
+1177,AcmeCloud,dmitri.muller@acmecloud.com,6,active,2025-03-17,,,,,,False,False
+1178,ZenTech,steven.lopez@outlook.com,1,cancelled,2025-04-06,2025-10-18,,,,,True,False
+1179,HubDigital,joseph.scott@yahoo.com,2,expired,2025-09-13,2025-11-13,,,,,True,False
+1179,HubDigital,joseph.scott@yahoo.com,5,active,2025-11-13,,,,,,False,False
+1180,Core Hub,susan.wilson@yahoo.com,1,active,2025-07-30,,,,,,False,False
+1181,QuestPro,fatima.green@company.io,2,cancelled,2024-01-22,2025-06-14,,,,,True,False
+1182,RushSystems,charles.anderson@outlook.com,2,cancelled,2023-11-28,2024-06-23,,,,,True,False
+1182,RushSystems,charles.anderson@outlook.com,2,cancelled,2024-06-23,2025-05-23,,,,,True,False
+1183,QuestAI,joseph.torres@company.io,5,active,2023-11-18,,,,,,False,False
+1184,Edge Solutions,robert.white@edgesolutions.com,2,active,2024-08-02,,,,,,False,False
+1185,LunaAI,mary.taylor@lunaai.com,3,active,2025-06-06,,,,,,False,False
+1186,Meta Ventures,margaret.flores@enterprise.com,3,active,2024-08-02,,,,,,False,False
+1187,Mist Hub,raj.harris+nimbus@corp.net,3,cancelled,2024-07-01,2024-09-17,,,,,True,False
+1187,Mist Hub,raj.harris+nimbus@corp.net,2,active,2024-09-17,,,,,,False,False
+1188,WavePlatform,fatima.torres@protonmail.com,3,cancelled,2024-09-09,2025-08-04,,,,,True,False
+1189,Cloud Solutions,Daniel.Santos@startup.co,5,active,2023-10-17,,,,,,False,False
+1190,Ion Corp,karen.martin@enterprise.com,6,active,2024-08-09,,,,,,False,False
+1191,WaveWorks,emily.chen@startup.co,2,active,2025-09-12,,,,,,False,False
+1192,LinkHQ,linda.hernandez@hotmail.com,2,active,2023-08-29,,,,,,False,False
+1193,KeenHub,anthony.nelson@company.io,1,cancelled,2025-06-14,2025-10-23,,,,,True,False
+1193,KeenHub,anthony.nelson@company.io,3,active,2025-10-23,,,,,,False,False
+1194,Edge Cloud,andrew.hill@hotmail.com,2,active,2025-08-25,,,,,,False,False
+1195,Link Works,joshua.patel@corp.net,1,active,2024-06-29,,,,,,False,False
+1196,Acme Hub,patricia.hall@gmail.com,1,cancelled,2023-11-05,2024-06-04,,,,,True,False
+1196,Acme Hub,patricia.hall@gmail.com,5,active,2024-06-04,,,,,,False,False
+1197,Cloud Cloud,ana.martin@corp.net,3,cancelled,2023-02-25,2024-02-18,,,,,True,False
+1197,Cloud Cloud,ana.martin@corp.net,2,active,2024-02-18,,,,,,False,False
+1198,NovaPro,kenji.thompson@hotmail.com,1,active,2023-12-12,,,,,,False,False
+1199,FlowVentures,nancy.scott@company.io,3,expired,2023-08-15,2024-05-26,,,,,True,False
+1199,FlowVentures,nancy.scott@company.io,3,cancelled,2024-05-26,2024-08-25,,,,,True,False
+1200,Arc Solutions,david.williams@enterprise.com,1,expired,2023-09-29,2024-03-03,,,,,True,False
+1200,Arc Solutions,david.williams@enterprise.com,5,cancelled,2024-03-03,2024-11-25,,,,,True,False
+1200,Arc Solutions,david.williams@enterprise.com,3,active,2024-11-25,,,,,,False,False
